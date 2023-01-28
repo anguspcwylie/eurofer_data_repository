@@ -1,0 +1,9 @@
+cd 'C:\Users\apcwy\Dropbox (The University of Manchester)\Physics PhD\Lab Work\Laser Flash Analysis\Dec 2021\thermal_histories'
+set yrange [0:650]
+set xrange [0:325]
+set xlabel "Time [minutes]" #offset 2,0
+set ylabel "Temperature [{\260}C]" offset 2,0
+set term png size 1000,1000 enhanced font "Times,28"
+set key bottom right
+set output 'LFA_vsTGS_thermal_history.png'
+plot 'LFA_thermal_history_BM_S2.txt' u 1:2 w l t 'Eurofer parent LFA' lc rgb "#ffa600" lw 3, 'LFA_thermal_history_FZ.txt' u 1:2 w l t 'Eurofer weld LFA' lc rgb "#ef5675" lw 3, 'TGS_parent.txt'  u 1:2 w l t 'Eurofer parent TGS' lc rgb "#7a5195" lw 3, 'TGS_weld.txt'  u 1:2 w l t 'Eurofer weld TGS' lc rgb "#003f5c" lw 3

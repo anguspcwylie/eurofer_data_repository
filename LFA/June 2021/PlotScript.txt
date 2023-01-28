@@ -1,0 +1,10 @@
+set yrange [3:12]
+set xrange [0:800] 
+#set logscale x 10
+set ylabel "Thermal Diffusivity [mm^2s^{-1}]" offset 2,0
+set xlabel "Temperature [{\260}C]" offset 2,0
+set term png size 2000,1000 enhanced font "Times,28"
+set output 'C:\Users\apcwy\Dropbox (The University of Manchester)\Physics PhD\Lab Work\Laser Flash Analysis\EuroferThreeLFAThermDiffPlot.png'
+#set output 'C:\Users\apcwy\Dropbox (The University of Manchester)\Physics PhD\Lab Work\Laser Flash Analysis\EuroferLFAThermDiffPlot.png'
+#plot 'C:\Users\apcwy\Dropbox (The University of Manchester)\Physics PhD\Lab Work\Laser Flash Analysis\EuroferLFAThermDiff.txt' using 1:3:4 with yerrorbars notitle linecolor rgb "#348feb" pointtype 7 pointsize 0.8 linewidth 3
+plot 'C:\Users\apcwy\Dropbox (The University of Manchester)\Physics PhD\Lab Work\Laser Flash Analysis\EuroferWeldLFAThermDiff.txt' using 1:3:4 with yerrorbars title 'Eurofer Weld' linecolor rgb "red" pointtype 7 pointsize 0.8 linewidth 3, 'C:\Users\apcwy\Dropbox (The University of Manchester)\Physics PhD\Lab Work\Laser Flash Analysis\EuroferLFAThermDiff.txt' using 1:3:4 with yerrorbars title 'Eurofer' linecolor rgb "#348feb" pointtype 7 pointsize 0.8 linewidth 3, 'C:\Users\apcwy\Dropbox (The University of Manchester)\Physics PhD\Lab Work\Laser Flash Analysis\MergiaFunc.txt' using 1:2 title 'Eurofer [Mergia et al.]' with lines linestyle 16

@@ -1,0 +1,12 @@
+cd 'C:\Users\apcwy\Dropbox (The University of Manchester)\Physics PhD\Lab Work\Laser Flash Analysis\Dec 2021'
+set yrange [-0.4:1]
+set xrange [0:450] 
+set xtics 100
+set ytics 0.4
+set xzeroaxis
+unset key
+set ylabel "Thermal Diffusivity Difference [mm^2s^{-1}]" offset 2,0
+set xlabel "Temperature [{\260}C]" offset 2,0
+set term png size 1000,1000 enhanced font "Times,28"
+set output 'Eurofer_TGS_LFA_diff_diff.png'
+plot 'DiffDiffTD_TGS_LFA.txt'  u 1:2:3 with yerrorbars t 'MIT Eurofer parent TGS' lc rgb "#003f5c" pt 10 ps 1.2 lw 3

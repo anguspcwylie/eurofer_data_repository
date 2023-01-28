@@ -1,0 +1,9 @@
+cd 'C:\Users\apcwy\Dropbox (The University of Manchester)\Physics PhD\Lab Work\Laser Flash Analysis\Dec 2021'
+set yrange [3:10]
+set xrange [0:800] 
+set ylabel "Thermal Diffusivity [mm^2s^{-1}]" offset 2,0
+set xlabel "Temperature [{\260}C]" offset 2,0
+set term png size 1000,1000 enhanced font "Times,28"
+set output 'EuroferLFA_RT_TGSThermDiffPlot.png'
+plot 'MergiaFunc.txt' using 1:2 title '[Mergia et al.] Eurofer parent LFA' with lines linestyle 16, 'EuroferWeldLFAThermDiff.txt' u 1:3:4 with yerrorbars t 'Eurofer weld LFA' lc rgb "#ffa600" pt 3 ps 1.2 lw 3, 'EuroferLFAThermDiffs2.txt' u 1:3:4 with yerrorbars t 'Eurofer parent LFA' lc rgb "#ff764a" pt 5 ps 1.2 lw 3, 'Oxford_TGS_TD_Fusion_zone_Eurofer.txt' u 1:2:3 with yerrorbars t 'Ox Eurofer weld TGS' lc rgb "#ef5675" pt 10 ps 1.2 lw 3, 'Oxford_TGS_TD_parent_Eurofer.txt' u 1:2:3 with yerrorbars t 'Ox Eurofer parent TGS' lc rgb "#bc5090" pt 7 ps 1.2 lw 3, 'MIT_TGS_TD_EFRW.txt'  u 1:($2*1E6):($3*1E6) with yerrorbars t 'MIT Eurofer weld TGS' lc rgb "#7a5195" pt 9 ps 1.2 lw 3, 'MIT_TGS_TD_EFR.txt'  u 1:($2*1E6):($3*1E6) with yerrorbars t 'MIT Eurofer parent TGS' lc rgb "#003f5c" pt 10 ps 1.2 lw 3
+# 'Dacus_500C_Eurofer.txt' u 1:($2*1E6):($3*1E6) with yerrorbars t 'Dacus 2021' lc rgb "#003f5c" pt 7 ps 1.2 lw 3,
