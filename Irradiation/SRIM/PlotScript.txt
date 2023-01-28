@@ -1,0 +1,19 @@
+cd 'C:\Users\apcwy\Dropbox (The University of Manchester)\Physics PhD\DCF\Jan 2020\SRIM_Calc'
+unset object
+unset arrow
+unset label
+set object 1 rect from 0,0 to 3,10 fc rgb "#444e86"
+set object 2 rect from 4.37,0 to 5,10 fc rgb "#dd5182"
+set object 3 rect from 3,0 to 4.37,10 fc rgb "#955196"
+set label 1 "TGS probe depth [[CHANGE PLS]]"  at 1.5, 2.5  front nopoint tc rgb "white" rotate left font "Times,28"
+set label 2 "XRD probe depth"  at 3.9, 2.5  front nopoint tc rgb "white" rotate left font "Times,28"
+set label 3 "Nanoindentation\n    probe depth"  at 7, 4.5  front nopoint tc rgb "black" font "Times,28"
+set arrow nohead from 7.3, 4.2 to 5,4
+set yrange [0:8]
+set ytics 1
+set ylabel "Damage [dpa]"
+set xrange [0:21] 
+set xlabel "Depth [µm]" offset 2,0
+set term png size 1000,1000 enhanced font "Times,28"
+set output '1.9MeVdpavsDepth.png'
+plot '1.9MeVdpa.txt' using 1:2 w l notitle lc rgb "#003f5c" lw 5
