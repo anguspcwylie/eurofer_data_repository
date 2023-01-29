@@ -1,0 +1,1706 @@
+(C)MWP mode is switched ON (version 201225).
+Computing the Fourier transform of the instrumental profiles... 
+Read 1507200 bytes of binary data from "November_2021/EFRW3/BM/EFRW3_BM-inst-gen-dat/0.dat.FT" for profile 0.
+Read 1892800 bytes of binary data from "November_2021/EFRW3/BM/EFRW3_BM-inst-gen-dat/1.dat.FT" for profile 1.
+Read 2188800 bytes of binary data from "November_2021/EFRW3/BM/EFRW3_BM-inst-gen-dat/2.dat.FT" for profile 2.
+Read 1652800 bytes of binary data from "November_2021/EFRW3/BM/EFRW3_BM-inst-gen-dat/3.dat.FT" for profile 3.
+Read 2668800 bytes of binary data from "November_2021/EFRW3/BM/EFRW3_BM-inst-gen-dat/4.dat.FT" for profile 4.
+done.
+Calling MC_fit.
+MC_fit number: 0
+MC_fit begin.
+Initial values of the parameters for Monte-Carlo scan:
+a		 = 1
+b		 = 800
+c		 = 1.5
+d		 = 5
+e		 = 1
+a_1		 = 1
+b_1		 = 1
+c_1		 = 1
+d_1		 = 1
+e_1		 = 1
+i_s0_0		 = 44.35
+i_s0_1		 = 81.95
+i_s0_2		 = 98.55
+i_s0_3		 = 64.7
+i_s0_4		 = 115.9
+i_max_0		 = 2104.2
+i_max_1		 = 279.64
+i_max_2		 = 133.61
+i_max_3		 = 119.87
+i_max_4		 = 83.753
+Number of physical parameters for Monte-Carlo scan: 10
+Starting Monte-Carlo algorithm:
+min./max. number of steps: 6000/15000, delta=0.4, n0: 2000, nmax: 5000, dbase=0.13572
+Warning: N1+N2>num_data, setting N1=N2=num_data/2=901.
+Initial WSSR=10117
+Step: 0/6000, delta=0.4, WSSR=10117, pstat: 0/1000     
+
+Initial step: 0/6000, WSSR=10117, delta(WSSR)/WSSR=-0
+Current parameter values:
+a		 = 1
+b		 = 800
+c		 = 1.5
+d		 = 5
+e		 = 1
+a_1		 = 1
+b_1		 = 1
+c_1		 = 1
+d_1		 = 1
+e_1		 = 1
+
+Step: 2/6000, delta=0.4, WSSR=19526, pstat: 0/1000     Step: 7/6000, delta=0.4, WSSR=10158, pstat: 0/1000     Step: 13/6000, delta=0.4, WSSR=9466.7, pstat: 1/1000     
+
+Step: 13/6000, delta=0.4, WSSR=9466.7, delta(WSSR)/WSSR=-0.064252
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 0.78759
+b		 = 797.87
+c		 = 1.4626
+d		 = 3.8391
+e		 = 0.99989
+a_1		 = 1.001
+b_1		 = 1.0086
+c_1		 = 0.90837
+d_1		 = 1.0062
+e_1		 = 1.2227
+
+Step: 15/6000, delta=0.4, WSSR=7512, pstat: 0/1000     
+
+Step: 15/6000, delta=0.4, WSSR=7512, delta(WSSR)/WSSR=-0.20648
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9278
+b		 = 758.35
+c		 = 0.89082
+d		 = 4.5018
+e		 = 0.99397
+a_1		 = 0.24778
+b_1		 = 0.82625
+c_1		 = 0.63823
+d_1		 = 1.2967
+e_1		 = 1.2924
+
+Step: 18/6000, delta=0.4, WSSR=7485.4, pstat: 0/1000     
+
+Step: 18/6000, delta=0.4, WSSR=7485.4, delta(WSSR)/WSSR=-0.0035365
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9263
+b		 = 757.51
+c		 = 1.1332
+d		 = 4.5014
+e		 = 0.97137
+a_1		 = 0.046569
+b_1		 = 0.84537
+c_1		 = 0.63733
+d_1		 = 1.2863
+e_1		 = 1.3043
+
+Step: 19/6000, delta=0.4, WSSR=8438.2, pstat: 0/1000     Step: 21/6000, delta=0.4, WSSR=7482.6, pstat: 0/1000     
+
+Step: 21/6000, delta=0.4, WSSR=7482.6, delta(WSSR)/WSSR=-0.00037321
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9151
+b		 = 911.3
+c		 = 1.2404
+d		 = 4.4732
+e		 = 0.96452
+a_1		 = -1.7595
+b_1		 = 0.86448
+c_1		 = 0.46741
+d_1		 = 1.2865
+e_1		 = 0.93851
+
+Step: 24/6000, delta=0.4, WSSR=7470.2, pstat: 0/1000     
+
+Step: 24/6000, delta=0.4, WSSR=7470.2, delta(WSSR)/WSSR=-0.0016636
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9151
+b		 = 844.4
+c		 = 1.2684
+d		 = 4.3766
+e		 = 0.96683
+a_1		 = -3.9818
+b_1		 = 0.86344
+c_1		 = 0.45205
+d_1		 = 1.0691
+e_1		 = 1.2484
+
+Step: 25/6000, delta=0.4, WSSR=7599.4, pstat: 0/1000     Step: 26/6000, delta=0.4, WSSR=7509.3, pstat: 1/1000     Step: 31/6000, delta=0.4, WSSR=7318.6, pstat: 2/1000     
+
+Step: 31/6000, delta=0.4, WSSR=7318.6, delta(WSSR)/WSSR=-0.020294
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.915
+b		 = 863.12
+c		 = 1.2281
+d		 = 3.2061
+e		 = 0.93096
+a_1		 = -3.8328
+b_1		 = 0.65816
+c_1		 = 0.45531
+d_1		 = 1.178
+e_1		 = 1.2456
+
+Step: 33/6000, delta=0.4, WSSR=7824.8, pstat: 0/1000     Step: 34/6000, delta=0.4, WSSR=10128, pstat: 0/1000     Step: 35/6000, delta=0.4, WSSR=7326.2, pstat: 0/1000     Step: 40/6000, delta=0.4, WSSR=8728.1, pstat: 1/1000     Step: 41/6000, delta=0.4, WSSR=7276.5, pstat: 1/1000     
+
+Step: 41/6000, delta=0.4, WSSR=7276.5, delta(WSSR)/WSSR=-0.0057516
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.7522
+b		 = 886.03
+c		 = 1.1551
+d		 = 2.0219
+e		 = 0.96546
+a_1		 = -3.2457
+b_1		 = 0.59727
+c_1		 = 0.45772
+d_1		 = 1.2547
+e_1		 = 1.1949
+
+Step: 45/6000, delta=0.4, WSSR=7229.5, pstat: 0/1000     
+
+Step: 45/6000, delta=0.4, WSSR=7229.5, delta(WSSR)/WSSR=-0.0064657
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9148
+b		 = 909.21
+c		 = 1.1851
+d		 = 2.7465
+e		 = 0.72368
+a_1		 = -3.2383
+b_1		 = 0.36766
+c_1		 = 0.41831
+d_1		 = 0.89732
+e_1		 = 1.0508
+
+Step: 46/6000, delta=0.4, WSSR=7235.3, pstat: 0/1000     Step: 48/6000, delta=0.4, WSSR=8136.1, pstat: 1/1000     Step: 55/6000, delta=0.4, WSSR=8703, pstat: 1/1000     Step: 56/6000, delta=0.4, WSSR=7305.8, pstat: 1/1000     Step: 58/6000, delta=0.4, WSSR=7209.7, pstat: 2/1000     
+
+Step: 58/6000, delta=0.4, WSSR=7209.7, delta(WSSR)/WSSR=-0.0027373
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9139
+b		 = 909.21
+c		 = 1.1208
+d		 = 2.8223
+e		 = 0.62525
+a_1		 = -3.2383
+b_1		 = 0.3672
+c_1		 = 0.54847
+d_1		 = 0.95377
+e_1		 = 0.78622
+
+Step: 59/6000, delta=0.4, WSSR=7194.1, pstat: 0/1000     
+
+Step: 59/6000, delta=0.4, WSSR=7194.1, delta(WSSR)/WSSR=-0.0021599
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.7804
+b		 = 861.66
+c		 = 1.1127
+d		 = 2.8121
+e		 = 0.46553
+a_1		 = -3.4936
+b_1		 = 0.50835
+c_1		 = 0.52263
+d_1		 = 0.80125
+e_1		 = 0.60316
+
+Step: 60/6000, delta=0.4, WSSR=7251, pstat: 0/1000     Step: 61/6000, delta=0.4, WSSR=7196.3, pstat: 1/1000     Step: 62/6000, delta=0.4, WSSR=9313.9, pstat: 2/1000     Step: 65/6000, delta=0.4, WSSR=7201.7, pstat: 2/1000     Step: 70/6000, delta=0.4, WSSR=9436.2, pstat: 3/1000     Step: 72/6000, delta=0.4, WSSR=9101.1, pstat: 3/1000     Step: 74/6000, delta=0.4, WSSR=7178.3, pstat: 3/1000     
+
+Step: 74/6000, delta=0.4, WSSR=7178.3, delta(WSSR)/WSSR=-0.0021973
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.7804
+b		 = 844.1
+c		 = 1.3316
+d		 = 2.8054
+e		 = 0.42175
+a_1		 = -2.4326
+b_1		 = 0.51024
+c_1		 = 0.5929
+d_1		 = 0.61035
+e_1		 = 0.40147
+
+Step: 75/6000, delta=0.4, WSSR=7197.4, pstat: 0/1000     Step: 77/6000, delta=0.4, WSSR=8763.6, pstat: 1/1000     Step: 79/6000, delta=0.4, WSSR=7169.7, pstat: 1/1000     
+
+Step: 79/6000, delta=0.4, WSSR=7169.7, delta(WSSR)/WSSR=-0.0011917
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.7346
+b		 = 824.63
+c		 = 1.3349
+d		 = 2.6334
+e		 = 0.36667
+a_1		 = -2.4333
+b_1		 = 0.43196
+c_1		 = 0.70114
+d_1		 = 0.62652
+e_1		 = 0.37865
+
+Step: 80/6000, delta=0.4, WSSR=7343.1, pstat: 0/1000     Step: 81/6000, delta=0.4, WSSR=7338.2, pstat: 1/1000     Step: 82/6000, delta=0.4, WSSR=7431.5, pstat: 2/1000     Step: 84/6000, delta=0.4, WSSR=7931.4, pstat: 2/1000     Step: 85/6000, delta=0.4, WSSR=7178.5, pstat: 2/1000     Step: 86/6000, delta=0.4, WSSR=7154.7, pstat: 3/1000     
+
+Step: 86/6000, delta=0.4, WSSR=7154.7, delta(WSSR)/WSSR=-0.0020988
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.7776
+b		 = 877.49
+c		 = 1.3418
+d		 = 2.4165
+e		 = 0.23642
+a_1		 = -2.4343
+b_1		 = 0.43117
+c_1		 = 0.56907
+d_1		 = 0.45166
+e_1		 = 0.23633
+
+Step: 88/6000, delta=0.4, WSSR=7430.5, pstat: 0/1000     Step: 89/6000, delta=0.4, WSSR=8005.4, pstat: 0/1000     Step: 93/6000, delta=0.4, WSSR=7169.5, pstat: 0/1000     Step: 95/6000, delta=0.4, WSSR=7432, pstat: 1/1000     Step: 96/6000, delta=0.4, WSSR=7169, pstat: 1/1000     Step: 99/6000, delta=0.4, WSSR=7184.5, pstat: 2/1000     Step: 101/6000, delta=0.4, WSSR=7159.8, pstat: 3/1000     Step: 102/6000, delta=0.4, WSSR=7457, pstat: 4/1000     Step: 107/6000, delta=0.4, WSSR=7201, pstat: 4/1000     Step: 111/6000, delta=0.4, WSSR=7134.1, pstat: 5/1000     
+
+Step: 111/6000, delta=0.4, WSSR=7134.1, delta(WSSR)/WSSR=-0.0028752
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.7806
+b		 = 817.29
+c		 = 1.329
+d		 = 3.2665
+e		 = 0.2367
+a_1		 = -5.3476
+b_1		 = 0.43019
+c_1		 = 0.55127
+d_1		 = 0.32028
+e_1		 = 0.23634
+
+Step: 112/6000, delta=0.4, WSSR=7188.7, pstat: 0/1000     Step: 116/6000, delta=0.4, WSSR=7256.8, pstat: 1/1000     Step: 117/6000, delta=0.4, WSSR=7451.1, pstat: 2/1000     Step: 118/6000, delta=0.4, WSSR=7155.2, pstat: 2/1000     Step: 119/6000, delta=0.4, WSSR=7120.9, pstat: 3/1000     
+
+Step: 119/6000, delta=0.4, WSSR=7120.9, delta(WSSR)/WSSR=-0.001847
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.7899
+b		 = 700.92
+c		 = 1.3502
+d		 = 3.9035
+e		 = 0.20851
+a_1		 = -6.3567
+b_1		 = 0.42909
+c_1		 = 0.3501
+d_1		 = 0.25331
+e_1		 = 0.23866
+
+Step: 120/6000, delta=0.4, WSSR=7166.2, pstat: 0/1000     Step: 121/6000, delta=0.4, WSSR=7125.4, pstat: 1/1000     Step: 124/6000, delta=0.4, WSSR=7692.2, pstat: 2/1000     Step: 125/6000, delta=0.4, WSSR=7134, pstat: 2/1000     Step: 127/6000, delta=0.4, WSSR=7400.1, pstat: 3/1000     Step: 129/6000, delta=0.4, WSSR=7145.4, pstat: 3/1000     Step: 130/6000, delta=0.4, WSSR=7283.3, pstat: 4/1000     Step: 132/6000, delta=0.4, WSSR=7261, pstat: 5/1000     Step: 135/6000, delta=0.4, WSSR=8619.4, pstat: 6/1000     Step: 138/6000, delta=0.4, WSSR=7119.1, pstat: 6/1000     
+
+Step: 138/6000, delta=0.4, WSSR=7119.1, delta(WSSR)/WSSR=-0.00026359
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.7744
+b		 = 449.42
+c		 = 1.3747
+d		 = 4.1907
+e		 = 0.2126
+a_1		 = -6.3059
+b_1		 = 0.39314
+c_1		 = 0.38282
+d_1		 = 0.23413
+e_1		 = 0.22246
+
+Step: 139/6000, delta=0.4, WSSR=7128.8, pstat: 0/1000     Step: 140/6000, delta=0.4, WSSR=7107, pstat: 1/1000     
+
+Step: 140/6000, delta=0.4, WSSR=7107, delta(WSSR)/WSSR=-0.001693
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9729
+b		 = 545.18
+c		 = 1.2267
+d		 = 4.1973
+e		 = 0.21707
+a_1		 = -6.2981
+b_1		 = 0.53024
+c_1		 = 0.38357
+d_1		 = 0.32715
+e_1		 = 0.2863
+
+Step: 145/6000, delta=0.4, WSSR=7133.4, pstat: 0/1000     Step: 146/6000, delta=0.4, WSSR=7360.1, pstat: 1/1000     Step: 149/6000, delta=0.4, WSSR=7118.8, pstat: 1/1000     Step: 151/6000, delta=0.4, WSSR=7257.1, pstat: 2/1000     Step: 153/6000, delta=0.4, WSSR=8447.4, pstat: 3/1000     Step: 156/6000, delta=0.4, WSSR=7115.8, pstat: 3/1000     Step: 157/6000, delta=0.4, WSSR=7163.8, pstat: 4/1000     Step: 159/6000, delta=0.4, WSSR=7114.3, pstat: 5/1000     Step: 162/6000, delta=0.4, WSSR=7100.9, pstat: 6/1000     
+
+Step: 162/6000, delta=0.4, WSSR=7100.9, delta(WSSR)/WSSR=-0.00085448
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9656
+b		 = 644.08
+c		 = 1.2131
+d		 = 4.6514
+e		 = 0.21542
+a_1		 = -5.8596
+b_1		 = 0.53321
+c_1		 = 0.38599
+d_1		 = 0.33529
+e_1		 = 0.25438
+
+Step: 165/6000, delta=0.4, WSSR=9175.8, pstat: 0/1000     Step: 171/6000, delta=0.4, WSSR=7371, pstat: 0/1000     Step: 173/6000, delta=0.4, WSSR=7125.5, pstat: 0/1000     Step: 176/6000, delta=0.4, WSSR=7186.4, pstat: 1/1000     Step: 179/6000, delta=0.4, WSSR=7691.8, pstat: 2/1000     Step: 180/6000, delta=0.4, WSSR=7404.3, pstat: 2/1000     Step: 182/6000, delta=0.4, WSSR=7097.1, pstat: 2/1000     
+
+Step: 182/6000, delta=0.4, WSSR=7097.1, delta(WSSR)/WSSR=-0.00054138
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9682
+b		 = 602.58
+c		 = 1.2145
+d		 = 5.067
+e		 = 0.21954
+a_1		 = -4.815
+b_1		 = 0.60574
+c_1		 = 0.3858
+d_1		 = 0.44536
+e_1		 = 0.25431
+
+Step: 183/6000, delta=0.4, WSSR=7173.6, pstat: 0/1000     Step: 184/6000, delta=0.4, WSSR=7122.3, pstat: 1/1000     Step: 185/6000, delta=0.4, WSSR=7108.2, pstat: 2/1000     Step: 187/6000, delta=0.4, WSSR=7123.5, pstat: 3/1000     Step: 188/6000, delta=0.4, WSSR=7096.9, pstat: 4/1000     
+
+Step: 188/6000, delta=0.4, WSSR=7096.9, delta(WSSR)/WSSR=-2.9238e-05
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9651
+b		 = 595.2
+c		 = 1.2022
+d		 = 5.1599
+e		 = 0.21951
+a_1		 = -6.6012
+b_1		 = 0.6068
+c_1		 = 0.3858
+d_1		 = 0.44548
+e_1		 = 0.31929
+
+Step: 189/6000, delta=0.4, WSSR=7094.3, pstat: 0/1000     
+
+Step: 189/6000, delta=0.4, WSSR=7094.3, delta(WSSR)/WSSR=-0.00035802
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9664
+b		 = 595.22
+c		 = 1.2022
+d		 = 5.2981
+e		 = 0.21107
+a_1		 = -7.4374
+b_1		 = 0.84454
+c_1		 = 0.36233
+d_1		 = 0.44601
+e_1		 = 0.32095
+
+Step: 192/6000, delta=0.4, WSSR=7099.3, pstat: 0/1000     Step: 193/6000, delta=0.4, WSSR=7210.7, pstat: 1/1000     Step: 195/6000, delta=0.4, WSSR=8103.9, pstat: 2/1000     Step: 197/6000, delta=0.4, WSSR=7100.7, pstat: 2/1000     Step: 198/6000, delta=0.4, WSSR=7125.7, pstat: 3/1000     Step: 200/6000, delta=0.4, WSSR=7260, pstat: 4/1000     Step: 204/6000, delta=0.4, WSSR=7240.4, pstat: 5/1000     Step: 205/6000, delta=0.4, WSSR=7100, pstat: 6/1000     Step: 207/6000, delta=0.4, WSSR=7126.1, pstat: 7/1000     Step: 209/6000, delta=0.4, WSSR=7097.3, pstat: 8/1000     Step: 212/6000, delta=0.4, WSSR=7103.2, pstat: 9/1000     Step: 213/6000, delta=0.4, WSSR=9501.8, pstat: 10/1000     Step: 214/6000, delta=0.4, WSSR=7084.6, pstat: 10/1000     
+
+Step: 214/6000, delta=0.4, WSSR=7084.6, delta(WSSR)/WSSR=-0.001375
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.8165
+b		 = 815.5
+c		 = 1.2023
+d		 = 7.2524
+e		 = 0.1497
+a_1		 = -7.4374
+b_1		 = 0.8577
+c_1		 = 0.37427
+d_1		 = 0.44611
+e_1		 = 0.25725
+
+Step: 216/6000, delta=0.4, WSSR=7130.7, pstat: 0/1000     Step: 219/6000, delta=0.4, WSSR=8133.5, pstat: 1/1000     Step: 220/6000, delta=0.4, WSSR=7083.7, pstat: 1/1000     
+
+Step: 220/6000, delta=0.4, WSSR=7083.7, delta(WSSR)/WSSR=-0.00012099
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.8252
+b		 = 645.04
+c		 = 1.2537
+d		 = 7.2585
+e		 = 0.14997
+a_1		 = -6.9477
+b_1		 = 0.86232
+c_1		 = 0.37472
+d_1		 = 0.46008
+e_1		 = 0.2562
+
+Step: 221/6000, delta=0.4, WSSR=7760.8, pstat: 0/1000     Step: 222/6000, delta=0.4, WSSR=7210.5, pstat: 0/1000     Step: 223/6000, delta=0.4, WSSR=7395.8, pstat: 1/1000     Step: 227/6000, delta=0.4, WSSR=7103.2, pstat: 1/1000     Step: 229/6000, delta=0.4, WSSR=7129.2, pstat: 2/1000     Step: 236/6000, delta=0.4, WSSR=7084.6, pstat: 3/1000     Step: 240/6000, delta=0.4, WSSR=7125.3, pstat: 4/1000     Step: 243/6000, delta=0.4, WSSR=8061, pstat: 5/1000     Step: 245/6000, delta=0.4, WSSR=7847.4, pstat: 5/1000     Step: 251/6000, delta=0.4, WSSR=7083.3, pstat: 5/1000     
+
+Step: 251/6000, delta=0.4, WSSR=7083.3, delta(WSSR)/WSSR=-5.8222e-05
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.8202
+b		 = 604.87
+c		 = 1.2774
+d		 = 7.3941
+e		 = 0.14992
+a_1		 = -6.8846
+b_1		 = 0.77695
+c_1		 = 0.39323
+d_1		 = 0.45951
+e_1		 = 0.25691
+
+Step: 253/6000, delta=0.4, WSSR=7231.9, pstat: 0/1000     Step: 254/6000, delta=0.4, WSSR=7091.1, pstat: 1/1000     Step: 255/6000, delta=0.4, WSSR=7082.8, pstat: 2/1000     
+
+Step: 255/6000, delta=0.4, WSSR=7082.8, delta(WSSR)/WSSR=-7.5781e-05
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.8524
+b		 = 659.97
+c		 = 1.2818
+d		 = 7.0085
+e		 = 0.14929
+a_1		 = -6.6196
+b_1		 = 0.77678
+c_1		 = 0.39092
+d_1		 = 0.44374
+e_1		 = 0.26528
+
+Step: 256/6000, delta=0.4, WSSR=7643.5, pstat: 0/1000     Step: 257/6000, delta=0.4, WSSR=7093.9, pstat: 0/1000     Step: 258/6000, delta=0.4, WSSR=7784.9, pstat: 1/1000     Step: 259/6000, delta=0.4, WSSR=7870.1, pstat: 1/1000     Step: 260/6000, delta=0.4, WSSR=7306, pstat: 1/1000     Step: 262/6000, delta=0.4, WSSR=7080.4, pstat: 2/1000     
+
+Step: 262/6000, delta=0.4, WSSR=7080.4, delta(WSSR)/WSSR=-0.00033226
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.8464
+b		 = 659.97
+c		 = 1.4133
+d		 = 7.3259
+e		 = 0.15032
+a_1		 = -6.6211
+b_1		 = 0.80207
+c_1		 = 0.39134
+d_1		 = 0.44374
+e_1		 = 0.2656
+
+Step: 264/6000, delta=0.4, WSSR=7441.4, pstat: 0/1000     Step: 266/6000, delta=0.4, WSSR=7075.6, pstat: 0/1000     
+
+Step: 266/6000, delta=0.4, WSSR=7075.6, delta(WSSR)/WSSR=-0.0006852
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9299
+b		 = 659.95
+c		 = 1.4091
+d		 = 7.3278
+e		 = 0.16306
+a_1		 = -6.621
+b_1		 = 0.66993
+c_1		 = 0.39134
+d_1		 = 0.36817
+e_1		 = 0.36989
+
+Step: 271/6000, delta=0.4, WSSR=7073, pstat: 0/1000     
+
+Step: 271/6000, delta=0.4, WSSR=7073, delta(WSSR)/WSSR=-0.00035954
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9596
+b		 = 668.05
+c		 = 1.4091
+d		 = 7.5786
+e		 = 0.16904
+a_1		 = -6.6043
+b_1		 = 0.60514
+c_1		 = 0.40487
+d_1		 = 0.47259
+e_1		 = 0.38095
+
+Step: 273/6000, delta=0.4, WSSR=7096.1, pstat: 0/1000     Step: 274/6000, delta=0.4, WSSR=7123.5, pstat: 1/1000     Step: 277/6000, delta=0.4, WSSR=8963.4, pstat: 2/1000     Step: 279/6000, delta=0.4, WSSR=7370.4, pstat: 2/1000     Step: 281/6000, delta=0.4, WSSR=7102.3, pstat: 2/1000     Step: 282/6000, delta=0.4, WSSR=7338.7, pstat: 3/1000     Step: 284/6000, delta=0.4, WSSR=7169.9, pstat: 3/1000     Step: 285/6000, delta=0.4, WSSR=7085.3, pstat: 4/1000     Step: 286/6000, delta=0.4, WSSR=7062.7, pstat: 5/1000     
+
+Step: 286/6000, delta=0.4, WSSR=7062.7, delta(WSSR)/WSSR=-0.0014643
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9521
+b		 = 668.05
+c		 = 1.4816
+d		 = 10.044
+e		 = 0.14509
+a_1		 = -7.1708
+b_1		 = 0.60532
+c_1		 = 0.3343
+d_1		 = 0.45753
+e_1		 = 0.38095
+
+Step: 289/6000, delta=0.4, WSSR=7072.6, pstat: 0/1000     Step: 290/6000, delta=0.4, WSSR=7760.6, pstat: 1/1000     Step: 292/6000, delta=0.4, WSSR=8422.5, pstat: 1/1000     Step: 293/6000, delta=0.4, WSSR=7096.4, pstat: 1/1000     Step: 295/6000, delta=0.4, WSSR=7087.7, pstat: 2/1000     Step: 296/6000, delta=0.4, WSSR=7081.9, pstat: 3/1000     Step: 297/6000, delta=0.4, WSSR=7062.9, pstat: 4/1000     Step: 298/6000, delta=0.4, WSSR=7096.1, pstat: 5/1000     Step: 304/6000, delta=0.4, WSSR=7411.2, pstat: 6/1000     Step: 305/6000, delta=0.4, WSSR=7063.4, pstat: 6/1000     Step: 311/6000, delta=0.4, WSSR=7073.5, pstat: 7/1000     Step: 312/6000, delta=0.4, WSSR=7591, pstat: 8/1000     Step: 314/6000, delta=0.4, WSSR=7071.4, pstat: 8/1000     Step: 315/6000, delta=0.4, WSSR=8643.8, pstat: 9/1000     Step: 316/6000, delta=0.4, WSSR=7158.9, pstat: 9/1000     Step: 321/6000, delta=0.4, WSSR=7111, pstat: 10/1000     Step: 325/6000, delta=0.4, WSSR=7065.4, pstat: 11/1000     Step: 326/6000, delta=0.4, WSSR=7070.8, pstat: 12/1000     Step: 328/6000, delta=0.4, WSSR=7252.8, pstat: 13/1000     Step: 331/6000, delta=0.4, WSSR=7592.1, pstat: 14/1000     Step: 332/6000, delta=0.4, WSSR=7162.7, pstat: 14/1000     Step: 335/6000, delta=0.4, WSSR=7585.6, pstat: 15/1000     Step: 337/6000, delta=0.4, WSSR=10704, pstat: 15/1000     Step: 338/6000, delta=0.4, WSSR=7690.1, pstat: 15/1000     Step: 339/6000, delta=0.4, WSSR=8440.3, pstat: 15/1000     Step: 340/6000, delta=0.4, WSSR=7087.7, pstat: 15/1000     Step: 341/6000, delta=0.4, WSSR=7124.5, pstat: 16/1000     Step: 343/6000, delta=0.4, WSSR=7204, pstat: 17/1000     Step: 347/6000, delta=0.4, WSSR=7078.2, pstat: 18/1000     Step: 350/6000, delta=0.4, WSSR=7058.5, pstat: 19/1000     
+
+Step: 350/6000, delta=0.4, WSSR=7058.5, delta(WSSR)/WSSR=-0.00058656
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9985
+b		 = 874.37
+c		 = 1.381
+d		 = 10.46
+e		 = 0.10167
+a_1		 = -7.7071
+b_1		 = 0.43635
+c_1		 = 0.28407
+d_1		 = 0.45753
+e_1		 = 0.38085
+
+Step: 351/6000, delta=0.4, WSSR=7230.4, pstat: 0/1000     Step: 352/6000, delta=0.4, WSSR=7127, pstat: 1/1000     Step: 356/6000, delta=0.4, WSSR=9806.5, pstat: 2/1000     Step: 361/6000, delta=0.4, WSSR=7053.9, pstat: 2/1000     
+
+Step: 361/6000, delta=0.4, WSSR=7053.9, delta(WSSR)/WSSR=-0.00065301
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9395
+b		 = 989.33
+c		 = 1.334
+d		 = 13.671
+e		 = 0.11449
+a_1		 = -7.2729
+b_1		 = 0.40224
+c_1		 = 0.18849
+d_1		 = 0.39483
+e_1		 = 0.38091
+
+Step: 363/6000, delta=0.4, WSSR=7290.4, pstat: 0/1000     Step: 364/6000, delta=0.4, WSSR=7100.7, pstat: 1/1000     Step: 366/6000, delta=0.4, WSSR=7247.6, pstat: 2/1000     Step: 367/6000, delta=0.4, WSSR=7052.2, pstat: 3/1000     
+
+Step: 367/6000, delta=0.4, WSSR=7052.2, delta(WSSR)/WSSR=-0.00024592
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.8948
+b		 = 989.33
+c		 = 1.3242
+d		 = 13.662
+e		 = 0.086464
+a_1		 = -7.2725
+b_1		 = 0.39557
+c_1		 = 0.18853
+d_1		 = 0.48505
+e_1		 = 0.35948
+
+Step: 369/6000, delta=0.4, WSSR=7060.4, pstat: 0/1000     Step: 372/6000, delta=0.4, WSSR=7066.6, pstat: 1/1000     Step: 383/6000, delta=0.4, WSSR=7114.6, pstat: 2/1000     Step: 386/6000, delta=0.4, WSSR=7048.8, pstat: 3/1000     
+
+Step: 386/6000, delta=0.4, WSSR=7048.8, delta(WSSR)/WSSR=-0.00047946
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9214
+b		 = 623.7
+c		 = 1.3248
+d		 = 17.775
+e		 = 0.055646
+a_1		 = -7.2635
+b_1		 = 0.39557
+c_1		 = 0.18052
+d_1		 = 0.483
+e_1		 = 0.50105
+
+Step: 387/6000, delta=0.4, WSSR=7149.9, pstat: 0/1000     Step: 397/6000, delta=0.4, WSSR=8283.8, pstat: 1/1000     Step: 398/6000, delta=0.4, WSSR=9098.8, pstat: 1/1000     Step: 399/6000, delta=0.4, WSSR=7098.7, pstat: 1/1000     Step: 401/6000, delta=0.4, WSSR=7064.3, pstat: 2/1000     Step: 403/6000, delta=0.4, WSSR=7236, pstat: 3/1000     Step: 404/6000, delta=0.4, WSSR=7059.1, pstat: 4/1000     Step: 405/6000, delta=0.4, WSSR=7043.3, pstat: 5/1000     
+
+Step: 405/6000, delta=0.4, WSSR=7043.3, delta(WSSR)/WSSR=-0.00078772
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9766
+b		 = 624.8
+c		 = 1.357
+d		 = 21.98
+e		 = 0.07787
+a_1		 = -7.2521
+b_1		 = 0.34659
+c_1		 = 0.17688
+d_1		 = 0.46545
+e_1		 = 0.49366
+
+Step: 407/6000, delta=0.4, WSSR=7574.1, pstat: 0/1000     Step: 410/6000, delta=0.4, WSSR=7049.8, pstat: 0/1000     Step: 411/6000, delta=0.4, WSSR=8112.1, pstat: 1/1000     Step: 414/6000, delta=0.4, WSSR=7625.4, pstat: 1/1000     Step: 417/6000, delta=0.4, WSSR=7085.3, pstat: 1/1000     Step: 422/6000, delta=0.4, WSSR=7107, pstat: 2/1000     Step: 423/6000, delta=0.4, WSSR=7096.5, pstat: 3/1000     Step: 427/6000, delta=0.4, WSSR=8269.3, pstat: 4/1000     Step: 428/6000, delta=0.4, WSSR=7056.1, pstat: 4/1000     Step: 430/6000, delta=0.4, WSSR=7043.1, pstat: 5/1000     
+
+Step: 430/6000, delta=0.4, WSSR=7043.1, delta(WSSR)/WSSR=-1.7772e-05
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9908
+b		 = 609.35
+c		 = 1.3123
+d		 = 22.33
+e		 = 0.078139
+a_1		 = -7.163
+b_1		 = 0.47846
+c_1		 = 0.17688
+d_1		 = 0.42255
+e_1		 = 0.47509
+
+Step: 432/6000, delta=0.4, WSSR=7058, pstat: 0/1000     Step: 433/6000, delta=0.4, WSSR=7383.1, pstat: 1/1000     Step: 438/6000, delta=0.4, WSSR=7054.4, pstat: 1/1000     Step: 440/6000, delta=0.4, WSSR=8714, pstat: 2/1000     Step: 441/6000, delta=0.4, WSSR=7140.7, pstat: 2/1000     Step: 442/6000, delta=0.4, WSSR=10942, pstat: 3/1000     Step: 443/6000, delta=0.4, WSSR=7038.9, pstat: 3/1000     
+
+Step: 443/6000, delta=0.4, WSSR=7038.9, delta(WSSR)/WSSR=-0.00060317
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.999
+b		 = 546.25
+c		 = 1.4211
+d		 = 21.239
+e		 = 0.078334
+a_1		 = -7.159
+b_1		 = 0.42075
+c_1		 = 0.11245
+d_1		 = 0.3527
+e_1		 = 0.36276
+
+Step: 444/6000, delta=0.4, WSSR=7053.7, pstat: 0/1000     Step: 446/6000, delta=0.4, WSSR=7041.1, pstat: 1/1000     Step: 452/6000, delta=0.4, WSSR=7042.1, pstat: 2/1000     Step: 453/6000, delta=0.4, WSSR=7992, pstat: 3/1000     Step: 459/6000, delta=0.4, WSSR=7049.1, pstat: 3/1000     Step: 460/6000, delta=0.4, WSSR=7050.2, pstat: 4/1000     Step: 461/6000, delta=0.4, WSSR=7036.3, pstat: 5/1000     
+
+Step: 461/6000, delta=0.4, WSSR=7036.3, delta(WSSR)/WSSR=-0.00036898
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9988
+b		 = 547.93
+c		 = 1.4184
+d		 = 21.818
+e		 = 0.072444
+a_1		 = -7.5791
+b_1		 = 0.40594
+c_1		 = 0.083907
+d_1		 = 0.36554
+e_1		 = 0.29768
+
+Step: 465/6000, delta=0.4, WSSR=7055.1, pstat: 0/1000     Step: 467/6000, delta=0.4, WSSR=7182.9, pstat: 1/1000     Step: 470/6000, delta=0.4, WSSR=8379.1, pstat: 2/1000     Step: 471/6000, delta=0.4, WSSR=7498.8, pstat: 2/1000     Step: 477/6000, delta=0.4, WSSR=7220.6, pstat: 2/1000     Step: 479/6000, delta=0.4, WSSR=7119.9, pstat: 3/1000     Step: 481/6000, delta=0.4, WSSR=8207, pstat: 4/1000     Step: 482/6000, delta=0.4, WSSR=7222.3, pstat: 4/1000     Step: 484/6000, delta=0.4, WSSR=7958.5, pstat: 5/1000     Step: 488/6000, delta=0.4, WSSR=8641.7, pstat: 5/1000     Step: 489/6000, delta=0.4, WSSR=7036.6, pstat: 5/1000     Step: 493/6000, delta=0.4, WSSR=7036.4, pstat: 6/1000     Step: 495/6000, delta=0.4, WSSR=9636.6, pstat: 7/1000     Step: 497/6000, delta=0.4, WSSR=7369.4, pstat: 7/1000     Step: 499/6000, delta=0.4, WSSR=7047, pstat: 7/1000     Step: 502/6000, delta=0.4, WSSR=7068.2, pstat: 8/1000     Step: 503/6000, delta=0.4, WSSR=10222, pstat: 9/1000     Step: 505/6000, delta=0.4, WSSR=7043.7, pstat: 9/1000     Step: 506/6000, delta=0.4, WSSR=9014.8, pstat: 10/1000     Step: 508/6000, delta=0.4, WSSR=7276.4, pstat: 10/1000     Step: 509/6000, delta=0.4, WSSR=7043.8, pstat: 11/1000     Step: 510/6000, delta=0.4, WSSR=10268, pstat: 12/1000     Step: 513/6000, delta=0.4, WSSR=7058.1, pstat: 12/1000     Step: 516/6000, delta=0.4, WSSR=7043.6, pstat: 13/1000     Step: 520/6000, delta=0.4, WSSR=9241.2, pstat: 14/1000     Step: 527/6000, delta=0.4, WSSR=7733.3, pstat: 14/1000     Step: 528/6000, delta=0.4, WSSR=7046, pstat: 14/1000     Step: 529/6000, delta=0.4, WSSR=7163.5, pstat: 15/1000     Step: 530/6000, delta=0.4, WSSR=7061.5, pstat: 16/1000     Step: 531/6000, delta=0.4, WSSR=7873.8, pstat: 17/1000     Step: 532/6000, delta=0.4, WSSR=7057.9, pstat: 17/1000     Step: 533/6000, delta=0.4, WSSR=7326.9, pstat: 18/1000     Step: 535/6000, delta=0.4, WSSR=7911.5, pstat: 18/1000     Step: 537/6000, delta=0.4, WSSR=10715, pstat: 18/1000     Step: 539/6000, delta=0.4, WSSR=7036.7, pstat: 18/1000     Step: 543/6000, delta=0.4, WSSR=7057.4, pstat: 19/1000     Step: 544/6000, delta=0.4, WSSR=7911.2, pstat: 20/1000     Step: 545/6000, delta=0.4, WSSR=7530, pstat: 20/1000     Step: 549/6000, delta=0.4, WSSR=7098.5, pstat: 20/1000     Step: 550/6000, delta=0.4, WSSR=7744.2, pstat: 21/1000     Step: 553/6000, delta=0.4, WSSR=7036.6, pstat: 21/1000     Step: 556/6000, delta=0.4, WSSR=7852.8, pstat: 22/1000     Step: 561/6000, delta=0.4, WSSR=12006, pstat: 22/1000     Step: 562/6000, delta=0.4, WSSR=7045.6, pstat: 22/1000     Step: 563/6000, delta=0.4, WSSR=7035.3, pstat: 23/1000     
+
+Step: 563/6000, delta=0.4, WSSR=7035.3, delta(WSSR)/WSSR=-0.00014311
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.984
+b		 = 594.56
+c		 = 1.4298
+d		 = 23.342
+e		 = 0.064637
+a_1		 = -7.7944
+b_1		 = 0.32137
+c_1		 = 0.083993
+d_1		 = 0.32895
+e_1		 = 0.28922
+
+Step: 564/6000, delta=0.4, WSSR=7035.2, pstat: 0/1000     
+
+Step: 564/6000, delta=0.4, WSSR=7035.2, delta(WSSR)/WSSR=-1.4839e-05
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9664
+b		 = 545.07
+c		 = 1.4462
+d		 = 25.711
+e		 = 0.056356
+a_1		 = -8.2574
+b_1		 = 0.32839
+c_1		 = 0.083993
+d_1		 = 0.33645
+e_1		 = 0.36065
+
+Step: 566/6000, delta=0.4, WSSR=8432.7, pstat: 0/1000     Step: 567/6000, delta=0.4, WSSR=9256.9, pstat: 0/1000     Step: 568/6000, delta=0.4, WSSR=7404.4, pstat: 0/1000     Step: 571/6000, delta=0.4, WSSR=7257, pstat: 0/1000     Step: 572/6000, delta=0.4, WSSR=7807.5, pstat: 1/1000     Step: 580/6000, delta=0.4, WSSR=7040.3, pstat: 1/1000     Step: 581/6000, delta=0.4, WSSR=9543.3, pstat: 2/1000     Step: 582/6000, delta=0.4, WSSR=7034.1, pstat: 2/1000     
+
+Step: 582/6000, delta=0.4, WSSR=7034.1, delta(WSSR)/WSSR=-0.00015066
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9648
+b		 = 613.58
+c		 = 1.4647
+d		 = 24.68
+e		 = 0.055957
+a_1		 = -8.8648
+b_1		 = 0.32679
+c_1		 = 0.083568
+d_1		 = 0.33709
+e_1		 = 0.36015
+
+Step: 588/6000, delta=0.4, WSSR=7041.9, pstat: 0/1000     Step: 589/6000, delta=0.4, WSSR=7146.3, pstat: 1/1000     Step: 592/6000, delta=0.4, WSSR=7044.4, pstat: 2/1000     Step: 593/6000, delta=0.4, WSSR=7259.9, pstat: 3/1000     Step: 594/6000, delta=0.4, WSSR=7048.2, pstat: 4/1000     Step: 597/6000, delta=0.4, WSSR=7277.3, pstat: 5/1000     Step: 600/6000, delta=0.4, WSSR=8798.7, pstat: 6/1000     Step: 604/6000, delta=0.4, WSSR=7073.3, pstat: 6/1000     Step: 606/6000, delta=0.4, WSSR=7736.2, pstat: 7/1000     Step: 607/6000, delta=0.4, WSSR=7046.8, pstat: 7/1000     Step: 613/6000, delta=0.4, WSSR=7087.1, pstat: 8/1000     Step: 614/6000, delta=0.4, WSSR=8078.9, pstat: 9/1000     Step: 618/6000, delta=0.4, WSSR=7235.7, pstat: 9/1000     Step: 624/6000, delta=0.4, WSSR=7457.8, pstat: 10/1000     Step: 628/6000, delta=0.4, WSSR=11330, pstat: 10/1000     Step: 630/6000, delta=0.4, WSSR=9140.9, pstat: 10/1000     Step: 631/6000, delta=0.4, WSSR=8693.1, pstat: 10/1000     Step: 634/6000, delta=0.4, WSSR=8405.5, pstat: 10/1000     Step: 636/6000, delta=0.4, WSSR=7057, pstat: 10/1000     Step: 638/6000, delta=0.4, WSSR=7036.1, pstat: 11/1000     Step: 639/6000, delta=0.4, WSSR=8566.8, pstat: 12/1000     Step: 640/6000, delta=0.4, WSSR=9157.6, pstat: 12/1000     Step: 641/6000, delta=0.4, WSSR=7196.4, pstat: 12/1000     Step: 643/6000, delta=0.4, WSSR=7033.2, pstat: 13/1000     
+
+Step: 643/6000, delta=0.4, WSSR=7033.2, delta(WSSR)/WSSR=-0.0001228
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9746
+b		 = 385.79
+c		 = 1.4647
+d		 = 25.196
+e		 = 0.05431
+a_1		 = -8.8654
+b_1		 = 0.24372
+c_1		 = 0.064895
+d_1		 = 0.35302
+e_1		 = 0.34951
+
+Step: 652/6000, delta=0.4, WSSR=7096.5, pstat: 0/1000     Step: 658/6000, delta=0.4, WSSR=9555.8, pstat: 1/1000     Step: 659/6000, delta=0.4, WSSR=7068.8, pstat: 1/1000     Step: 660/6000, delta=0.4, WSSR=7038.2, pstat: 2/1000     Step: 666/6000, delta=0.4, WSSR=9461.2, pstat: 3/1000     Step: 670/6000, delta=0.4, WSSR=7035.2, pstat: 3/1000     Step: 673/6000, delta=0.4, WSSR=8152.8, pstat: 4/1000     Step: 685/6000, delta=0.4, WSSR=7358.9, pstat: 4/1000     Step: 688/6000, delta=0.4, WSSR=7409.9, pstat: 4/1000     Step: 699/6000, delta=0.4, WSSR=7859.3, pstat: 4/1000     Step: 700/6000, delta=0.4, WSSR=7077, pstat: 4/1000     Step: 702/6000, delta=0.4, WSSR=7042, pstat: 5/1000     Step: 708/6000, delta=0.4, WSSR=7776.9, pstat: 6/1000     Step: 711/6000, delta=0.4, WSSR=7035.1, pstat: 6/1000     Step: 715/6000, delta=0.4, WSSR=7042.4, pstat: 7/1000     Step: 717/6000, delta=0.4, WSSR=7052.4, pstat: 8/1000     Step: 719/6000, delta=0.4, WSSR=7312.9, pstat: 9/1000     Step: 720/6000, delta=0.4, WSSR=7225, pstat: 9/1000     Step: 722/6000, delta=0.4, WSSR=7529.8, pstat: 10/1000     Step: 725/6000, delta=0.4, WSSR=7074.6, pstat: 10/1000     Step: 732/6000, delta=0.4, WSSR=7054.9, pstat: 11/1000     Step: 734/6000, delta=0.4, WSSR=8486.2, pstat: 12/1000     Step: 739/6000, delta=0.4, WSSR=7051.3, pstat: 12/1000     Step: 740/6000, delta=0.4, WSSR=8856, pstat: 13/1000     Step: 743/6000, delta=0.4, WSSR=7056.8, pstat: 13/1000     Step: 751/6000, delta=0.4, WSSR=7059.5, pstat: 14/1000     Step: 754/6000, delta=0.4, WSSR=7284.6, pstat: 15/1000     Step: 756/6000, delta=0.4, WSSR=7052.1, pstat: 15/1000     Step: 757/6000, delta=0.4, WSSR=7326, pstat: 16/1000     Step: 760/6000, delta=0.4, WSSR=7117, pstat: 16/1000     Step: 761/6000, delta=0.4, WSSR=8130.5, pstat: 17/1000     Step: 762/6000, delta=0.4, WSSR=7035, pstat: 17/1000     Step: 763/6000, delta=0.4, WSSR=7045.4, pstat: 18/1000     Step: 764/6000, delta=0.4, WSSR=8647.2, pstat: 19/1000     Step: 765/6000, delta=0.4, WSSR=7046.6, pstat: 19/1000     Step: 777/6000, delta=0.4, WSSR=7108.5, pstat: 20/1000     Step: 778/6000, delta=0.4, WSSR=7152.7, pstat: 21/1000     Step: 780/6000, delta=0.4, WSSR=9397, pstat: 22/1000     Step: 783/6000, delta=0.4, WSSR=7053, pstat: 22/1000     Step: 799/6000, delta=0.4, WSSR=7768.9, pstat: 23/1000     Step: 803/6000, delta=0.4, WSSR=7243, pstat: 23/1000     Step: 807/6000, delta=0.4, WSSR=7152.8, pstat: 24/1000     Step: 808/6000, delta=0.4, WSSR=10665, pstat: 25/1000     Step: 811/6000, delta=0.4, WSSR=7044, pstat: 25/1000     Step: 813/6000, delta=0.4, WSSR=7232.4, pstat: 26/1000     Step: 815/6000, delta=0.4, WSSR=7119.6, pstat: 27/1000     Step: 816/6000, delta=0.4, WSSR=7184.6, pstat: 28/1000     Step: 818/6000, delta=0.4, WSSR=7104.2, pstat: 29/1000     Step: 819/6000, delta=0.4, WSSR=8569.1, pstat: 30/1000     Step: 820/6000, delta=0.4, WSSR=7041.6, pstat: 30/1000     Step: 825/6000, delta=0.4, WSSR=7439.9, pstat: 31/1000     Step: 827/6000, delta=0.4, WSSR=12125, pstat: 31/1000     Step: 839/6000, delta=0.4, WSSR=10186, pstat: 31/1000     Step: 842/6000, delta=0.4, WSSR=7486.8, pstat: 31/1000     Step: 843/6000, delta=0.4, WSSR=7037, pstat: 31/1000     Step: 847/6000, delta=0.4, WSSR=7049.3, pstat: 32/1000     Step: 849/6000, delta=0.4, WSSR=12917, pstat: 33/1000     Step: 850/6000, delta=0.4, WSSR=7035.8, pstat: 33/1000     Step: 852/6000, delta=0.4, WSSR=8930.4, pstat: 34/1000     Step: 853/6000, delta=0.4, WSSR=7473.5, pstat: 34/1000     Step: 855/6000, delta=0.4, WSSR=7042.2, pstat: 34/1000     Step: 859/6000, delta=0.4, WSSR=7150.2, pstat: 35/1000     Step: 860/6000, delta=0.4, WSSR=7261.1, pstat: 36/1000     Step: 861/6000, delta=0.4, WSSR=7033.4, pstat: 37/1000     Step: 866/6000, delta=0.4, WSSR=7631.4, pstat: 38/1000     Step: 867/6000, delta=0.4, WSSR=7048, pstat: 38/1000     Step: 868/6000, delta=0.4, WSSR=7088.8, pstat: 39/1000     Step: 872/6000, delta=0.4, WSSR=7044.1, pstat: 40/1000     Step: 876/6000, delta=0.4, WSSR=7042.8, pstat: 41/1000     Step: 878/6000, delta=0.4, WSSR=7071.7, pstat: 42/1000     Step: 880/6000, delta=0.4, WSSR=7057, pstat: 43/1000     Step: 881/6000, delta=0.4, WSSR=7032.9, pstat: 44/1000     
+
+Step: 881/6000, delta=0.4, WSSR=7032.9, delta(WSSR)/WSSR=-4.5601e-05
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9973
+b		 = 385.16
+c		 = 1.4977
+d		 = 22.489
+e		 = 0.054398
+a_1		 = -9.1229
+b_1		 = 0.24914
+c_1		 = 0.064918
+d_1		 = 0.35373
+e_1		 = 0.40049
+
+Step: 882/6000, delta=0.4, WSSR=8513.1, pstat: 0/1000     Step: 883/6000, delta=0.4, WSSR=7035.6, pstat: 0/1000     Step: 885/6000, delta=0.4, WSSR=7033.4, pstat: 1/1000     Step: 889/6000, delta=0.4, WSSR=7039, pstat: 2/1000     Step: 894/6000, delta=0.4, WSSR=7336.3, pstat: 3/1000     Step: 896/6000, delta=0.4, WSSR=7041.4, pstat: 3/1000     Step: 897/6000, delta=0.4, WSSR=7051.2, pstat: 4/1000     Step: 901/6000, delta=0.4, WSSR=7055.6, pstat: 5/1000     Step: 902/6000, delta=0.4, WSSR=7340.6, pstat: 6/1000     Step: 907/6000, delta=0.4, WSSR=7245.2, pstat: 6/1000     Step: 909/6000, delta=0.4, WSSR=7037.3, pstat: 7/1000     Step: 919/6000, delta=0.4, WSSR=7079.8, pstat: 8/1000     Step: 924/6000, delta=0.4, WSSR=7592, pstat: 9/1000     Step: 926/6000, delta=0.4, WSSR=7033.8, pstat: 9/1000     Step: 930/6000, delta=0.4, WSSR=7045.1, pstat: 10/1000     Step: 932/6000, delta=0.4, WSSR=7048, pstat: 11/1000     Step: 940/6000, delta=0.4, WSSR=9691.5, pstat: 12/1000     Step: 941/6000, delta=0.4, WSSR=7192.7, pstat: 12/1000     Step: 945/6000, delta=0.4, WSSR=7476.2, pstat: 13/1000     Step: 950/6000, delta=0.4, WSSR=8017.2, pstat: 13/1000     Step: 951/6000, delta=0.4, WSSR=7041.3, pstat: 13/1000     Step: 960/6000, delta=0.4, WSSR=7365.2, pstat: 14/1000     Step: 962/6000, delta=0.4, WSSR=7035.7, pstat: 14/1000     Step: 968/6000, delta=0.4, WSSR=7051.2, pstat: 15/1000     Step: 971/6000, delta=0.4, WSSR=7079.9, pstat: 16/1000     Step: 979/6000, delta=0.4, WSSR=7108, pstat: 17/1000     Step: 982/6000, delta=0.4, WSSR=7054.4, pstat: 18/1000     Step: 983/6000, delta=0.4, WSSR=7032.9, pstat: 19/1000     
+
+Step: 983/6000, delta=0.4, WSSR=7032.9, delta(WSSR)/WSSR=-8.3135e-06
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9972
+b		 = 372.97
+c		 = 1.4315
+d		 = 23.237
+e		 = 0.051498
+a_1		 = -9.1846
+b_1		 = 0.2358
+c_1		 = 0.070575
+d_1		 = 0.49152
+e_1		 = 0.35626
+
+Step: 987/6000, delta=0.4, WSSR=7485.6, pstat: 0/1000     Step: 996/6000, delta=0.4, WSSR=8710.2, pstat: 0/1000     Step: 998/6000, delta=0.4, WSSR=10194, pstat: 0/1000     Step: 1001/6000, delta=0.4, WSSR=9449.1, pstat: 0/1000     Step: 1008/6000, delta=0.4, WSSR=8100, pstat: 0/1000     Step: 1009/6000, delta=0.4, WSSR=7036.4, pstat: 0/1000     Step: 1013/6000, delta=0.4, WSSR=10219, pstat: 1/1000     Step: 1017/6000, delta=0.4, WSSR=7033.6, pstat: 1/1000     Step: 1023/6000, delta=0.4, WSSR=7146.6, pstat: 2/1000     Step: 1024/6000, delta=0.4, WSSR=7158, pstat: 3/1000     Step: 1027/6000, delta=0.4, WSSR=7055, pstat: 4/1000     Step: 1032/6000, delta=0.4, WSSR=8433.8, pstat: 5/1000     Step: 1034/6000, delta=0.4, WSSR=7106.9, pstat: 5/1000     Step: 1036/6000, delta=0.4, WSSR=7041.8, pstat: 6/1000     Step: 1038/6000, delta=0.4, WSSR=7055.3, pstat: 7/1000     Step: 1046/6000, delta=0.4, WSSR=7050.9, pstat: 8/1000     Step: 1048/6000, delta=0.4, WSSR=11025, pstat: 9/1000     Step: 1051/6000, delta=0.4, WSSR=7035.8, pstat: 9/1000     Step: 1053/6000, delta=0.4, WSSR=7394.8, pstat: 10/1000     Step: 1054/6000, delta=0.4, WSSR=7139.6, pstat: 10/1000     Step: 1055/6000, delta=0.4, WSSR=7034.2, pstat: 11/1000     Step: 1059/6000, delta=0.4, WSSR=7040.6, pstat: 12/1000     Step: 1065/6000, delta=0.4, WSSR=7042.5, pstat: 13/1000     Step: 1068/6000, delta=0.4, WSSR=7036.7, pstat: 14/1000     Step: 1071/6000, delta=0.4, WSSR=7373.7, pstat: 15/1000     Step: 1072/6000, delta=0.4, WSSR=7033.4, pstat: 15/1000     Step: 1073/6000, delta=0.4, WSSR=8979.8, pstat: 16/1000     Step: 1078/6000, delta=0.4, WSSR=8381.5, pstat: 16/1000     Step: 1079/6000, delta=0.4, WSSR=7206.1, pstat: 16/1000     Step: 1090/6000, delta=0.4, WSSR=8184.2, pstat: 17/1000     Step: 1096/6000, delta=0.4, WSSR=7638.4, pstat: 17/1000     Step: 1105/6000, delta=0.4, WSSR=7094.7, pstat: 17/1000     Step: 1107/6000, delta=0.4, WSSR=7036.4, pstat: 18/1000     Step: 1109/6000, delta=0.4, WSSR=7032.5, pstat: 19/1000     
+
+Step: 1109/6000, delta=0.4, WSSR=7032.5, delta(WSSR)/WSSR=-5.1626e-05
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.998
+b		 = 405.84
+c		 = 1.4398
+d		 = 23.379
+e		 = 0.051325
+a_1		 = -9.0085
+b_1		 = 0.23438
+c_1		 = 0.058097
+d_1		 = 0.3639
+e_1		 = 0.34705
+
+Step: 1113/6000, delta=0.4, WSSR=8073.5, pstat: 0/1000     Step: 1114/6000, delta=0.4, WSSR=7211.7, pstat: 0/1000     Step: 1129/6000, delta=0.4, WSSR=10018, pstat: 1/1000     Step: 1130/6000, delta=0.4, WSSR=7052.7, pstat: 1/1000     Step: 1133/6000, delta=0.4, WSSR=7116.4, pstat: 2/1000     Step: 1137/6000, delta=0.4, WSSR=7078.3, pstat: 3/1000     Step: 1144/6000, delta=0.4, WSSR=7117.6, pstat: 4/1000     Step: 1149/6000, delta=0.4, WSSR=7032.8, pstat: 5/1000     Step: 1150/6000, delta=0.4, WSSR=7049.4, pstat: 6/1000     Step: 1151/6000, delta=0.4, WSSR=7075, pstat: 7/1000     Step: 1152/6000, delta=0.4, WSSR=7469, pstat: 8/1000     Step: 1170/6000, delta=0.4, WSSR=7213.6, pstat: 8/1000     Step: 1173/6000, delta=0.4, WSSR=7050.5, pstat: 9/1000     Step: 1189/6000, delta=0.4, WSSR=8105.4, pstat: 10/1000     Step: 1196/6000, delta=0.4, WSSR=9192.1, pstat: 10/1000     Step: 1201/6000, delta=0.4, WSSR=7038.8, pstat: 10/1000     Step: 1209/6000, delta=0.4, WSSR=7094.7, pstat: 11/1000     Step: 1211/6000, delta=0.4, WSSR=7543.5, pstat: 12/1000     Step: 1212/6000, delta=0.4, WSSR=7034, pstat: 12/1000     Step: 1213/6000, delta=0.4, WSSR=7267.2, pstat: 13/1000     Step: 1215/6000, delta=0.4, WSSR=7036.3, pstat: 14/1000     Step: 1218/6000, delta=0.4, WSSR=7178, pstat: 15/1000     Step: 1220/6000, delta=0.4, WSSR=7039.4, pstat: 16/1000     Step: 1222/6000, delta=0.4, WSSR=7049.9, pstat: 17/1000     Step: 1227/6000, delta=0.4, WSSR=7254.7, pstat: 18/1000     Step: 1229/6000, delta=0.4, WSSR=7038.1, pstat: 19/1000     Step: 1231/6000, delta=0.4, WSSR=7081, pstat: 20/1000     Step: 1232/6000, delta=0.4, WSSR=7922.7, pstat: 21/1000     Step: 1234/6000, delta=0.4, WSSR=7346.6, pstat: 21/1000     Step: 1238/6000, delta=0.4, WSSR=7049.2, pstat: 21/1000     Step: 1244/6000, delta=0.4, WSSR=7401.4, pstat: 22/1000     Step: 1248/6000, delta=0.4, WSSR=7032.3, pstat: 22/1000     
+
+Step: 1248/6000, delta=0.4, WSSR=7032.3, delta(WSSR)/WSSR=-3.0509e-05
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9986
+b		 = 435.66
+c		 = 1.4483
+d		 = 23.396
+e		 = 0.059213
+a_1		 = -8.9839
+b_1		 = 0.23468
+c_1		 = 0.077773
+d_1		 = 0.36939
+e_1		 = 0.34723
+
+Step: 1249/6000, delta=0.4, WSSR=7076.2, pstat: 0/1000     Step: 1250/6000, delta=0.4, WSSR=7032.9, pstat: 1/1000     Step: 1264/6000, delta=0.4, WSSR=7261.2, pstat: 2/1000     Step: 1265/6000, delta=0.4, WSSR=11952, pstat: 3/1000     Step: 1267/6000, delta=0.4, WSSR=7133.8, pstat: 3/1000     Step: 1272/6000, delta=0.4, WSSR=7783.3, pstat: 4/1000     Step: 1273/6000, delta=0.4, WSSR=8665.5, pstat: 4/1000     Step: 1275/6000, delta=0.4, WSSR=7112.6, pstat: 4/1000     Step: 1276/6000, delta=0.4, WSSR=7063.7, pstat: 5/1000     Step: 1277/6000, delta=0.4, WSSR=7054.7, pstat: 6/1000     Step: 1280/6000, delta=0.4, WSSR=7395.1, pstat: 7/1000     Step: 1282/6000, delta=0.4, WSSR=7150, pstat: 7/1000     Step: 1283/6000, delta=0.4, WSSR=7039.4, pstat: 8/1000     Step: 1284/6000, delta=0.4, WSSR=8090.1, pstat: 9/1000     Step: 1286/6000, delta=0.4, WSSR=7684.5, pstat: 9/1000     Step: 1287/6000, delta=0.4, WSSR=7055.9, pstat: 9/1000     Step: 1289/6000, delta=0.4, WSSR=7032.3, pstat: 10/1000     Step: 1293/6000, delta=0.4, WSSR=9007.7, pstat: 11/1000     Step: 1294/6000, delta=0.4, WSSR=7043.1, pstat: 11/1000     Step: 1296/6000, delta=0.4, WSSR=10281, pstat: 12/1000     Step: 1298/6000, delta=0.4, WSSR=7367.9, pstat: 12/1000     Step: 1299/6000, delta=0.4, WSSR=7032.1, pstat: 12/1000     
+
+Step: 1299/6000, delta=0.4, WSSR=7032.1, delta(WSSR)/WSSR=-2.9482e-05
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9923
+b		 = 435.79
+c		 = 1.4697
+d		 = 23.564
+e		 = 0.054966
+a_1		 = -8.972
+b_1		 = 0.23673
+c_1		 = 0.057401
+d_1		 = 0.38681
+e_1		 = 0.45536
+
+Step: 1308/6000, delta=0.4, WSSR=7036.4, pstat: 0/1000     Step: 1311/6000, delta=0.4, WSSR=7056.3, pstat: 1/1000     Step: 1318/6000, delta=0.4, WSSR=7045.2, pstat: 2/1000     Step: 1322/6000, delta=0.4, WSSR=8211, pstat: 3/1000     Step: 1324/6000, delta=0.4, WSSR=7204.2, pstat: 3/1000     Step: 1332/6000, delta=0.4, WSSR=7033.4, pstat: 4/1000     Step: 1333/6000, delta=0.4, WSSR=7035, pstat: 5/1000     Step: 1335/6000, delta=0.4, WSSR=7610.9, pstat: 6/1000     Step: 1336/6000, delta=0.4, WSSR=7360.2, pstat: 6/1000     Step: 1338/6000, delta=0.4, WSSR=7037.7, pstat: 6/1000     Step: 1341/6000, delta=0.4, WSSR=7042.4, pstat: 7/1000     Step: 1346/6000, delta=0.4, WSSR=7047.7, pstat: 8/1000     Step: 1350/6000, delta=0.4, WSSR=7867.4, pstat: 9/1000     Step: 1351/6000, delta=0.4, WSSR=8562.7, pstat: 9/1000     Step: 1355/6000, delta=0.4, WSSR=7032, pstat: 9/1000     
+
+Step: 1355/6000, delta=0.4, WSSR=7032, delta(WSSR)/WSSR=-1.14e-05
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9923
+b		 = 513.43
+c		 = 1.4701
+d		 = 23.529
+e		 = 0.053935
+a_1		 = -8.9711
+b_1		 = 0.22761
+c_1		 = 0.059432
+d_1		 = 0.39372
+e_1		 = 0.40179
+
+Step: 1362/6000, delta=0.4, WSSR=9884.5, pstat: 0/1000     Step: 1366/6000, delta=0.4, WSSR=7762, pstat: 0/1000     Step: 1369/6000, delta=0.4, WSSR=7084.6, pstat: 0/1000     Step: 1376/6000, delta=0.4, WSSR=7796.7, pstat: 1/1000     Step: 1387/6000, delta=0.4, WSSR=7125.1, pstat: 1/1000     Step: 1402/6000, delta=0.4, WSSR=7034.2, pstat: 2/1000     Step: 1403/6000, delta=0.4, WSSR=7045.1, pstat: 3/1000     Step: 1407/6000, delta=0.4, WSSR=7052.4, pstat: 4/1000     Step: 1416/6000, delta=0.4, WSSR=7032.1, pstat: 5/1000     Step: 1421/6000, delta=0.4, WSSR=7043.1, pstat: 6/1000     Step: 1423/6000, delta=0.4, WSSR=7425.8, pstat: 7/1000     Step: 1427/6000, delta=0.4, WSSR=7051.6, pstat: 7/1000     Step: 1429/6000, delta=0.4, WSSR=7052.6, pstat: 8/1000     Step: 1445/6000, delta=0.4, WSSR=7100.4, pstat: 9/1000     Step: 1447/6000, delta=0.4, WSSR=7039.5, pstat: 10/1000     Step: 1453/6000, delta=0.4, WSSR=9126.1, pstat: 11/1000     Step: 1454/6000, delta=0.4, WSSR=7104, pstat: 11/1000     Step: 1457/6000, delta=0.4, WSSR=8581.2, pstat: 12/1000     Step: 1468/6000, delta=0.4, WSSR=7032.3, pstat: 12/1000     Step: 1471/6000, delta=0.4, WSSR=7044.3, pstat: 13/1000     Step: 1473/6000, delta=0.4, WSSR=7052.6, pstat: 14/1000     Step: 1474/6000, delta=0.4, WSSR=7032, pstat: 15/1000     
+
+Step: 1474/6000, delta=0.4, WSSR=7032, delta(WSSR)/WSSR=-7.4896e-06
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9884
+b		 = 508.98
+c		 = 1.4856
+d		 = 23.86
+e		 = 0.052697
+a_1		 = -9.1915
+b_1		 = 0.18316
+c_1		 = 0.059998
+d_1		 = 0.54355
+e_1		 = 0.53534
+
+Step: 1475/6000, delta=0.4, WSSR=7044.4, pstat: 0/1000     Step: 1477/6000, delta=0.4, WSSR=7143.8, pstat: 1/1000     Step: 1482/6000, delta=0.4, WSSR=7041.4, pstat: 2/1000     Step: 1483/6000, delta=0.4, WSSR=7080.4, pstat: 3/1000     Step: 1488/6000, delta=0.4, WSSR=7301.8, pstat: 4/1000     Step: 1492/6000, delta=0.4, WSSR=8688.7, pstat: 4/1000     Step: 1508/6000, delta=0.4, WSSR=7034.9, pstat: 4/1000     Step: 1512/6000, delta=0.4, WSSR=7064.1, pstat: 5/1000     Step: 1513/6000, delta=0.4, WSSR=7501.4, pstat: 6/1000     Step: 1524/6000, delta=0.4, WSSR=9333.4, pstat: 6/1000     Step: 1535/6000, delta=0.4, WSSR=8852.8, pstat: 6/1000     Step: 1536/6000, delta=0.4, WSSR=7151, pstat: 6/1000     Step: 1538/6000, delta=0.4, WSSR=7084.1, pstat: 7/1000     Step: 1540/6000, delta=0.4, WSSR=7037.7, pstat: 8/1000     Step: 1554/6000, delta=0.4, WSSR=7078.3, pstat: 9/1000     Step: 1557/6000, delta=0.4, WSSR=7032.2, pstat: 10/1000     Step: 1567/6000, delta=0.4, WSSR=7106.4, pstat: 11/1000     Step: 1568/6000, delta=0.4, WSSR=7035.3, pstat: 12/1000     Step: 1576/6000, delta=0.4, WSSR=10593, pstat: 13/1000     Step: 1578/6000, delta=0.4, WSSR=7482.8, pstat: 13/1000     Step: 1582/6000, delta=0.4, WSSR=7045.5, pstat: 13/1000     Step: 1590/6000, delta=0.4, WSSR=7031.9, pstat: 14/1000     
+
+Step: 1590/6000, delta=0.4, WSSR=7031.9, delta(WSSR)/WSSR=-6.0231e-06
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9884
+b		 = 514.22
+c		 = 1.4975
+d		 = 23.86
+e		 = 0.052382
+a_1		 = -9.5005
+b_1		 = 0.11071
+c_1		 = 0.050429
+d_1		 = 0.53934
+e_1		 = 0.4318
+
+Step: 1610/6000, delta=0.4, WSSR=7102.3, pstat: 0/1000     Step: 1618/6000, delta=0.4, WSSR=7043.7, pstat: 1/1000     Step: 1625/6000, delta=0.4, WSSR=7041.8, pstat: 2/1000     Step: 1641/6000, delta=0.4, WSSR=7059.4, pstat: 3/1000     Step: 1644/6000, delta=0.4, WSSR=7117.6, pstat: 4/1000     Step: 1645/6000, delta=0.4, WSSR=7212.9, pstat: 5/1000     Step: 1649/6000, delta=0.4, WSSR=7067.4, pstat: 6/1000     Step: 1653/6000, delta=0.4, WSSR=7054.2, pstat: 7/1000     Step: 1690/6000, delta=0.4, WSSR=7072.3, pstat: 8/1000     Step: 1692/6000, delta=0.4, WSSR=7047.4, pstat: 9/1000     Step: 1720/6000, delta=0.4, WSSR=7305.5, pstat: 10/1000     Step: 1724/6000, delta=0.4, WSSR=7813.4, pstat: 10/1000     Step: 1730/6000, delta=0.4, WSSR=7056.7, pstat: 10/1000     Step: 1737/6000, delta=0.4, WSSR=7043.3, pstat: 11/1000     Step: 1745/6000, delta=0.4, WSSR=7055.5, pstat: 12/1000     Step: 1754/6000, delta=0.4, WSSR=7607.9, pstat: 13/1000     Step: 1756/6000, delta=0.4, WSSR=7057.5, pstat: 13/1000     Step: 1758/6000, delta=0.4, WSSR=7974.1, pstat: 14/1000     Step: 1763/6000, delta=0.4, WSSR=7094.7, pstat: 14/1000     Step: 1774/6000, delta=0.4, WSSR=7032.1, pstat: 15/1000     Step: 1777/6000, delta=0.4, WSSR=7034, pstat: 16/1000     Step: 1779/6000, delta=0.4, WSSR=7032.4, pstat: 17/1000     Step: 1790/6000, delta=0.4, WSSR=7273.4, pstat: 18/1000     Step: 1802/6000, delta=0.4, WSSR=7044.2, pstat: 19/1000     Step: 1806/6000, delta=0.4, WSSR=7033.5, pstat: 20/1000     Step: 1815/6000, delta=0.4, WSSR=7038.3, pstat: 21/1000     Step: 1822/6000, delta=0.4, WSSR=7063.6, pstat: 22/1000     Step: 1836/6000, delta=0.4, WSSR=7034.9, pstat: 23/1000     Step: 1842/6000, delta=0.4, WSSR=7047.6, pstat: 24/1000     Step: 1851/6000, delta=0.4, WSSR=7047.3, pstat: 25/1000     Step: 1857/6000, delta=0.4, WSSR=7032.2, pstat: 26/1000     Step: 1865/6000, delta=0.4, WSSR=7036.4, pstat: 27/1000     Step: 1872/6000, delta=0.4, WSSR=7067.6, pstat: 28/1000     Step: 1877/6000, delta=0.4, WSSR=7222.9, pstat: 29/1000     Step: 1902/6000, delta=0.4, WSSR=7062.6, pstat: 30/1000     Step: 1907/6000, delta=0.4, WSSR=7158.4, pstat: 31/1000     Step: 1908/6000, delta=0.4, WSSR=7038.2, pstat: 32/1000     Step: 1918/6000, delta=0.4, WSSR=7053.4, pstat: 33/1000     Step: 1925/6000, delta=0.4, WSSR=7268.6, pstat: 34/1000     Step: 1929/6000, delta=0.4, WSSR=9752.9, pstat: 35/1000     Step: 1931/6000, delta=0.4, WSSR=7034.4, pstat: 35/1000     Step: 1933/6000, delta=0.4, WSSR=7033.5, pstat: 36/1000     Step: 1935/6000, delta=0.4, WSSR=7391.5, pstat: 37/1000     Step: 1940/6000, delta=0.4, WSSR=7037.1, pstat: 37/1000     Step: 1954/6000, delta=0.4, WSSR=7032, pstat: 38/1000     Step: 1974/6000, delta=0.4, WSSR=7414.2, pstat: 39/1000     Step: 1982/6000, delta=0.4, WSSR=7062.9, pstat: 39/1000     Step: 1987/6000, delta=0.4, WSSR=7138.3, pstat: 40/1000     Step: 1988/6000, delta=0.4, WSSR=8521.4, pstat: 41/1000     Step: 1994/6000, delta=0.4, WSSR=7085.9, pstat: 41/1000     Step: 2007/6000, delta=0.39721, WSSR=7036.9, pstat: 42/1000     Step: 2022/6000, delta=0.39131, WSSR=7068, pstat: 43/1000     Step: 2023/6000, delta=0.39092, WSSR=7244.4, pstat: 44/1000     Step: 2031/6000, delta=0.38781, WSSR=7563.4, pstat: 45/1000     Step: 2052/6000, delta=0.37976, WSSR=7565.8, pstat: 45/1000     Step: 2061/6000, delta=0.37636, WSSR=7196.3, pstat: 45/1000     Step: 2067/6000, delta=0.37411, WSSR=8674.7, pstat: 46/1000     Step: 2072/6000, delta=0.37225, WSSR=8033.3, pstat: 46/1000     Step: 2073/6000, delta=0.37188, WSSR=7038.9, pstat: 46/1000     Step: 2081/6000, delta=0.36892, WSSR=7032.8, pstat: 47/1000     Step: 2087/6000, delta=0.36672, WSSR=8772.3, pstat: 48/1000     Step: 2092/6000, delta=0.36489, WSSR=7051.3, pstat: 48/1000     Step: 2099/6000, delta=0.36235, WSSR=7053.5, pstat: 49/1000     Step: 2105/6000, delta=0.36018, WSSR=7037.5, pstat: 50/1000     Step: 2111/6000, delta=0.35803, WSSR=7034.8, pstat: 51/1000     Step: 2128/6000, delta=0.35201, WSSR=7060.7, pstat: 52/1000     Step: 2145/6000, delta=0.34608, WSSR=7037.9, pstat: 53/1000     Step: 2147/6000, delta=0.34539, WSSR=7270, pstat: 54/1000     Step: 2157/6000, delta=0.34196, WSSR=7097.6, pstat: 55/1000     Step: 2158/6000, delta=0.34162, WSSR=7253.8, pstat: 56/1000     Step: 2172/6000, delta=0.33687, WSSR=8748.4, pstat: 57/1000     Step: 2178/6000, delta=0.33486, WSSR=7046.9, pstat: 57/1000     Step: 2185/6000, delta=0.33253, WSSR=9951.9, pstat: 58/1000     Step: 2192/6000, delta=0.33021, WSSR=7049.3, pstat: 58/1000     Step: 2195/6000, delta=0.32923, WSSR=8871.9, pstat: 59/1000     Step: 2202/6000, delta=0.32693, WSSR=8768.2, pstat: 59/1000     Step: 2209/6000, delta=0.32465, WSSR=7713.7, pstat: 59/1000     Step: 2211/6000, delta=0.32401, WSSR=7058.8, pstat: 59/1000     Step: 2212/6000, delta=0.32368, WSSR=7052, pstat: 60/1000     Step: 2218/6000, delta=0.32175, WSSR=7231.7, pstat: 61/1000     Step: 2220/6000, delta=0.32111, WSSR=7048.1, pstat: 62/1000     Step: 2246/6000, delta=0.31288, WSSR=7698.1, pstat: 63/1000     Step: 2247/6000, delta=0.31257, WSSR=7070.1, pstat: 63/1000     Step: 2252/6000, delta=0.31101, WSSR=7032.1, pstat: 64/1000     Step: 2258/6000, delta=0.30915, WSSR=7032.1, pstat: 65/1000     Step: 2261/6000, delta=0.30823, WSSR=7036.1, pstat: 66/1000     Step: 2274/6000, delta=0.30425, WSSR=7054, pstat: 67/1000     Step: 2292/6000, delta=0.29883, WSSR=7040.7, pstat: 68/1000     Step: 2301/6000, delta=0.29616, WSSR=7032.4, pstat: 69/1000     Step: 2316/6000, delta=0.29175, WSSR=7035.7, pstat: 70/1000     Step: 2317/6000, delta=0.29146, WSSR=7043.4, pstat: 71/1000     Step: 2335/6000, delta=0.28627, WSSR=7038.7, pstat: 72/1000     Step: 2347/6000, delta=0.28286, WSSR=7076.2, pstat: 73/1000     Step: 2355/6000, delta=0.28061, WSSR=7038.9, pstat: 74/1000     Step: 2363/6000, delta=0.27838, WSSR=8225.4, pstat: 75/1000     Step: 2377/6000, delta=0.27451, WSSR=7032.7, pstat: 75/1000     Step: 2378/6000, delta=0.27424, WSSR=7802.3, pstat: 76/1000     Step: 2384/6000, delta=0.2726, WSSR=7037.6, pstat: 76/1000     Step: 2411/6000, delta=0.26535, WSSR=7050.2, pstat: 77/1000     Step: 2426/6000, delta=0.2614, WSSR=8255.1, pstat: 78/1000     Step: 2442/6000, delta=0.25726, WSSR=7048.8, pstat: 78/1000     Step: 2453/6000, delta=0.25445, WSSR=7322.9, pstat: 79/1000     Step: 2460/6000, delta=0.25268, WSSR=7431.2, pstat: 79/1000     Step: 2462/6000, delta=0.25217, WSSR=7119.7, pstat: 79/1000     Step: 2469/6000, delta=0.25042, WSSR=7039.7, pstat: 80/1000     Step: 2471/6000, delta=0.24992, WSSR=7601.5, pstat: 81/1000     Step: 2473/6000, delta=0.24942, WSSR=7273.5, pstat: 81/1000     Step: 2474/6000, delta=0.24917, WSSR=7048.2, pstat: 82/1000     Step: 2476/6000, delta=0.24867, WSSR=7035.7, pstat: 83/1000     Step: 2479/6000, delta=0.24793, WSSR=7032.2, pstat: 84/1000     Step: 2493/6000, delta=0.24449, WSSR=7041.5, pstat: 85/1000     Step: 2495/6000, delta=0.244, WSSR=7897.6, pstat: 86/1000     Step: 2499/6000, delta=0.24303, WSSR=7082.8, pstat: 86/1000     Step: 2506/6000, delta=0.24133, WSSR=7041, pstat: 87/1000     Step: 2515/6000, delta=0.23918, WSSR=7063.4, pstat: 88/1000     Step: 2517/6000, delta=0.2387, WSSR=7554, pstat: 89/1000     Step: 2523/6000, delta=0.23727, WSSR=7457.1, pstat: 89/1000     Step: 2530/6000, delta=0.23562, WSSR=7033.9, pstat: 89/1000     Step: 2549/6000, delta=0.23119, WSSR=7106.9, pstat: 90/1000     Step: 2564/6000, delta=0.22775, WSSR=7077.4, pstat: 91/1000     Step: 2573/6000, delta=0.22572, WSSR=7910.5, pstat: 92/1000     Step: 2574/6000, delta=0.22549, WSSR=7238.1, pstat: 92/1000     Step: 2580/6000, delta=0.22414, WSSR=7046.7, pstat: 93/1000     Step: 2590/6000, delta=0.22192, WSSR=7032.8, pstat: 94/1000     Step: 2614/6000, delta=0.21666, WSSR=7031.1, pstat: 95/1000     
+
+Step: 2614/6000, delta=0.21666, WSSR=7031.1, delta(WSSR)/WSSR=-0.00011358
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9921
+b		 = 514.02
+c		 = 1.4976
+d		 = 25.699
+e		 = 0.052887
+a_1		 = -9.4514
+b_1		 = 0.11069
+c_1		 = 0.050034
+d_1		 = 0.53245
+e_1		 = 0.4338
+
+Step: 2615/6000, delta=0.21645, WSSR=7037.9, pstat: 0/1000     Step: 2622/6000, delta=0.21494, WSSR=7031.7, pstat: 1/1000     Step: 2629/6000, delta=0.21344, WSSR=7031.6, pstat: 2/1000     Step: 2638/6000, delta=0.21153, WSSR=7034.2, pstat: 3/1000     Step: 2645/6000, delta=0.21006, WSSR=7035.7, pstat: 4/1000     Step: 2651/6000, delta=0.2088, WSSR=7039.8, pstat: 5/1000     Step: 2657/6000, delta=0.20756, WSSR=7036.5, pstat: 6/1000     Step: 2663/6000, delta=0.20632, WSSR=7167.1, pstat: 7/1000     Step: 2669/6000, delta=0.20508, WSSR=7176.2, pstat: 8/1000     Step: 2674/6000, delta=0.20406, WSSR=7033.7, pstat: 9/1000     Step: 2681/6000, delta=0.20264, WSSR=7050.7, pstat: 10/1000     Step: 2692/6000, delta=0.20043, WSSR=7195.5, pstat: 11/1000     Step: 2702/6000, delta=0.19844, WSSR=7321.6, pstat: 12/1000     Step: 2713/6000, delta=0.19627, WSSR=7064.5, pstat: 12/1000     Step: 2719/6000, delta=0.1951, WSSR=7555, pstat: 13/1000     Step: 2720/6000, delta=0.1949, WSSR=7033.2, pstat: 13/1000     Step: 2733/6000, delta=0.19239, WSSR=7225.2, pstat: 14/1000     Step: 2738/6000, delta=0.19143, WSSR=7498.4, pstat: 15/1000     Step: 2745/6000, delta=0.1901, WSSR=7085.5, pstat: 15/1000     Step: 2746/6000, delta=0.18991, WSSR=7176.3, pstat: 16/1000     Step: 2751/6000, delta=0.18896, WSSR=7039.5, pstat: 17/1000     Step: 2758/6000, delta=0.18764, WSSR=7143.7, pstat: 18/1000     Step: 2763/6000, delta=0.18671, WSSR=7041, pstat: 19/1000     Step: 2775/6000, delta=0.18448, WSSR=7155.5, pstat: 20/1000     Step: 2780/6000, delta=0.18357, WSSR=7254.6, pstat: 21/1000     Step: 2783/6000, delta=0.18302, WSSR=7033.6, pstat: 22/1000     Step: 2794/6000, delta=0.18102, WSSR=7058.4, pstat: 23/1000     Step: 2795/6000, delta=0.18084, WSSR=7031.6, pstat: 24/1000     Step: 2796/6000, delta=0.18066, WSSR=7377.8, pstat: 25/1000     Step: 2798/6000, delta=0.1803, WSSR=7033.4, pstat: 25/1000     Step: 2808/6000, delta=0.1785, WSSR=7032.5, pstat: 26/1000     Step: 2809/6000, delta=0.17833, WSSR=7153.8, pstat: 27/1000     Step: 2810/6000, delta=0.17815, WSSR=7031.3, pstat: 28/1000     Step: 2813/6000, delta=0.17762, WSSR=7478.9, pstat: 29/1000     Step: 2820/6000, delta=0.17638, WSSR=7504.9, pstat: 29/1000     Step: 2823/6000, delta=0.17585, WSSR=7546.6, pstat: 29/1000     Step: 2825/6000, delta=0.1755, WSSR=7083.9, pstat: 29/1000     Step: 2866/6000, delta=0.16846, WSSR=7031.5, pstat: 30/1000     Step: 2895/6000, delta=0.16365, WSSR=7362.3, pstat: 31/1000     Step: 2901/6000, delta=0.16267, WSSR=7086.1, pstat: 31/1000     Step: 2932/6000, delta=0.15772, WSSR=7033.2, pstat: 32/1000     Step: 2938/6000, delta=0.15677, WSSR=7031.1, pstat: 33/1000     
+
+Step: 2938/6000, delta=0.15677, WSSR=7031.1, delta(WSSR)/WSSR=-4.9379e-06
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9921
+b		 = 521.71
+c		 = 1.4977
+d		 = 25.598
+e		 = 0.052872
+a_1		 = -9.4682
+b_1		 = 0.11182
+c_1		 = 0.05003
+d_1		 = 0.5322
+e_1		 = 0.44147
+
+Step: 2943/6000, delta=0.15599, WSSR=7416.9, pstat: 0/1000     Step: 2955/6000, delta=0.15413, WSSR=7032.2, pstat: 0/1000     Step: 2969/6000, delta=0.15199, WSSR=7057.5, pstat: 1/1000     Step: 2978/6000, delta=0.15063, WSSR=7117, pstat: 2/1000     Step: 2996/6000, delta=0.14795, WSSR=7030.7, pstat: 3/1000     
+
+Step: 2996/6000, delta=0.14795, WSSR=7030.7, delta(WSSR)/WSSR=-5.4526e-05
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9968
+b		 = 521.65
+c		 = 1.4946
+d		 = 25.49
+e		 = 0.052872
+a_1		 = -9.416
+b_1		 = 0.11178
+c_1		 = 0.050008
+d_1		 = 0.52281
+e_1		 = 0.46441
+
+Step: 2999/6000, delta=0.14751, WSSR=7158.2, pstat: 0/1000     Step: 3010/6000, delta=0.1459, WSSR=7103, pstat: 1/1000     Step: 3017/6000, delta=0.14488, WSSR=7030.8, pstat: 2/1000     Step: 3023/6000, delta=0.14402, WSSR=7063.9, pstat: 3/1000     Step: 3025/6000, delta=0.14373, WSSR=7031.9, pstat: 4/1000     Step: 3027/6000, delta=0.14344, WSSR=7031, pstat: 5/1000     Step: 3033/6000, delta=0.14258, WSSR=7058.3, pstat: 6/1000     Step: 3039/6000, delta=0.14173, WSSR=7031.3, pstat: 7/1000     Step: 3042/6000, delta=0.14131, WSSR=7038.1, pstat: 8/1000     Step: 3051/6000, delta=0.14004, WSSR=7043.1, pstat: 9/1000     Step: 3055/6000, delta=0.13949, WSSR=7042, pstat: 10/1000     Step: 3057/6000, delta=0.13921, WSSR=7030.8, pstat: 11/1000     Step: 3061/6000, delta=0.13865, WSSR=7428.8, pstat: 12/1000     Step: 3073/6000, delta=0.137, WSSR=7031.7, pstat: 12/1000     Step: 3077/6000, delta=0.13646, WSSR=7031.7, pstat: 13/1000     Step: 3078/6000, delta=0.13632, WSSR=7231.2, pstat: 14/1000     Step: 3079/6000, delta=0.13618, WSSR=7031.6, pstat: 15/1000     Step: 3090/6000, delta=0.1347, WSSR=7030.6, pstat: 16/1000     
+
+Step: 3090/6000, delta=0.1347, WSSR=7030.6, delta(WSSR)/WSSR=-2.0132e-05
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9967
+b		 = 520.85
+c		 = 1.4388
+d		 = 26.067
+e		 = 0.050842
+a_1		 = -9.4234
+b_1		 = 0.11851
+c_1		 = 0.050017
+d_1		 = 0.4777
+e_1		 = 0.41489
+
+Step: 3098/6000, delta=0.13362, WSSR=7036.5, pstat: 0/1000     Step: 3101/6000, delta=0.13322, WSSR=7032.6, pstat: 1/1000     Step: 3111/6000, delta=0.1319, WSSR=7109.6, pstat: 2/1000     Step: 3113/6000, delta=0.13164, WSSR=7171.2, pstat: 3/1000     Step: 3115/6000, delta=0.13137, WSSR=7060.6, pstat: 4/1000     Step: 3118/6000, delta=0.13098, WSSR=7032.5, pstat: 5/1000     Step: 3131/6000, delta=0.12929, WSSR=7095.6, pstat: 6/1000     Step: 3133/6000, delta=0.12903, WSSR=7231.6, pstat: 7/1000     Step: 3134/6000, delta=0.12891, WSSR=7061.3, pstat: 8/1000     Step: 3142/6000, delta=0.12788, WSSR=7032.8, pstat: 9/1000     Step: 3144/6000, delta=0.12762, WSSR=7031.1, pstat: 10/1000     Step: 3147/6000, delta=0.12724, WSSR=7201.9, pstat: 11/1000     Step: 3151/6000, delta=0.12674, WSSR=7176.3, pstat: 12/1000     Step: 3165/6000, delta=0.12498, WSSR=7032.2, pstat: 13/1000     Step: 3167/6000, delta=0.12473, WSSR=7033.2, pstat: 14/1000     Step: 3172/6000, delta=0.12411, WSSR=7487.8, pstat: 15/1000     Step: 3174/6000, delta=0.12386, WSSR=7030.8, pstat: 15/1000     Step: 3176/6000, delta=0.12361, WSSR=7097.9, pstat: 16/1000     Step: 3182/6000, delta=0.12287, WSSR=7030.4, pstat: 17/1000     
+
+Step: 3182/6000, delta=0.12287, WSSR=7030.4, delta(WSSR)/WSSR=-1.8162e-05
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.999
+b		 = 520.87
+c		 = 1.4387
+d		 = 25.581
+e		 = 0.05084
+a_1		 = -9.4214
+b_1		 = 0.12054
+c_1		 = 0.051781
+d_1		 = 0.47861
+e_1		 = 0.42768
+
+Step: 3183/6000, delta=0.12275, WSSR=7041.3, pstat: 0/1000     Step: 3189/6000, delta=0.12202, WSSR=7031.6, pstat: 1/1000     Step: 3190/6000, delta=0.12189, WSSR=7030.6, pstat: 2/1000     Step: 3191/6000, delta=0.12177, WSSR=7353.8, pstat: 3/1000     Step: 3193/6000, delta=0.12153, WSSR=7144.2, pstat: 3/1000     Step: 3195/6000, delta=0.12129, WSSR=7339.2, pstat: 4/1000     Step: 3198/6000, delta=0.12092, WSSR=7044.6, pstat: 4/1000     Step: 3199/6000, delta=0.1208, WSSR=7031.2, pstat: 5/1000     Step: 3209/6000, delta=0.1196, WSSR=7032.5, pstat: 6/1000     Step: 3213/6000, delta=0.11913, WSSR=7034.8, pstat: 7/1000     Step: 3217/6000, delta=0.11865, WSSR=7033, pstat: 8/1000     Step: 3219/6000, delta=0.11842, WSSR=7030.8, pstat: 9/1000     Step: 3221/6000, delta=0.11818, WSSR=7105.3, pstat: 10/1000     Step: 3224/6000, delta=0.11783, WSSR=7062.4, pstat: 11/1000     Step: 3230/6000, delta=0.11712, WSSR=7047.7, pstat: 12/1000     Step: 3232/6000, delta=0.11689, WSSR=7182.5, pstat: 13/1000     Step: 3233/6000, delta=0.11677, WSSR=7054.9, pstat: 14/1000     Step: 3240/6000, delta=0.11596, WSSR=7030.6, pstat: 15/1000     Step: 3249/6000, delta=0.11492, WSSR=7148.4, pstat: 16/1000     Step: 3250/6000, delta=0.11481, WSSR=7039, pstat: 17/1000     Step: 3256/6000, delta=0.11412, WSSR=7079.3, pstat: 18/1000     Step: 3259/6000, delta=0.11378, WSSR=7099.4, pstat: 19/1000     Step: 3260/6000, delta=0.11367, WSSR=7086.1, pstat: 20/1000     Step: 3269/6000, delta=0.11265, WSSR=7030.5, pstat: 21/1000     Step: 3270/6000, delta=0.11254, WSSR=7031.8, pstat: 22/1000     Step: 3273/6000, delta=0.1122, WSSR=7032.8, pstat: 23/1000     Step: 3282/6000, delta=0.1112, WSSR=7030.4, pstat: 24/1000     
+
+Step: 3282/6000, delta=0.1112, WSSR=7030.4, delta(WSSR)/WSSR=-9.4989e-06
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.999
+b		 = 550.67
+c		 = 1.4387
+d		 = 25.521
+e		 = 0.050492
+a_1		 = -9.4214
+b_1		 = 0.12014
+c_1		 = 0.053855
+d_1		 = 0.52618
+e_1		 = 0.44758
+
+Step: 3289/6000, delta=0.11042, WSSR=7032.4, pstat: 0/1000     Step: 3300/6000, delta=0.10921, WSSR=7242.4, pstat: 1/1000     Step: 3302/6000, delta=0.109, WSSR=7032.2, pstat: 2/1000     Step: 3303/6000, delta=0.10889, WSSR=7070.5, pstat: 3/1000     Step: 3305/6000, delta=0.10867, WSSR=7346, pstat: 4/1000     Step: 3306/6000, delta=0.10856, WSSR=7038.9, pstat: 4/1000     Step: 3308/6000, delta=0.10835, WSSR=7306.8, pstat: 5/1000     Step: 3309/6000, delta=0.10824, WSSR=7157.3, pstat: 5/1000     Step: 3310/6000, delta=0.10813, WSSR=7031, pstat: 6/1000     Step: 3311/6000, delta=0.10802, WSSR=7032, pstat: 7/1000     Step: 3314/6000, delta=0.1077, WSSR=7031.7, pstat: 8/1000     Step: 3316/6000, delta=0.10748, WSSR=7031.3, pstat: 9/1000     Step: 3325/6000, delta=0.10652, WSSR=7059.9, pstat: 10/1000     Step: 3332/6000, delta=0.10578, WSSR=7052, pstat: 11/1000     Step: 3333/6000, delta=0.10567, WSSR=7033.3, pstat: 12/1000     Step: 3335/6000, delta=0.10546, WSSR=7032.5, pstat: 13/1000     Step: 3337/6000, delta=0.10525, WSSR=7030.7, pstat: 14/1000     Step: 3339/6000, delta=0.10504, WSSR=7030.7, pstat: 15/1000     Step: 3340/6000, delta=0.10494, WSSR=7170.8, pstat: 16/1000     Step: 3342/6000, delta=0.10473, WSSR=7030.2, pstat: 17/1000     
+
+Step: 3342/6000, delta=0.10473, WSSR=7030.2, delta(WSSR)/WSSR=-2.7807e-05
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9992
+b		 = 592.84
+c		 = 1.4457
+d		 = 25.927
+e		 = 0.050461
+a_1		 = -9.4214
+b_1		 = 0.11471
+c_1		 = 0.054009
+d_1		 = 0.52658
+e_1		 = 0.44932
+
+Step: 3346/6000, delta=0.10431, WSSR=7033.5, pstat: 0/1000     Step: 3348/6000, delta=0.1041, WSSR=7066.5, pstat: 1/1000     Step: 3349/6000, delta=0.104, WSSR=7030.6, pstat: 2/1000     Step: 3351/6000, delta=0.10379, WSSR=7032.6, pstat: 3/1000     Step: 3355/6000, delta=0.10338, WSSR=7030.1, pstat: 4/1000     
+
+Step: 3355/6000, delta=0.10338, WSSR=7030.1, delta(WSSR)/WSSR=-3.5546e-06
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9995
+b		 = 592.72
+c		 = 1.4462
+d		 = 25.929
+e		 = 0.050492
+a_1		 = -9.4205
+b_1		 = 0.11349
+c_1		 = 0.054222
+d_1		 = 0.51249
+e_1		 = 0.41522
+
+Step: 3360/6000, delta=0.10286, WSSR=7031.2, pstat: 0/1000     Step: 3364/6000, delta=0.10245, WSSR=7219.4, pstat: 1/1000     Step: 3365/6000, delta=0.10235, WSSR=7036.5, pstat: 2/1000     Step: 3370/6000, delta=0.10184, WSSR=7098.6, pstat: 3/1000     Step: 3374/6000, delta=0.10144, WSSR=7094.3, pstat: 4/1000     Step: 3375/6000, delta=0.10133, WSSR=7309.5, pstat: 5/1000     Step: 3379/6000, delta=0.10093, WSSR=7098.1, pstat: 5/1000     Step: 3380/6000, delta=0.10083, WSSR=7044.1, pstat: 6/1000     Step: 3385/6000, delta=0.10033, WSSR=7127.7, pstat: 7/1000     Step: 3386/6000, delta=0.10023, WSSR=7036.2, pstat: 8/1000     Step: 3387/6000, delta=0.10013, WSSR=7199.3, pstat: 9/1000     Step: 3391/6000, delta=0.099728, WSSR=7153.8, pstat: 10/1000     Step: 3393/6000, delta=0.099529, WSSR=7030.5, pstat: 11/1000     Step: 3394/6000, delta=0.099429, WSSR=7036, pstat: 12/1000     Step: 3402/6000, delta=0.098638, WSSR=7089.7, pstat: 13/1000     Step: 3403/6000, delta=0.09854, WSSR=7030.7, pstat: 14/1000     Step: 3404/6000, delta=0.098441, WSSR=7077.6, pstat: 15/1000     Step: 3412/6000, delta=0.097658, WSSR=7080.6, pstat: 16/1000     Step: 3413/6000, delta=0.097561, WSSR=7035.4, pstat: 17/1000     Step: 3416/6000, delta=0.097269, WSSR=7032.3, pstat: 18/1000     Step: 3417/6000, delta=0.097172, WSSR=7034.4, pstat: 19/1000     Step: 3419/6000, delta=0.096978, WSSR=7083, pstat: 20/1000     Step: 3421/6000, delta=0.096784, WSSR=7132.9, pstat: 21/1000     Step: 3423/6000, delta=0.096591, WSSR=7066.8, pstat: 22/1000     Step: 3425/6000, delta=0.096399, WSSR=7030.2, pstat: 23/1000     Step: 3427/6000, delta=0.096206, WSSR=7030.2, pstat: 24/1000     Step: 3429/6000, delta=0.096014, WSSR=7238.5, pstat: 25/1000     Step: 3432/6000, delta=0.095727, WSSR=7042.8, pstat: 26/1000     Step: 3435/6000, delta=0.095441, WSSR=7249.6, pstat: 27/1000     Step: 3436/6000, delta=0.095346, WSSR=7096.4, pstat: 28/1000     Step: 3437/6000, delta=0.09525, WSSR=7035.2, pstat: 29/1000     Step: 3438/6000, delta=0.095155, WSSR=7031.3, pstat: 30/1000     Step: 3441/6000, delta=0.094871, WSSR=7069.6, pstat: 31/1000     Step: 3445/6000, delta=0.094492, WSSR=7030.3, pstat: 32/1000     Step: 3446/6000, delta=0.094398, WSSR=7075.7, pstat: 33/1000     Step: 3452/6000, delta=0.093834, WSSR=7030.7, pstat: 34/1000     Step: 3454/6000, delta=0.093647, WSSR=7039.9, pstat: 35/1000     Step: 3455/6000, delta=0.093554, WSSR=7086.6, pstat: 36/1000     Step: 3463/6000, delta=0.092809, WSSR=7039.2, pstat: 37/1000     Step: 3467/6000, delta=0.092439, WSSR=7032.1, pstat: 38/1000     Step: 3469/6000, delta=0.092255, WSSR=7044.8, pstat: 39/1000     Step: 3470/6000, delta=0.092163, WSSR=7051.5, pstat: 40/1000     Step: 3471/6000, delta=0.092071, WSSR=7031.5, pstat: 41/1000     Step: 3477/6000, delta=0.091521, WSSR=7037.3, pstat: 42/1000     Step: 3480/6000, delta=0.091247, WSSR=7155.2, pstat: 43/1000     Step: 3483/6000, delta=0.090974, WSSR=7030.7, pstat: 44/1000     Step: 3487/6000, delta=0.090611, WSSR=7033.2, pstat: 45/1000     Step: 3488/6000, delta=0.090521, WSSR=7075.5, pstat: 46/1000     Step: 3490/6000, delta=0.09034, WSSR=7037.4, pstat: 47/1000     Step: 3493/6000, delta=0.09007, WSSR=7041.1, pstat: 48/1000     Step: 3495/6000, delta=0.08989, WSSR=7031.3, pstat: 49/1000     Step: 3496/6000, delta=0.089801, WSSR=7038.8, pstat: 50/1000     Step: 3499/6000, delta=0.089532, WSSR=7032.9, pstat: 51/1000     Step: 3502/6000, delta=0.089264, WSSR=7030.5, pstat: 52/1000     Step: 3506/6000, delta=0.088908, WSSR=7037.8, pstat: 53/1000     Step: 3508/6000, delta=0.088731, WSSR=7060.1, pstat: 54/1000     Step: 3514/6000, delta=0.088201, WSSR=7032.1, pstat: 55/1000     Step: 3515/6000, delta=0.088113, WSSR=7061.3, pstat: 56/1000     Step: 3519/6000, delta=0.087762, WSSR=7032.1, pstat: 57/1000     Step: 3520/6000, delta=0.087674, WSSR=7037.5, pstat: 58/1000     Step: 3530/6000, delta=0.086803, WSSR=7030.3, pstat: 59/1000     Step: 3532/6000, delta=0.08663, WSSR=7031.4, pstat: 60/1000     Step: 3534/6000, delta=0.086457, WSSR=7118.1, pstat: 61/1000     Step: 3536/6000, delta=0.086284, WSSR=7036.2, pstat: 62/1000     Step: 3537/6000, delta=0.086198, WSSR=7032.6, pstat: 63/1000     Step: 3538/6000, delta=0.086112, WSSR=7154.4, pstat: 64/1000     Step: 3541/6000, delta=0.085855, WSSR=7074.4, pstat: 65/1000     Step: 3544/6000, delta=0.085598, WSSR=7030.2, pstat: 66/1000     Step: 3546/6000, delta=0.085427, WSSR=7031, pstat: 67/1000     Step: 3548/6000, delta=0.085257, WSSR=7188.1, pstat: 68/1000     Step: 3551/6000, delta=0.085002, WSSR=7031.3, pstat: 69/1000     Step: 3557/6000, delta=0.084494, WSSR=7097, pstat: 70/1000     Step: 3560/6000, delta=0.084241, WSSR=7080.7, pstat: 71/1000     Step: 3562/6000, delta=0.084073, WSSR=7030.6, pstat: 72/1000     Step: 3564/6000, delta=0.083905, WSSR=7037.8, pstat: 73/1000     Step: 3567/6000, delta=0.083654, WSSR=7082.5, pstat: 74/1000     Step: 3570/6000, delta=0.083404, WSSR=7064.3, pstat: 75/1000     Step: 3572/6000, delta=0.083238, WSSR=7030.8, pstat: 76/1000     Step: 3574/6000, delta=0.083072, WSSR=7036.1, pstat: 77/1000     Step: 3578/6000, delta=0.082741, WSSR=7033.8, pstat: 78/1000     Step: 3584/6000, delta=0.082246, WSSR=7033.9, pstat: 79/1000     Step: 3586/6000, delta=0.082082, WSSR=7030.7, pstat: 80/1000     Step: 3589/6000, delta=0.081837, WSSR=7033.4, pstat: 81/1000     Step: 3591/6000, delta=0.081673, WSSR=7030.9, pstat: 82/1000     Step: 3593/6000, delta=0.08151, WSSR=7031.3, pstat: 83/1000     Step: 3595/6000, delta=0.081348, WSSR=7030.2, pstat: 84/1000     Step: 3596/6000, delta=0.081267, WSSR=7035.4, pstat: 85/1000     Step: 3597/6000, delta=0.081185, WSSR=7033.7, pstat: 86/1000     Step: 3599/6000, delta=0.081024, WSSR=7030.2, pstat: 87/1000     Step: 3600/6000, delta=0.080943, WSSR=7121.2, pstat: 88/1000     Step: 3601/6000, delta=0.080862, WSSR=7036.9, pstat: 89/1000     Step: 3602/6000, delta=0.080781, WSSR=7078.9, pstat: 90/1000     Step: 3605/6000, delta=0.08054, WSSR=7030.2, pstat: 91/1000     Step: 3606/6000, delta=0.080459, WSSR=7032.1, pstat: 92/1000     Step: 3608/6000, delta=0.080299, WSSR=7186.8, pstat: 93/1000     Step: 3609/6000, delta=0.080218, WSSR=7032.2, pstat: 94/1000     Step: 3615/6000, delta=0.079739, WSSR=7032.2, pstat: 95/1000     Step: 3619/6000, delta=0.079421, WSSR=7030.2, pstat: 96/1000     Step: 3620/6000, delta=0.079342, WSSR=7033.2, pstat: 97/1000     Step: 3624/6000, delta=0.079026, WSSR=7031.2, pstat: 98/1000     Step: 3629/6000, delta=0.078632, WSSR=7108.4, pstat: 99/1000     Step: 3630/6000, delta=0.078554, WSSR=7057.3, pstat: 100/1000     Step: 3637/6000, delta=0.078007, WSSR=7109.3, pstat: 101/1000     Step: 3641/6000, delta=0.077696, WSSR=7033.4, pstat: 102/1000     Step: 3644/6000, delta=0.077463, WSSR=7082.2, pstat: 103/1000     Step: 3645/6000, delta=0.077386, WSSR=7033.7, pstat: 104/1000     Step: 3647/6000, delta=0.077232, WSSR=7030.2, pstat: 105/1000     Step: 3648/6000, delta=0.077154, WSSR=7066, pstat: 106/1000     Step: 3649/6000, delta=0.077077, WSSR=7033.4, pstat: 107/1000     Step: 3651/6000, delta=0.076924, WSSR=7030.4, pstat: 108/1000     Step: 3654/6000, delta=0.076694, WSSR=7032.5, pstat: 109/1000     Step: 3655/6000, delta=0.076617, WSSR=7067.8, pstat: 110/1000     Step: 3656/6000, delta=0.076541, WSSR=7096.8, pstat: 111/1000     Step: 3657/6000, delta=0.076464, WSSR=7047.7, pstat: 112/1000     Step: 3659/6000, delta=0.076312, WSSR=7039, pstat: 113/1000     Step: 3662/6000, delta=0.076083, WSSR=7030.8, pstat: 114/1000     Step: 3664/6000, delta=0.075932, WSSR=7031.6, pstat: 115/1000     Step: 3665/6000, delta=0.075856, WSSR=7030.1, pstat: 116/1000     Step: 3668/6000, delta=0.075629, WSSR=7032.4, pstat: 117/1000     Step: 3672/6000, delta=0.075327, WSSR=7030.5, pstat: 118/1000     Step: 3674/6000, delta=0.075177, WSSR=7052.2, pstat: 119/1000     Step: 3677/6000, delta=0.074952, WSSR=7097.1, pstat: 120/1000     Step: 3678/6000, delta=0.074877, WSSR=7090.8, pstat: 121/1000     Step: 3681/6000, delta=0.074653, WSSR=7064.3, pstat: 122/1000     Step: 3684/6000, delta=0.07443, WSSR=7160.8, pstat: 123/1000     Step: 3686/6000, delta=0.074282, WSSR=7031.2, pstat: 124/1000     Step: 3688/6000, delta=0.074133, WSSR=7105.2, pstat: 125/1000     Step: 3697/6000, delta=0.07347, WSSR=7095.6, pstat: 126/1000     Step: 3703/6000, delta=0.073031, WSSR=7044.3, pstat: 127/1000     Step: 3705/6000, delta=0.072886, WSSR=7066, pstat: 128/1000     Step: 3706/6000, delta=0.072813, WSSR=7145.5, pstat: 129/1000     Step: 3707/6000, delta=0.07274, WSSR=7031.1, pstat: 130/1000     Step: 3717/6000, delta=0.072017, WSSR=7183.4, pstat: 131/1000     Step: 3718/6000, delta=0.071945, WSSR=7030.6, pstat: 132/1000     Step: 3721/6000, delta=0.07173, WSSR=7041.7, pstat: 133/1000     Step: 3722/6000, delta=0.071659, WSSR=7030.1, pstat: 134/1000     Step: 3723/6000, delta=0.071587, WSSR=7033.2, pstat: 135/1000     Step: 3730/6000, delta=0.071089, WSSR=7042.5, pstat: 136/1000     Step: 3733/6000, delta=0.070876, WSSR=7031.1, pstat: 137/1000     Step: 3734/6000, delta=0.070805, WSSR=7047.2, pstat: 138/1000     Step: 3735/6000, delta=0.070734, WSSR=7030.9, pstat: 139/1000     Step: 3737/6000, delta=0.070593, WSSR=7044.2, pstat: 140/1000     Step: 3740/6000, delta=0.070382, WSSR=7031.4, pstat: 141/1000     Step: 3741/6000, delta=0.070312, WSSR=7051.2, pstat: 142/1000     Step: 3749/6000, delta=0.069752, WSSR=7094.3, pstat: 143/1000     Step: 3750/6000, delta=0.069683, WSSR=7030.1, pstat: 144/1000     
+
+Step: 3750/6000, delta=0.069683, WSSR=7030.1, delta(WSSR)/WSSR=-1.071e-06
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9997
+b		 = 585.23
+c		 = 1.4461
+d		 = 25.967
+e		 = 0.050493
+a_1		 = -9.4176
+b_1		 = 0.11536
+c_1		 = 0.052211
+d_1		 = 0.51061
+e_1		 = 0.41566
+
+Step: 3756/6000, delta=0.069267, WSSR=7043.4, pstat: 0/1000     Step: 3760/6000, delta=0.06899, WSSR=7090.1, pstat: 1/1000     Step: 3765/6000, delta=0.068647, WSSR=7030.9, pstat: 2/1000     Step: 3766/6000, delta=0.068578, WSSR=7121.7, pstat: 3/1000     Step: 3767/6000, delta=0.06851, WSSR=7031.2, pstat: 4/1000     Step: 3769/6000, delta=0.068373, WSSR=7031.9, pstat: 5/1000     Step: 3771/6000, delta=0.068237, WSSR=7111.4, pstat: 6/1000     Step: 3772/6000, delta=0.068169, WSSR=7066.8, pstat: 7/1000     Step: 3773/6000, delta=0.068101, WSSR=7061.3, pstat: 8/1000     Step: 3777/6000, delta=0.067829, WSSR=7160.1, pstat: 9/1000     Step: 3780/6000, delta=0.067626, WSSR=7050, pstat: 10/1000     Step: 3781/6000, delta=0.067559, WSSR=7032.6, pstat: 11/1000     Step: 3785/6000, delta=0.067289, WSSR=7057.3, pstat: 12/1000     Step: 3786/6000, delta=0.067222, WSSR=7061.7, pstat: 13/1000     Step: 3793/6000, delta=0.066754, WSSR=7041.9, pstat: 14/1000     Step: 3795/6000, delta=0.066621, WSSR=7136.5, pstat: 15/1000     Step: 3799/6000, delta=0.066355, WSSR=7045.5, pstat: 16/1000     Step: 3801/6000, delta=0.066223, WSSR=7172.3, pstat: 17/1000     Step: 3804/6000, delta=0.066025, WSSR=7031, pstat: 18/1000     Step: 3805/6000, delta=0.065959, WSSR=7041.2, pstat: 19/1000     Step: 3808/6000, delta=0.065762, WSSR=7030.9, pstat: 20/1000     Step: 3814/6000, delta=0.065369, WSSR=7032.6, pstat: 21/1000     Step: 3819/6000, delta=0.065043, WSSR=7065.6, pstat: 22/1000     Step: 3820/6000, delta=0.064978, WSSR=7030.7, pstat: 23/1000     Step: 3821/6000, delta=0.064913, WSSR=7030.5, pstat: 24/1000     Step: 3824/6000, delta=0.064719, WSSR=7034.2, pstat: 25/1000     Step: 3825/6000, delta=0.064655, WSSR=7031.7, pstat: 26/1000     Step: 3831/6000, delta=0.064268, WSSR=7152.2, pstat: 27/1000     Step: 3832/6000, delta=0.064204, WSSR=7034.8, pstat: 28/1000     Step: 3836/6000, delta=0.063948, WSSR=7030.4, pstat: 29/1000     Step: 3837/6000, delta=0.063885, WSSR=7103.3, pstat: 30/1000     Step: 3840/6000, delta=0.063693, WSSR=7045.1, pstat: 31/1000     Step: 3841/6000, delta=0.06363, WSSR=7065.4, pstat: 32/1000     Step: 3842/6000, delta=0.063566, WSSR=7075.1, pstat: 33/1000     Step: 3844/6000, delta=0.06344, WSSR=7030.4, pstat: 34/1000     Step: 3847/6000, delta=0.06325, WSSR=7030.8, pstat: 35/1000     Step: 3848/6000, delta=0.063187, WSSR=7044.5, pstat: 36/1000     Step: 3849/6000, delta=0.063124, WSSR=7122.6, pstat: 37/1000     Step: 3850/6000, delta=0.063061, WSSR=7035.5, pstat: 38/1000     Step: 3851/6000, delta=0.062998, WSSR=7030.3, pstat: 39/1000     Step: 3853/6000, delta=0.062872, WSSR=7085.8, pstat: 40/1000     Step: 3856/6000, delta=0.062684, WSSR=7031.6, pstat: 41/1000     Step: 3857/6000, delta=0.062621, WSSR=7031.2, pstat: 42/1000     Step: 3862/6000, delta=0.062309, WSSR=7032.1, pstat: 43/1000     Step: 3864/6000, delta=0.062185, WSSR=7032.7, pstat: 44/1000     Step: 3866/6000, delta=0.062061, WSSR=7031.4, pstat: 45/1000     Step: 3867/6000, delta=0.061999, WSSR=7030.4, pstat: 46/1000     Step: 3868/6000, delta=0.061937, WSSR=7030.5, pstat: 47/1000     Step: 3869/6000, delta=0.061875, WSSR=7073.9, pstat: 48/1000     Step: 3870/6000, delta=0.061814, WSSR=7075.4, pstat: 49/1000     Step: 3872/6000, delta=0.06169, WSSR=7030.9, pstat: 50/1000     Step: 3876/6000, delta=0.061444, WSSR=7040.8, pstat: 51/1000     Step: 3882/6000, delta=0.061077, WSSR=7030.3, pstat: 52/1000     Step: 3884/6000, delta=0.060956, WSSR=7031.8, pstat: 53/1000     Step: 3890/6000, delta=0.060591, WSSR=7030.9, pstat: 54/1000     Step: 3894/6000, delta=0.06035, WSSR=7041.7, pstat: 55/1000     Step: 3896/6000, delta=0.060229, WSSR=7031.8, pstat: 56/1000     Step: 3897/6000, delta=0.060169, WSSR=7032.1, pstat: 57/1000     Step: 3900/6000, delta=0.059989, WSSR=7131.7, pstat: 58/1000     Step: 3901/6000, delta=0.059929, WSSR=7086.9, pstat: 59/1000     Step: 3905/6000, delta=0.059691, WSSR=7065.5, pstat: 60/1000     Step: 3906/6000, delta=0.059631, WSSR=7112.5, pstat: 61/1000     Step: 3912/6000, delta=0.059275, WSSR=7031.5, pstat: 62/1000     Step: 3922/6000, delta=0.058686, WSSR=7030.6, pstat: 63/1000     Step: 3923/6000, delta=0.058627, WSSR=7131.4, pstat: 64/1000     Step: 3927/6000, delta=0.058394, WSSR=7031.7, pstat: 65/1000     Step: 3929/6000, delta=0.058277, WSSR=7042.1, pstat: 66/1000     Step: 3931/6000, delta=0.058161, WSSR=7056.6, pstat: 67/1000     Step: 3934/6000, delta=0.057987, WSSR=7062.2, pstat: 68/1000     Step: 3939/6000, delta=0.057698, WSSR=7134.3, pstat: 69/1000     Step: 3940/6000, delta=0.05764, WSSR=7030.5, pstat: 70/1000     Step: 3941/6000, delta=0.057583, WSSR=7093.6, pstat: 71/1000     Step: 3942/6000, delta=0.057525, WSSR=7030.5, pstat: 72/1000     Step: 3943/6000, delta=0.057468, WSSR=7090.6, pstat: 73/1000     Step: 3944/6000, delta=0.057411, WSSR=7031.6, pstat: 74/1000     Step: 3945/6000, delta=0.057353, WSSR=7053, pstat: 75/1000     Step: 3946/6000, delta=0.057296, WSSR=7033.5, pstat: 76/1000     Step: 3947/6000, delta=0.057239, WSSR=7070.9, pstat: 77/1000     Step: 3949/6000, delta=0.057125, WSSR=7030.2, pstat: 78/1000     Step: 3950/6000, delta=0.057068, WSSR=7030.5, pstat: 79/1000     Step: 3952/6000, delta=0.056954, WSSR=7095.2, pstat: 80/1000     Step: 3954/6000, delta=0.05684, WSSR=7077.8, pstat: 81/1000     Step: 3957/6000, delta=0.05667, WSSR=7030.2, pstat: 82/1000     Step: 3959/6000, delta=0.056557, WSSR=7065.6, pstat: 83/1000     Step: 3961/6000, delta=0.056444, WSSR=7061, pstat: 84/1000     Step: 3975/6000, delta=0.055661, WSSR=7031.2, pstat: 85/1000     Step: 3981/6000, delta=0.055328, WSSR=7080.9, pstat: 86/1000     Step: 3982/6000, delta=0.055273, WSSR=7031.1, pstat: 87/1000     Step: 3988/6000, delta=0.054943, WSSR=7074.6, pstat: 88/1000     Step: 3993/6000, delta=0.054669, WSSR=7034.5, pstat: 89/1000     Step: 3995/6000, delta=0.05456, WSSR=7106.7, pstat: 90/1000     Step: 3999/6000, delta=0.054343, WSSR=7053.2, pstat: 91/1000     Step: 4003/6000, delta=0.054126, WSSR=7030.2, pstat: 92/1000     Step: 4005/6000, delta=0.054018, WSSR=7030.7, pstat: 93/1000     Step: 4006/6000, delta=0.053964, WSSR=7034.7, pstat: 94/1000     Step: 4007/6000, delta=0.05391, WSSR=7071.8, pstat: 95/1000     Step: 4008/6000, delta=0.053856, WSSR=7030.5, pstat: 96/1000     Step: 4011/6000, delta=0.053695, WSSR=7037.3, pstat: 97/1000     Step: 4016/6000, delta=0.053428, WSSR=7031.4, pstat: 98/1000     Step: 4017/6000, delta=0.053375, WSSR=7062.3, pstat: 99/1000     Step: 4023/6000, delta=0.053056, WSSR=7030.8, pstat: 100/1000     Step: 4029/6000, delta=0.052739, WSSR=7080.7, pstat: 101/1000     Step: 4030/6000, delta=0.052686, WSSR=7061.4, pstat: 102/1000     Step: 4031/6000, delta=0.052634, WSSR=7098.7, pstat: 103/1000     Step: 4034/6000, delta=0.052476, WSSR=7083.6, pstat: 104/1000     Step: 4038/6000, delta=0.052267, WSSR=7077.4, pstat: 105/1000     Step: 4043/6000, delta=0.052007, WSSR=7059.1, pstat: 106/1000     Step: 4044/6000, delta=0.051955, WSSR=7074.1, pstat: 107/1000     Step: 4051/6000, delta=0.051593, WSSR=7037.6, pstat: 108/1000     Step: 4053/6000, delta=0.05149, WSSR=7030.6, pstat: 109/1000     Step: 4057/6000, delta=0.051285, WSSR=7031.2, pstat: 110/1000     Step: 4060/6000, delta=0.051131, WSSR=7042.3, pstat: 111/1000     Step: 4064/6000, delta=0.050927, WSSR=7030.7, pstat: 112/1000     Step: 4068/6000, delta=0.050724, WSSR=7055.9, pstat: 113/1000     Step: 4070/6000, delta=0.050623, WSSR=7064.6, pstat: 114/1000     Step: 4073/6000, delta=0.050472, WSSR=7032, pstat: 115/1000     Step: 4075/6000, delta=0.050371, WSSR=7079.4, pstat: 116/1000     Step: 4077/6000, delta=0.050271, WSSR=7032.7, pstat: 117/1000     Step: 4078/6000, delta=0.05022, WSSR=7031.5, pstat: 118/1000     Step: 4079/6000, delta=0.05017, WSSR=7055.5, pstat: 119/1000     Step: 4085/6000, delta=0.049871, WSSR=7030.8, pstat: 120/1000     Step: 4086/6000, delta=0.049821, WSSR=7068.6, pstat: 121/1000     Step: 4089/6000, delta=0.049672, WSSR=7030.3, pstat: 122/1000     Step: 4092/6000, delta=0.049523, WSSR=7049.6, pstat: 123/1000     Step: 4100/6000, delta=0.049129, WSSR=7033, pstat: 124/1000     Step: 4101/6000, delta=0.04908, WSSR=7099.4, pstat: 125/1000     Step: 4102/6000, delta=0.049031, WSSR=7057.7, pstat: 126/1000     Step: 4104/6000, delta=0.048933, WSSR=7034.9, pstat: 127/1000     Step: 4105/6000, delta=0.048884, WSSR=7033.3, pstat: 128/1000     Step: 4106/6000, delta=0.048836, WSSR=7083.4, pstat: 129/1000     Step: 4107/6000, delta=0.048787, WSSR=7032.8, pstat: 130/1000     Step: 4109/6000, delta=0.04869, WSSR=7030.6, pstat: 131/1000     Step: 4112/6000, delta=0.048544, WSSR=7030.9, pstat: 132/1000     Step: 4115/6000, delta=0.048399, WSSR=7030.7, pstat: 133/1000     Step: 4116/6000, delta=0.04835, WSSR=7058.5, pstat: 134/1000     Step: 4123/6000, delta=0.048014, WSSR=7054.6, pstat: 135/1000     Step: 4125/6000, delta=0.047918, WSSR=7083.9, pstat: 136/1000     Step: 4128/6000, delta=0.047774, WSSR=7044, pstat: 137/1000     Step: 4131/6000, delta=0.047632, WSSR=7030.1, pstat: 138/1000     
+
+Step: 4131/6000, delta=0.047632, WSSR=7030.1, delta(WSSR)/WSSR=-1.1091e-05
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9995
+b		 = 585.32
+c		 = 1.4686
+d		 = 25.947
+e		 = 0.050524
+a_1		 = -9.4177
+b_1		 = 0.1181
+c_1		 = 0.052994
+d_1		 = 0.50912
+e_1		 = 0.43357
+
+Step: 4134/6000, delta=0.047489, WSSR=7030.6, pstat: 0/1000     Step: 4136/6000, delta=0.047394, WSSR=7036.9, pstat: 1/1000     Step: 4139/6000, delta=0.047253, WSSR=7053.1, pstat: 2/1000     Step: 4141/6000, delta=0.047158, WSSR=7116.3, pstat: 3/1000     Step: 4145/6000, delta=0.04697, WSSR=7030.6, pstat: 4/1000     Step: 4146/6000, delta=0.046923, WSSR=7030.2, pstat: 5/1000     Step: 4147/6000, delta=0.046877, WSSR=7098.9, pstat: 6/1000     Step: 4151/6000, delta=0.04669, WSSR=7035.5, pstat: 7/1000     Step: 4153/6000, delta=0.046597, WSSR=7033.5, pstat: 8/1000     Step: 4155/6000, delta=0.046504, WSSR=7045.1, pstat: 9/1000     Step: 4162/6000, delta=0.04618, WSSR=7030, pstat: 10/1000     
+
+Step: 4162/6000, delta=0.04618, WSSR=7030, delta(WSSR)/WSSR=-2.1758e-06
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9992
+b		 = 585.32
+c		 = 1.4813
+d		 = 26.439
+e		 = 0.050524
+a_1		 = -9.4019
+b_1		 = 0.11819
+c_1		 = 0.052816
+d_1		 = 0.5083
+e_1		 = 0.45079
+
+Step: 4165/6000, delta=0.046042, WSSR=7044.6, pstat: 0/1000     Step: 4168/6000, delta=0.045904, WSSR=7031.8, pstat: 1/1000     Step: 4170/6000, delta=0.045812, WSSR=7030, pstat: 2/1000     Step: 4171/6000, delta=0.045767, WSSR=7060.6, pstat: 3/1000     Step: 4172/6000, delta=0.045721, WSSR=7031.3, pstat: 4/1000     Step: 4176/6000, delta=0.045539, WSSR=7030.6, pstat: 5/1000     Step: 4177/6000, delta=0.045493, WSSR=7077.9, pstat: 6/1000     Step: 4179/6000, delta=0.045402, WSSR=7045.2, pstat: 7/1000     Step: 4180/6000, delta=0.045357, WSSR=7044.6, pstat: 8/1000     Step: 4183/6000, delta=0.045221, WSSR=7032.5, pstat: 9/1000     Step: 4186/6000, delta=0.045086, WSSR=7031.3, pstat: 10/1000     Step: 4190/6000, delta=0.044906, WSSR=7047.1, pstat: 11/1000     Step: 4193/6000, delta=0.044772, WSSR=7068, pstat: 12/1000     Step: 4194/6000, delta=0.044727, WSSR=7031.1, pstat: 13/1000     Step: 4195/6000, delta=0.044683, WSSR=7031, pstat: 14/1000     Step: 4196/6000, delta=0.044638, WSSR=7030.3, pstat: 15/1000     Step: 4199/6000, delta=0.044505, WSSR=7080.3, pstat: 16/1000     Step: 4200/6000, delta=0.04446, WSSR=7033.1, pstat: 17/1000     Step: 4201/6000, delta=0.044416, WSSR=7030.4, pstat: 18/1000     Step: 4205/6000, delta=0.044239, WSSR=7033.7, pstat: 19/1000     Step: 4206/6000, delta=0.044195, WSSR=7030.2, pstat: 20/1000     Step: 4214/6000, delta=0.043843, WSSR=7037.9, pstat: 21/1000     Step: 4215/6000, delta=0.043799, WSSR=7031, pstat: 22/1000     Step: 4216/6000, delta=0.043755, WSSR=7031.5, pstat: 23/1000     Step: 4218/6000, delta=0.043668, WSSR=7030, pstat: 24/1000     
+
+Step: 4218/6000, delta=0.043668, WSSR=7030, delta(WSSR)/WSSR=-6.2515e-06
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9988
+b		 = 585.97
+c		 = 1.4814
+d		 = 26.455
+e		 = 0.050193
+a_1		 = -9.4019
+b_1		 = 0.12
+c_1		 = 0.052016
+d_1		 = 0.50289
+e_1		 = 0.45076
+
+Step: 4223/6000, delta=0.043451, WSSR=7030, pstat: 0/1000     Step: 4225/6000, delta=0.043364, WSSR=7043.1, pstat: 1/1000     Step: 4226/6000, delta=0.043321, WSSR=7037, pstat: 2/1000     Step: 4227/6000, delta=0.043277, WSSR=7107.7, pstat: 3/1000     Step: 4228/6000, delta=0.043234, WSSR=7082.7, pstat: 4/1000     Step: 4231/6000, delta=0.043105, WSSR=7030, pstat: 5/1000     Step: 4236/6000, delta=0.04289, WSSR=7067, pstat: 6/1000     Step: 4237/6000, delta=0.042847, WSSR=7071.6, pstat: 7/1000     Step: 4238/6000, delta=0.042805, WSSR=7049.4, pstat: 8/1000     Step: 4243/6000, delta=0.042592, WSSR=7030.6, pstat: 9/1000     Step: 4249/6000, delta=0.042337, WSSR=7038.7, pstat: 10/1000     Step: 4256/6000, delta=0.042042, WSSR=7041.5, pstat: 11/1000     Step: 4259/6000, delta=0.041916, WSSR=7030, pstat: 12/1000     Step: 4260/6000, delta=0.041875, WSSR=7030.3, pstat: 13/1000     Step: 4264/6000, delta=0.041708, WSSR=7032.9, pstat: 14/1000     Step: 4268/6000, delta=0.041541, WSSR=7034.5, pstat: 15/1000     Step: 4270/6000, delta=0.041459, WSSR=7030.2, pstat: 16/1000     Step: 4271/6000, delta=0.041417, WSSR=7033, pstat: 17/1000     Step: 4272/6000, delta=0.041376, WSSR=7033.1, pstat: 18/1000     Step: 4275/6000, delta=0.041252, WSSR=7038.2, pstat: 19/1000     Step: 4279/6000, delta=0.041088, WSSR=7042, pstat: 20/1000     Step: 4284/6000, delta=0.040883, WSSR=7055.3, pstat: 21/1000     Step: 4285/6000, delta=0.040842, WSSR=7075.8, pstat: 22/1000     Step: 4287/6000, delta=0.040761, WSSR=7072.1, pstat: 23/1000     Step: 4288/6000, delta=0.04072, WSSR=7033.4, pstat: 24/1000     Step: 4294/6000, delta=0.040477, WSSR=7030, pstat: 25/1000     Step: 4295/6000, delta=0.040436, WSSR=7029.9, pstat: 26/1000     
+
+Step: 4295/6000, delta=0.040436, WSSR=7029.9, delta(WSSR)/WSSR=-8.6916e-06
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9988
+b		 = 585.97
+c		 = 1.4973
+d		 = 26.49
+e		 = 0.050193
+a_1		 = -9.4238
+b_1		 = 0.1184
+c_1		 = 0.052879
+d_1		 = 0.50376
+e_1		 = 0.45429
+
+Step: 4297/6000, delta=0.040356, WSSR=7030.6, pstat: 0/1000     Step: 4301/6000, delta=0.040195, WSSR=7082.5, pstat: 1/1000     Step: 4302/6000, delta=0.040155, WSSR=7075.6, pstat: 2/1000     Step: 4304/6000, delta=0.040075, WSSR=7030.8, pstat: 3/1000     Step: 4306/6000, delta=0.039995, WSSR=7030.2, pstat: 4/1000     Step: 4307/6000, delta=0.039955, WSSR=7064.2, pstat: 5/1000     Step: 4311/6000, delta=0.039795, WSSR=7030.7, pstat: 6/1000     Step: 4312/6000, delta=0.039756, WSSR=7031.9, pstat: 7/1000     Step: 4313/6000, delta=0.039716, WSSR=7052.5, pstat: 8/1000     Step: 4314/6000, delta=0.039676, WSSR=7030, pstat: 9/1000     Step: 4319/6000, delta=0.039479, WSSR=7032.5, pstat: 10/1000     Step: 4321/6000, delta=0.0394, WSSR=7054.9, pstat: 11/1000     Step: 4325/6000, delta=0.039243, WSSR=7030, pstat: 12/1000     Step: 4327/6000, delta=0.039165, WSSR=7032, pstat: 13/1000     Step: 4328/6000, delta=0.039126, WSSR=7031.4, pstat: 14/1000     Step: 4337/6000, delta=0.038776, WSSR=7060.3, pstat: 15/1000     Step: 4340/6000, delta=0.03866, WSSR=7030.2, pstat: 16/1000     Step: 4345/6000, delta=0.038467, WSSR=7043.2, pstat: 17/1000     Step: 4351/6000, delta=0.038237, WSSR=7033.8, pstat: 18/1000     Step: 4355/6000, delta=0.038085, WSSR=7030.3, pstat: 19/1000     Step: 4356/6000, delta=0.038047, WSSR=7030.3, pstat: 20/1000     Step: 4358/6000, delta=0.037971, WSSR=7031.7, pstat: 21/1000     Step: 4359/6000, delta=0.037933, WSSR=7034.3, pstat: 22/1000     Step: 4361/6000, delta=0.037857, WSSR=7050.6, pstat: 23/1000     Step: 4365/6000, delta=0.037706, WSSR=7031.1, pstat: 24/1000     Step: 4366/6000, delta=0.037669, WSSR=7031.7, pstat: 25/1000     Step: 4369/6000, delta=0.037556, WSSR=7040, pstat: 26/1000     Step: 4370/6000, delta=0.037519, WSSR=7031.1, pstat: 27/1000     Step: 4375/6000, delta=0.037332, WSSR=7030.1, pstat: 28/1000     Step: 4381/6000, delta=0.037109, WSSR=7082.5, pstat: 29/1000     Step: 4383/6000, delta=0.037035, WSSR=7064, pstat: 30/1000     Step: 4385/6000, delta=0.036961, WSSR=7034.5, pstat: 31/1000     Step: 4388/6000, delta=0.03685, WSSR=7030, pstat: 32/1000     Step: 4391/6000, delta=0.03674, WSSR=7068.3, pstat: 33/1000     Step: 4392/6000, delta=0.036703, WSSR=7074.8, pstat: 34/1000     Step: 4394/6000, delta=0.03663, WSSR=7043.3, pstat: 35/1000     Step: 4396/6000, delta=0.036557, WSSR=7030.9, pstat: 36/1000     Step: 4397/6000, delta=0.036521, WSSR=7045.1, pstat: 37/1000     Step: 4399/6000, delta=0.036448, WSSR=7030, pstat: 38/1000     Step: 4404/6000, delta=0.036266, WSSR=7029.9, pstat: 39/1000     
+
+Step: 4404/6000, delta=0.036266, WSSR=7029.9, delta(WSSR)/WSSR=-7.4767e-07
+New parameter values:
+a		 = 2.9988
+b		 = 595.45
+c		 = 1.4967
+d		 = 26.49
+e		 = 0.050194
+a_1		 = -9.4238
+b_1		 = 0.11795
+c_1		 = 0.052687
+d_1		 = 0.50418
+e_1		 = 0.44388
+
+Step: 4407/6000, delta=0.036158, WSSR=7030.2, pstat: 39/1000     Step: 4408/6000, delta=0.036122, WSSR=7066.4, pstat: 40/1000     Step: 4412/6000, delta=0.035978, WSSR=7030.6, pstat: 41/1000     Step: 4415/6000, delta=0.03587, WSSR=7030.2, pstat: 42/1000     Step: 4416/6000, delta=0.035834, WSSR=7030.7, pstat: 43/1000     Step: 4418/6000, delta=0.035763, WSSR=7030, pstat: 44/1000     Step: 4419/6000, delta=0.035727, WSSR=7034.1, pstat: 45/1000     Step: 4423/6000, delta=0.035585, WSSR=7031.6, pstat: 46/1000     Step: 4425/6000, delta=0.035514, WSSR=7030.4, pstat: 47/1000     Step: 4430/6000, delta=0.035337, WSSR=7029.9, pstat: 48/1000     
+
+Step: 4430/6000, delta=0.035337, WSSR=7029.9, delta(WSSR)/WSSR=-8.7689e-07
+New parameter values:
+a		 = 2.9997
+b		 = 595.14
+c		 = 1.4967
+d		 = 26.76
+e		 = 0.050202
+a_1		 = -9.4231
+b_1		 = 0.11795
+c_1		 = 0.051627
+d_1		 = 0.50084
+e_1		 = 0.44362
+
+Step: 4432/6000, delta=0.035266, WSSR=7029.9, pstat: 48/1000     
+
+Step: 4432/6000, delta=0.035266, WSSR=7029.9, delta(WSSR)/WSSR=-3.5083e-06
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9997
+b		 = 591.75
+c		 = 1.4967
+d		 = 26.749
+e		 = 0.050118
+a_1		 = -9.4232
+b_1		 = 0.11631
+c_1		 = 0.051435
+d_1		 = 0.49639
+e_1		 = 0.44058
+
+Step: 4435/6000, delta=0.035161, WSSR=7030.3, pstat: 0/1000     Step: 4443/6000, delta=0.034881, WSSR=7036, pstat: 1/1000     Step: 4446/6000, delta=0.034777, WSSR=7030.2, pstat: 2/1000     Step: 4447/6000, delta=0.034742, WSSR=7036.4, pstat: 3/1000     Step: 4449/6000, delta=0.034673, WSSR=7054.1, pstat: 4/1000     Step: 4458/6000, delta=0.034362, WSSR=7030.6, pstat: 5/1000     Step: 4460/6000, delta=0.034294, WSSR=7030.3, pstat: 6/1000     Step: 4461/6000, delta=0.03426, WSSR=7057.7, pstat: 7/1000     Step: 4462/6000, delta=0.034225, WSSR=7032.1, pstat: 8/1000     Step: 4467/6000, delta=0.034055, WSSR=7032.7, pstat: 9/1000     Step: 4474/6000, delta=0.033818, WSSR=7029.9, pstat: 10/1000     Step: 4476/6000, delta=0.03375, WSSR=7030.9, pstat: 11/1000     Step: 4477/6000, delta=0.033717, WSSR=7053.2, pstat: 12/1000     Step: 4483/6000, delta=0.033515, WSSR=7029.9, pstat: 13/1000     Step: 4484/6000, delta=0.033482, WSSR=7038, pstat: 14/1000     Step: 4487/6000, delta=0.033382, WSSR=7044.8, pstat: 15/1000     Step: 4502/6000, delta=0.032885, WSSR=7037.4, pstat: 16/1000     Step: 4507/6000, delta=0.032721, WSSR=7030, pstat: 17/1000     Step: 4512/6000, delta=0.032558, WSSR=7059, pstat: 18/1000     Step: 4513/6000, delta=0.032526, WSSR=7066.8, pstat: 19/1000     Step: 4517/6000, delta=0.032396, WSSR=7030.7, pstat: 20/1000     Step: 4524/6000, delta=0.032171, WSSR=7068.6, pstat: 21/1000     Step: 4531/6000, delta=0.031947, WSSR=7035.2, pstat: 22/1000     Step: 4533/6000, delta=0.031883, WSSR=7055.7, pstat: 23/1000     Step: 4537/6000, delta=0.031756, WSSR=7051.2, pstat: 24/1000     Step: 4539/6000, delta=0.031692, WSSR=7029.9, pstat: 25/1000     
+
+Step: 4539/6000, delta=0.031692, WSSR=7029.9, delta(WSSR)/WSSR=-7.0744e-07
+New parameter values:
+a		 = 2.9997
+b		 = 592.03
+c		 = 1.489
+d		 = 26.749
+e		 = 0.050009
+a_1		 = -9.4199
+b_1		 = 0.11482
+c_1		 = 0.051423
+d_1		 = 0.48401
+e_1		 = 0.4291
+
+Step: 4543/6000, delta=0.031566, WSSR=7029.8, pstat: 25/1000     
+
+Step: 4543/6000, delta=0.031566, WSSR=7029.8, delta(WSSR)/WSSR=-7.3273e-06
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9997
+b		 = 592
+c		 = 1.4884
+d		 = 26.393
+e		 = 0.050012
+a_1		 = -9.4038
+b_1		 = 0.11479
+c_1		 = 0.051426
+d_1		 = 0.48197
+e_1		 = 0.42867
+
+Step: 4546/6000, delta=0.031472, WSSR=7035.5, pstat: 0/1000     Step: 4558/6000, delta=0.031097, WSSR=7030, pstat: 1/1000     Step: 4562/6000, delta=0.030973, WSSR=7064.5, pstat: 2/1000     Step: 4564/6000, delta=0.030911, WSSR=7036.1, pstat: 3/1000     Step: 4568/6000, delta=0.030788, WSSR=7033.8, pstat: 4/1000     Step: 4580/6000, delta=0.030421, WSSR=7042, pstat: 5/1000     Step: 4581/6000, delta=0.030391, WSSR=7030.1, pstat: 6/1000     Step: 4585/6000, delta=0.03027, WSSR=7058.2, pstat: 7/1000     Step: 4587/6000, delta=0.030209, WSSR=7082.5, pstat: 8/1000     Step: 4604/6000, delta=0.029701, WSSR=7058.6, pstat: 9/1000     Step: 4605/6000, delta=0.029671, WSSR=7057.8, pstat: 10/1000     Step: 4610/6000, delta=0.029523, WSSR=7031.4, pstat: 11/1000     Step: 4615/6000, delta=0.029376, WSSR=7029.9, pstat: 12/1000     Step: 4617/6000, delta=0.029318, WSSR=7031.4, pstat: 13/1000     Step: 4618/6000, delta=0.029288, WSSR=7035.9, pstat: 14/1000     Step: 4623/6000, delta=0.029142, WSSR=7050.1, pstat: 15/1000     Step: 4624/6000, delta=0.029113, WSSR=7032.3, pstat: 16/1000     Step: 4628/6000, delta=0.028997, WSSR=7031.7, pstat: 17/1000     Step: 4632/6000, delta=0.028882, WSSR=7044.7, pstat: 18/1000     Step: 4636/6000, delta=0.028767, WSSR=7032, pstat: 19/1000     Step: 4638/6000, delta=0.028709, WSSR=7064, pstat: 20/1000     Step: 4645/6000, delta=0.028509, WSSR=7033.7, pstat: 21/1000     Step: 4647/6000, delta=0.028452, WSSR=7048.2, pstat: 22/1000     Step: 4651/6000, delta=0.028339, WSSR=7031.1, pstat: 23/1000     Step: 4654/6000, delta=0.028254, WSSR=7052.4, pstat: 24/1000     Step: 4656/6000, delta=0.028198, WSSR=7054.8, pstat: 25/1000     Step: 4657/6000, delta=0.02817, WSSR=7032.7, pstat: 26/1000     Step: 4661/6000, delta=0.028057, WSSR=7038.7, pstat: 27/1000     Step: 4668/6000, delta=0.027862, WSSR=7030.9, pstat: 28/1000     Step: 4676/6000, delta=0.02764, WSSR=7068.3, pstat: 29/1000     Step: 4678/6000, delta=0.027585, WSSR=7031.7, pstat: 30/1000     Step: 4680/6000, delta=0.02753, WSSR=7046, pstat: 31/1000     Step: 4683/6000, delta=0.027448, WSSR=7029.9, pstat: 32/1000     Step: 4688/6000, delta=0.027311, WSSR=7030.2, pstat: 33/1000     Step: 4689/6000, delta=0.027284, WSSR=7055.7, pstat: 34/1000     Step: 4690/6000, delta=0.027256, WSSR=7071.7, pstat: 35/1000     Step: 4691/6000, delta=0.027229, WSSR=7034, pstat: 36/1000     Step: 4696/6000, delta=0.027094, WSSR=7034.1, pstat: 37/1000     Step: 4699/6000, delta=0.027013, WSSR=7041, pstat: 38/1000     Step: 4700/6000, delta=0.026986, WSSR=7048.4, pstat: 39/1000     Step: 4705/6000, delta=0.026851, WSSR=7033.1, pstat: 40/1000     Step: 4715/6000, delta=0.026584, WSSR=7032.9, pstat: 41/1000     Step: 4716/6000, delta=0.026558, WSSR=7053.4, pstat: 42/1000     Step: 4718/6000, delta=0.026505, WSSR=7030.9, pstat: 43/1000     Step: 4719/6000, delta=0.026478, WSSR=7029.9, pstat: 44/1000     Step: 4721/6000, delta=0.026426, WSSR=7030, pstat: 45/1000     Step: 4724/6000, delta=0.026347, WSSR=7030.9, pstat: 46/1000     Step: 4728/6000, delta=0.026242, WSSR=7032.7, pstat: 47/1000     Step: 4730/6000, delta=0.026189, WSSR=7037.7, pstat: 48/1000     Step: 4731/6000, delta=0.026163, WSSR=7033.7, pstat: 49/1000     Step: 4735/6000, delta=0.026059, WSSR=7029.9, pstat: 50/1000     Step: 4738/6000, delta=0.025981, WSSR=7048.1, pstat: 51/1000     Step: 4739/6000, delta=0.025955, WSSR=7064, pstat: 52/1000     Step: 4743/6000, delta=0.025851, WSSR=7062.9, pstat: 53/1000     Step: 4749/6000, delta=0.025697, WSSR=7056.3, pstat: 54/1000     Step: 4750/6000, delta=0.025671, WSSR=7062.7, pstat: 55/1000     Step: 4754/6000, delta=0.025569, WSSR=7030.2, pstat: 56/1000     Step: 4756/6000, delta=0.025518, WSSR=7041.5, pstat: 57/1000     Step: 4759/6000, delta=0.025442, WSSR=7030, pstat: 58/1000     Step: 4762/6000, delta=0.025366, WSSR=7033.8, pstat: 59/1000     Step: 4763/6000, delta=0.02534, WSSR=7032.3, pstat: 60/1000     Step: 4767/6000, delta=0.025239, WSSR=7040.3, pstat: 61/1000     Step: 4776/6000, delta=0.025013, WSSR=7030, pstat: 62/1000     Step: 4780/6000, delta=0.024914, WSSR=7066.3, pstat: 63/1000     Step: 4784/6000, delta=0.024814, WSSR=7030.6, pstat: 64/1000     Step: 4788/6000, delta=0.024716, WSSR=7031.8, pstat: 65/1000     Step: 4790/6000, delta=0.024666, WSSR=7043.4, pstat: 66/1000     Step: 4791/6000, delta=0.024642, WSSR=7037, pstat: 67/1000     Step: 4792/6000, delta=0.024617, WSSR=7030.4, pstat: 68/1000     Step: 4793/6000, delta=0.024592, WSSR=7036.7, pstat: 69/1000     Step: 4794/6000, delta=0.024568, WSSR=7030.5, pstat: 70/1000     Step: 4795/6000, delta=0.024543, WSSR=7030.1, pstat: 71/1000     Step: 4802/6000, delta=0.024372, WSSR=7053.8, pstat: 72/1000     Step: 4807/6000, delta=0.024251, WSSR=7029.8, pstat: 73/1000     Step: 4810/6000, delta=0.024178, WSSR=7043.6, pstat: 74/1000     Step: 4811/6000, delta=0.024154, WSSR=7035.8, pstat: 75/1000     Step: 4812/6000, delta=0.02413, WSSR=7053.2, pstat: 76/1000     Step: 4813/6000, delta=0.024106, WSSR=7045.8, pstat: 77/1000     Step: 4817/6000, delta=0.02401, WSSR=7034, pstat: 78/1000     Step: 4819/6000, delta=0.023962, WSSR=7035.9, pstat: 79/1000     Step: 4821/6000, delta=0.023914, WSSR=7029.9, pstat: 80/1000     Step: 4827/6000, delta=0.023771, WSSR=7029.9, pstat: 81/1000     Step: 4829/6000, delta=0.023724, WSSR=7045.2, pstat: 82/1000     Step: 4830/6000, delta=0.0237, WSSR=7043.4, pstat: 83/1000     Step: 4831/6000, delta=0.023677, WSSR=7039.4, pstat: 84/1000     Step: 4835/6000, delta=0.023582, WSSR=7031, pstat: 85/1000     Step: 4837/6000, delta=0.023535, WSSR=7044.3, pstat: 86/1000     Step: 4840/6000, delta=0.023465, WSSR=7048.8, pstat: 87/1000     Step: 4841/6000, delta=0.023441, WSSR=7030.4, pstat: 88/1000     Step: 4842/6000, delta=0.023418, WSSR=7036.3, pstat: 89/1000     Step: 4844/6000, delta=0.023371, WSSR=7030.7, pstat: 90/1000     Step: 4846/6000, delta=0.023325, WSSR=7031.2, pstat: 91/1000     Step: 4852/6000, delta=0.023185, WSSR=7057.7, pstat: 92/1000     Step: 4853/6000, delta=0.023162, WSSR=7049.7, pstat: 93/1000     Step: 4854/6000, delta=0.023139, WSSR=7029.9, pstat: 94/1000     Step: 4855/6000, delta=0.023116, WSSR=7030.2, pstat: 95/1000     Step: 4856/6000, delta=0.023093, WSSR=7031.7, pstat: 96/1000     Step: 4857/6000, delta=0.02307, WSSR=7041.3, pstat: 97/1000     Step: 4860/6000, delta=0.023001, WSSR=7032.2, pstat: 98/1000     Step: 4868/6000, delta=0.022818, WSSR=7033.1, pstat: 99/1000     Step: 4871/6000, delta=0.02275, WSSR=7030.9, pstat: 100/1000     Step: 4876/6000, delta=0.022636, WSSR=7035.5, pstat: 101/1000     Step: 4877/6000, delta=0.022614, WSSR=7035.1, pstat: 102/1000     Step: 4881/6000, delta=0.022524, WSSR=7047.8, pstat: 103/1000     Step: 4894/6000, delta=0.022233, WSSR=7029.9, pstat: 104/1000     Step: 4898/6000, delta=0.022144, WSSR=7029.9, pstat: 105/1000     Step: 4902/6000, delta=0.022056, WSSR=7030.9, pstat: 106/1000     Step: 4907/6000, delta=0.021946, WSSR=7060.1, pstat: 107/1000     Step: 4914/6000, delta=0.021793, WSSR=7029.8, pstat: 108/1000     
+
+Step: 4914/6000, delta=0.021793, WSSR=7029.8, delta(WSSR)/WSSR=-6.0935e-06
+Clearing statistics data for 1+p% data.
+New parameter values:
+a		 = 2.9997
+b		 = 591.99
+c		 = 1.4997
+d		 = 26.177
+e		 = 0.050009
+a_1		 = -9.4055
+b_1		 = 0.11549
+c_1		 = 0.052364
+d_1		 = 0.4819
+e_1		 = 0.42647
+
+Step: 4916/6000, delta=0.02175, WSSR=7029.8, pstat: 0/1000     Step: 4922/6000, delta=0.02162, WSSR=7040.3, pstat: 1/1000     Step: 4924/6000, delta=0.021577, WSSR=7033.8, pstat: 2/1000     Step: 4927/6000, delta=0.021512, WSSR=7031.1, pstat: 3/1000     Step: 4934/6000, delta=0.021363, WSSR=7030.4, pstat: 4/1000     Step: 4936/6000, delta=0.02132, WSSR=7039.5, pstat: 5/1000     Step: 4949/6000, delta=0.021045, WSSR=7034.3, pstat: 6/1000     Step: 4953/6000, delta=0.020961, WSSR=7033.1, pstat: 7/1000     Step: 4955/6000, delta=0.020919, WSSR=7036.9, pstat: 8/1000     Step: 4958/6000, delta=0.020857, WSSR=7034.5, pstat: 9/1000     Step: 4959/6000, delta=0.020836, WSSR=7033.1, pstat: 10/1000     Step: 4965/6000, delta=0.020711, WSSR=7029.8, pstat: 11/1000     Step: 4969/6000, delta=0.020629, WSSR=7030.1, pstat: 12/1000     Step: 4974/6000, delta=0.020526, WSSR=7059, pstat: 13/1000     Step: 4979/6000, delta=0.020424, WSSR=7038.5, pstat: 14/1000     Step: 4983/6000, delta=0.020342, WSSR=7030.3, pstat: 15/1000     Step: 4984/6000, delta=0.020322, WSSR=7044.8, pstat: 16/1000     Step: 4987/6000, delta=0.020261, WSSR=7030, pstat: 17/1000     Step: 4988/6000, delta=0.020241, WSSR=7030.7, pstat: 18/1000     Step: 4992/6000, delta=0.02016, WSSR=7034.3, pstat: 19/1000     Step: 5002/6000, delta=0.02, WSSR=7044, pstat: 20/1000     Step: 5003/6000, delta=0.02, WSSR=7029.9, pstat: 21/1000     Step: 5008/6000, delta=0.02, WSSR=7040.6, pstat: 22/1000     Step: 5012/6000, delta=0.02, WSSR=7042.2, pstat: 23/1000     Step: 5017/6000, delta=0.02, WSSR=7033.2, pstat: 24/1000     Step: 5019/6000, delta=0.02, WSSR=7044.2, pstat: 25/1000     Step: 5033/6000, delta=0.02, WSSR=7038.5, pstat: 26/1000     Step: 5042/6000, delta=0.02, WSSR=7029.9, pstat: 27/1000     Step: 5056/6000, delta=0.02, WSSR=7029.9, pstat: 28/1000     Step: 5064/6000, delta=0.02, WSSR=7036.9, pstat: 29/1000     Step: 5067/6000, delta=0.02, WSSR=7031, pstat: 30/1000     Step: 5070/6000, delta=0.02, WSSR=7041.1, pstat: 31/1000     Step: 5073/6000, delta=0.02, WSSR=7029.8, pstat: 32/1000     Step: 5074/6000, delta=0.02, WSSR=7029.9, pstat: 33/1000     Step: 5077/6000, delta=0.02, WSSR=7030, pstat: 34/1000     Step: 5081/6000, delta=0.02, WSSR=7030.7, pstat: 35/1000     Step: 5087/6000, delta=0.02, WSSR=7033.9, pstat: 36/1000     Step: 5089/6000, delta=0.02, WSSR=7032, pstat: 37/1000     Step: 5093/6000, delta=0.02, WSSR=7045.5, pstat: 38/1000     Step: 5095/6000, delta=0.02, WSSR=7033.1, pstat: 39/1000     Step: 5098/6000, delta=0.02, WSSR=7036.3, pstat: 40/1000     Step: 5099/6000, delta=0.02, WSSR=7029.9, pstat: 41/1000     Step: 5107/6000, delta=0.02, WSSR=7029.8, pstat: 42/1000     Step: 5110/6000, delta=0.02, WSSR=7033.3, pstat: 43/1000     Step: 5111/6000, delta=0.02, WSSR=7031.9, pstat: 44/1000     Step: 5112/6000, delta=0.02, WSSR=7030.2, pstat: 45/1000     Step: 5115/6000, delta=0.02, WSSR=7029.9, pstat: 46/1000     Step: 5131/6000, delta=0.02, WSSR=7030.2, pstat: 47/1000     Step: 5136/6000, delta=0.02, WSSR=7030.2, pstat: 48/1000     Step: 5137/6000, delta=0.02, WSSR=7037.8, pstat: 49/1000     Step: 5145/6000, delta=0.02, WSSR=7030.5, pstat: 50/1000     Step: 5149/6000, delta=0.02, WSSR=7031.9, pstat: 51/1000     Step: 5166/6000, delta=0.02, WSSR=7029.8, pstat: 52/1000     Step: 5175/6000, delta=0.02, WSSR=7052, pstat: 53/1000     Step: 5181/6000, delta=0.02, WSSR=7030, pstat: 54/1000     Step: 5182/6000, delta=0.02, WSSR=7030, pstat: 55/1000     Step: 5191/6000, delta=0.02, WSSR=7030, pstat: 56/1000     Step: 5199/6000, delta=0.02, WSSR=7048.4, pstat: 57/1000     Step: 5202/6000, delta=0.02, WSSR=7030.8, pstat: 58/1000     Step: 5206/6000, delta=0.02, WSSR=7034.3, pstat: 59/1000     Step: 5211/6000, delta=0.02, WSSR=7045, pstat: 60/1000     Step: 5217/6000, delta=0.02, WSSR=7051.1, pstat: 61/1000     Step: 5222/6000, delta=0.02, WSSR=7033.3, pstat: 62/1000     Step: 5226/6000, delta=0.02, WSSR=7043.2, pstat: 63/1000     Step: 5230/6000, delta=0.02, WSSR=7032.5, pstat: 64/1000     Step: 5236/6000, delta=0.02, WSSR=7055.9, pstat: 65/1000     Step: 5242/6000, delta=0.02, WSSR=7041.2, pstat: 66/1000     Step: 5244/6000, delta=0.02, WSSR=7051.4, pstat: 67/1000     Step: 5245/6000, delta=0.02, WSSR=7032.9, pstat: 68/1000     Step: 5247/6000, delta=0.02, WSSR=7035.1, pstat: 69/1000     Step: 5250/6000, delta=0.02, WSSR=7029.9, pstat: 70/1000     Step: 5256/6000, delta=0.02, WSSR=7046.8, pstat: 71/1000     Step: 5259/6000, delta=0.02, WSSR=7030.1, pstat: 72/1000     Step: 5260/6000, delta=0.02, WSSR=7048.3, pstat: 73/1000     Step: 5264/6000, delta=0.02, WSSR=7030.1, pstat: 74/1000     Step: 5266/6000, delta=0.02, WSSR=7029.9, pstat: 75/1000     Step: 5274/6000, delta=0.02, WSSR=7032.9, pstat: 76/1000     Step: 5276/6000, delta=0.02, WSSR=7029.9, pstat: 77/1000     Step: 5279/6000, delta=0.02, WSSR=7031.4, pstat: 78/1000     Step: 5281/6000, delta=0.02, WSSR=7032, pstat: 79/1000     Step: 5287/6000, delta=0.02, WSSR=7053.4, pstat: 80/1000     Step: 5292/6000, delta=0.02, WSSR=7030.4, pstat: 81/1000     Step: 5294/6000, delta=0.02, WSSR=7039.5, pstat: 82/1000     Step: 5297/6000, delta=0.02, WSSR=7035.8, pstat: 83/1000     Step: 5305/6000, delta=0.02, WSSR=7030.2, pstat: 84/1000     Step: 5308/6000, delta=0.02, WSSR=7030.1, pstat: 85/1000     Step: 5321/6000, delta=0.02, WSSR=7029.9, pstat: 86/1000     Step: 5327/6000, delta=0.02, WSSR=7055.3, pstat: 87/1000     Step: 5336/6000, delta=0.02, WSSR=7029.8, pstat: 88/1000     Step: 5338/6000, delta=0.02, WSSR=7035.5, pstat: 89/1000     Step: 5339/6000, delta=0.02, WSSR=7032.2, pstat: 90/1000     Step: 5347/6000, delta=0.02, WSSR=7029.8, pstat: 91/1000     Step: 5357/6000, delta=0.02, WSSR=7032.4, pstat: 92/1000     Step: 5362/6000, delta=0.02, WSSR=7051.6, pstat: 93/1000     Step: 5366/6000, delta=0.02, WSSR=7030.2, pstat: 94/1000     Step: 5376/6000, delta=0.02, WSSR=7035.5, pstat: 95/1000     Step: 5401/6000, delta=0.02, WSSR=7034.2, pstat: 96/1000     Step: 5402/6000, delta=0.02, WSSR=7035.4, pstat: 97/1000     Step: 5418/6000, delta=0.02, WSSR=7030.2, pstat: 98/1000     Step: 5423/6000, delta=0.02, WSSR=7030.2, pstat: 99/1000     Step: 5426/6000, delta=0.02, WSSR=7031.8, pstat: 100/1000     Step: 5431/6000, delta=0.02, WSSR=7033.7, pstat: 101/1000     Step: 5435/6000, delta=0.02, WSSR=7030.2, pstat: 102/1000     Step: 5444/6000, delta=0.02, WSSR=7043.3, pstat: 103/1000     Step: 5445/6000, delta=0.02, WSSR=7030.4, pstat: 104/1000     Step: 5449/6000, delta=0.02, WSSR=7029.9, pstat: 105/1000     Step: 5460/6000, delta=0.02, WSSR=7030.1, pstat: 106/1000     Step: 5470/6000, delta=0.02, WSSR=7041.4, pstat: 107/1000     Step: 5473/6000, delta=0.02, WSSR=7029.8, pstat: 108/1000     
+
+Step: 5473/6000, delta=0.02, WSSR=7029.8, delta(WSSR)/WSSR=-2.7658e-07
+New parameter values:
+a		 = 2.9997
+b		 = 592.34
+c		 = 1.4998
+d		 = 26.194
+e		 = 0.050008
+a_1		 = -9.4103
+b_1		 = 0.11463
+c_1		 = 0.052481
+d_1		 = 0.48337
+e_1		 = 0.4323
+
+Step: 5474/6000, delta=0.02, WSSR=7029.9, pstat: 108/1000     Step: 5482/6000, delta=0.02, WSSR=7031.8, pstat: 109/1000     Step: 5486/6000, delta=0.02, WSSR=7029.9, pstat: 110/1000     Step: 5488/6000, delta=0.02, WSSR=7029.9, pstat: 111/1000     Step: 5489/6000, delta=0.02, WSSR=7032.4, pstat: 112/1000     Step: 5490/6000, delta=0.02, WSSR=7030, pstat: 113/1000     Step: 5496/6000, delta=0.02, WSSR=7030, pstat: 114/1000     Step: 5506/6000, delta=0.02, WSSR=7056.1, pstat: 115/1000     Step: 5523/6000, delta=0.02, WSSR=7029.8, pstat: 116/1000     Step: 5525/6000, delta=0.02, WSSR=7029.8, pstat: 117/1000     Step: 5529/6000, delta=0.02, WSSR=7035.8, pstat: 118/1000     Step: 5544/6000, delta=0.02, WSSR=7031.4, pstat: 119/1000     Step: 5546/6000, delta=0.02, WSSR=7029.9, pstat: 120/1000     Step: 5547/6000, delta=0.02, WSSR=7037.2, pstat: 121/1000     Step: 5550/6000, delta=0.02, WSSR=7039.1, pstat: 122/1000     Step: 5552/6000, delta=0.02, WSSR=7030.1, pstat: 123/1000     Step: 5555/6000, delta=0.02, WSSR=7031.5, pstat: 124/1000     Step: 5563/6000, delta=0.02, WSSR=7032, pstat: 125/1000     Step: 5565/6000, delta=0.02, WSSR=7030.3, pstat: 126/1000     Step: 5571/6000, delta=0.02, WSSR=7032.1, pstat: 127/1000     Step: 5575/6000, delta=0.02, WSSR=7051.8, pstat: 128/1000     Step: 5578/6000, delta=0.02, WSSR=7030.1, pstat: 129/1000     Step: 5580/6000, delta=0.02, WSSR=7034.5, pstat: 130/1000     Step: 5588/6000, delta=0.02, WSSR=7042, pstat: 131/1000     Step: 5590/6000, delta=0.02, WSSR=7031.9, pstat: 132/1000     Step: 5592/6000, delta=0.02, WSSR=7036.4, pstat: 133/1000     Step: 5595/6000, delta=0.02, WSSR=7040.2, pstat: 134/1000     Step: 5598/6000, delta=0.02, WSSR=7030.3, pstat: 135/1000     Step: 5606/6000, delta=0.02, WSSR=7050.8, pstat: 136/1000     Step: 5614/6000, delta=0.02, WSSR=7030.2, pstat: 137/1000     Step: 5617/6000, delta=0.02, WSSR=7029.8, pstat: 138/1000     Step: 5619/6000, delta=0.02, WSSR=7030.6, pstat: 139/1000     Step: 5629/6000, delta=0.02, WSSR=7035.4, pstat: 140/1000     Step: 5633/6000, delta=0.02, WSSR=7029.9, pstat: 141/1000     Step: 5635/6000, delta=0.02, WSSR=7036.9, pstat: 142/1000     Step: 5642/6000, delta=0.02, WSSR=7044, pstat: 143/1000     Step: 5643/6000, delta=0.02, WSSR=7057.6, pstat: 144/1000     Step: 5644/6000, delta=0.02, WSSR=7038.4, pstat: 145/1000     Step: 5647/6000, delta=0.02, WSSR=7038.1, pstat: 146/1000     Step: 5649/6000, delta=0.02, WSSR=7039.6, pstat: 147/1000     Step: 5653/6000, delta=0.02, WSSR=7057.6, pstat: 148/1000     Step: 5659/6000, delta=0.02, WSSR=7046.8, pstat: 149/1000     Step: 5662/6000, delta=0.02, WSSR=7030, pstat: 150/1000     Step: 5663/6000, delta=0.02, WSSR=7030.3, pstat: 151/1000     Step: 5670/6000, delta=0.02, WSSR=7055.3, pstat: 152/1000     Step: 5680/6000, delta=0.02, WSSR=7034.7, pstat: 153/1000     Step: 5690/6000, delta=0.02, WSSR=7029.9, pstat: 154/1000     Step: 5693/6000, delta=0.02, WSSR=7030.9, pstat: 155/1000     Step: 5697/6000, delta=0.02, WSSR=7033.1, pstat: 156/1000     Step: 5700/6000, delta=0.02, WSSR=7042.7, pstat: 157/1000     Step: 5718/6000, delta=0.02, WSSR=7055.6, pstat: 158/1000     Step: 5719/6000, delta=0.02, WSSR=7030.2, pstat: 159/1000     Step: 5723/6000, delta=0.02, WSSR=7033.4, pstat: 160/1000     Step: 5725/6000, delta=0.02, WSSR=7030.4, pstat: 161/1000     Step: 5727/6000, delta=0.02, WSSR=7030.2, pstat: 162/1000     Step: 5736/6000, delta=0.02, WSSR=7034.4, pstat: 163/1000     Step: 5738/6000, delta=0.02, WSSR=7035.2, pstat: 164/1000     Step: 5743/6000, delta=0.02, WSSR=7035.6, pstat: 165/1000     Step: 5745/6000, delta=0.02, WSSR=7030, pstat: 166/1000     Step: 5748/6000, delta=0.02, WSSR=7030.4, pstat: 167/1000     Step: 5756/6000, delta=0.02, WSSR=7031.2, pstat: 168/1000     Step: 5759/6000, delta=0.02, WSSR=7031.4, pstat: 169/1000     Step: 5774/6000, delta=0.02, WSSR=7030.8, pstat: 170/1000     Step: 5776/6000, delta=0.02, WSSR=7030, pstat: 171/1000     Step: 5780/6000, delta=0.02, WSSR=7044.6, pstat: 172/1000     Step: 5791/6000, delta=0.02, WSSR=7036, pstat: 173/1000     Step: 5795/6000, delta=0.02, WSSR=7031.6, pstat: 174/1000     Step: 5800/6000, delta=0.02, WSSR=7034.2, pstat: 175/1000     Step: 5801/6000, delta=0.02, WSSR=7052.2, pstat: 176/1000     Step: 5803/6000, delta=0.02, WSSR=7029.9, pstat: 177/1000     Step: 5816/6000, delta=0.02, WSSR=7029.8, pstat: 178/1000     Step: 5817/6000, delta=0.02, WSSR=7033.5, pstat: 179/1000     Step: 5819/6000, delta=0.02, WSSR=7029.9, pstat: 180/1000     Step: 5821/6000, delta=0.02, WSSR=7036.4, pstat: 181/1000     Step: 5833/6000, delta=0.02, WSSR=7031.6, pstat: 182/1000     Step: 5835/6000, delta=0.02, WSSR=7041.7, pstat: 183/1000     Step: 5840/6000, delta=0.02, WSSR=7042, pstat: 184/1000     Step: 5847/6000, delta=0.02, WSSR=7029.8, pstat: 185/1000     Step: 5850/6000, delta=0.02, WSSR=7030, pstat: 186/1000     Step: 5866/6000, delta=0.02, WSSR=7051.5, pstat: 187/1000     Step: 5869/6000, delta=0.02, WSSR=7029.9, pstat: 188/1000     Step: 5870/6000, delta=0.02, WSSR=7046.7, pstat: 189/1000     Step: 5877/6000, delta=0.02, WSSR=7050.8, pstat: 190/1000     Step: 5891/6000, delta=0.02, WSSR=7031.2, pstat: 191/1000     Step: 5893/6000, delta=0.02, WSSR=7042, pstat: 192/1000     Step: 5904/6000, delta=0.02, WSSR=7029.8, pstat: 193/1000     Step: 5905/6000, delta=0.02, WSSR=7037.9, pstat: 194/1000     Step: 5910/6000, delta=0.02, WSSR=7029.9, pstat: 195/1000     Step: 5911/6000, delta=0.02, WSSR=7030.2, pstat: 196/1000     Step: 5914/6000, delta=0.02, WSSR=7030.1, pstat: 197/1000     Step: 5928/6000, delta=0.02, WSSR=7038.9, pstat: 198/1000     Step: 5942/6000, delta=0.02, WSSR=7029.8, pstat: 199/1000     Step: 5946/6000, delta=0.02, WSSR=7033.7, pstat: 200/1000     Step: 5947/6000, delta=0.02, WSSR=7032.3, pstat: 201/1000     Step: 5951/6000, delta=0.02, WSSR=7051.3, pstat: 202/1000     Step: 5952/6000, delta=0.02, WSSR=7044.6, pstat: 203/1000     Step: 5954/6000, delta=0.02, WSSR=7034.3, pstat: 204/1000     Step: 5957/6000, delta=0.02, WSSR=7040.7, pstat: 205/1000     Step: 5959/6000, delta=0.02, WSSR=7029.8, pstat: 206/1000     Step: 5963/6000, delta=0.02, WSSR=7030.2, pstat: 207/1000     Step: 5965/6000, delta=0.02, WSSR=7029.8, pstat: 208/1000     Step: 5970/6000, delta=0.02, WSSR=7030.1, pstat: 209/1000     Step: 5971/6000, delta=0.02, WSSR=7055.4, pstat: 210/1000     Step: 5972/6000, delta=0.02, WSSR=7030.1, pstat: 211/1000     Step: 5973/6000, delta=0.02, WSSR=7029.9, pstat: 212/1000     Step: 5975/6000, delta=0.02, WSSR=7030.7, pstat: 213/1000     Step: 5977/6000, delta=0.02, WSSR=7030.3, pstat: 214/1000     Step: 5979/6000, delta=0.02, WSSR=7029.8, pstat: 215/1000     
+
+Step: 5979/6000, delta=0.02, WSSR=7029.8, delta(WSSR)/WSSR=-4.5097e-08
+New parameter values:
+a		 = 2.9997
+b		 = 594.41
+c		 = 1.4998
+d		 = 26.183
+e		 = 0.050008
+a_1		 = -9.409
+b_1		 = 0.11326
+c_1		 = 0.052607
+d_1		 = 0.48614
+e_1		 = 0.43353
+
+Step: 5981/6000, delta=0.02, WSSR=7031.6, pstat: 215/1000     Step: 5982/6000, delta=0.02, WSSR=7029.9, pstat: 216/1000     Step: 5984/6000, delta=0.02, WSSR=7030, pstat: 217/1000     Step: 5985/6000, delta=0.02, WSSR=7039.7, pstat: 218/1000     Step: 5989/6000, delta=0.02, WSSR=7034.8, pstat: 219/1000     Step: 6002/6000, delta=0.02, WSSR=7049.8, pstat: 220/1000     Step: 6004/6000, delta=0.02, WSSR=7042.9, pstat: 221/1000     Step: 6006/6000, delta=0.02, WSSR=7042.5, pstat: 222/1000     Step: 6011/6000, delta=0.02, WSSR=7037.4, pstat: 223/1000     Step: 6013/6000, delta=0.02, WSSR=7029.9, pstat: 224/1000     Step: 6021/6000, delta=0.02, WSSR=7029.9, pstat: 225/1000     Step: 6023/6000, delta=0.02, WSSR=7034.7, pstat: 226/1000     Step: 6024/6000, delta=0.02, WSSR=7029.8, pstat: 227/1000     Step: 6028/6000, delta=0.02, WSSR=7033.8, pstat: 228/1000     Step: 6030/6000, delta=0.02, WSSR=7031.6, pstat: 229/1000     Step: 6031/6000, delta=0.02, WSSR=7031.7, pstat: 230/1000     Step: 6032/6000, delta=0.02, WSSR=7041.9, pstat: 231/1000     Step: 6033/6000, delta=0.02, WSSR=7052.8, pstat: 232/1000     Step: 6040/6000, delta=0.02, WSSR=7033.1, pstat: 233/1000     Step: 6043/6000, delta=0.02, WSSR=7037.4, pstat: 234/1000     Step: 6045/6000, delta=0.02, WSSR=7030.1, pstat: 235/1000     Step: 6052/6000, delta=0.02, WSSR=7030.4, pstat: 236/1000     Step: 6053/6000, delta=0.02, WSSR=7033.1, pstat: 237/1000     Step: 6057/6000, delta=0.02, WSSR=7034.3, pstat: 238/1000     Step: 6061/6000, delta=0.02, WSSR=7030.5, pstat: 239/1000     Step: 6066/6000, delta=0.02, WSSR=7036, pstat: 240/1000     Step: 6070/6000, delta=0.02, WSSR=7033.3, pstat: 241/1000     Step: 6082/6000, delta=0.02, WSSR=7029.8, pstat: 242/1000     Step: 6091/6000, delta=0.02, WSSR=7046, pstat: 243/1000     Step: 6094/6000, delta=0.02, WSSR=7030.1, pstat: 244/1000     Step: 6111/6000, delta=0.02, WSSR=7033.5, pstat: 245/1000     Step: 6112/6000, delta=0.02, WSSR=7029.9, pstat: 246/1000     Step: 6124/6000, delta=0.02, WSSR=7029.8, pstat: 247/1000     Step: 6127/6000, delta=0.02, WSSR=7029.8, pstat: 248/1000     Step: 6133/6000, delta=0.02, WSSR=7053.2, pstat: 249/1000     Step: 6134/6000, delta=0.02, WSSR=7034.1, pstat: 250/1000     Step: 6139/6000, delta=0.02, WSSR=7029.8, pstat: 251/1000     Step: 6143/6000, delta=0.02, WSSR=7029.9, pstat: 252/1000     Step: 6145/6000, delta=0.02, WSSR=7029.8, pstat: 253/1000     Step: 6179/6000, delta=0.02, WSSR=7030, pstat: 254/1000     Step: 6184/6000, delta=0.02, WSSR=7039.9, pstat: 255/1000     Step: 6189/6000, delta=0.02, WSSR=7029.9, pstat: 256/1000     Step: 6219/6000, delta=0.02, WSSR=7034.4, pstat: 257/1000     Step: 6223/6000, delta=0.02, WSSR=7045.1, pstat: 258/1000     Step: 6226/6000, delta=0.02, WSSR=7030.6, pstat: 259/1000     Step: 6235/6000, delta=0.02, WSSR=7047.8, pstat: 260/1000     Step: 6236/6000, delta=0.02, WSSR=7031.7, pstat: 261/1000     Step: 6242/6000, delta=0.02, WSSR=7029.8, pstat: 262/1000     Step: 6256/6000, delta=0.02, WSSR=7042.2, pstat: 263/1000     Step: 6259/6000, delta=0.02, WSSR=7030.2, pstat: 264/1000     Step: 6265/6000, delta=0.02, WSSR=7030.1, pstat: 265/1000     Step: 6266/6000, delta=0.02, WSSR=7038.2, pstat: 266/1000     Step: 6269/6000, delta=0.02, WSSR=7032.4, pstat: 267/1000     Step: 6277/6000, delta=0.02, WSSR=7031.9, pstat: 268/1000     Step: 6283/6000, delta=0.02, WSSR=7030.1, pstat: 269/1000     Step: 6293/6000, delta=0.02, WSSR=7033.5, pstat: 270/1000     Step: 6294/6000, delta=0.02, WSSR=7032.2, pstat: 271/1000     Step: 6303/6000, delta=0.02, WSSR=7033.8, pstat: 272/1000     Step: 6306/6000, delta=0.02, WSSR=7030, pstat: 273/1000     Step: 6308/6000, delta=0.02, WSSR=7029.9, pstat: 274/1000     Step: 6322/6000, delta=0.02, WSSR=7030.2, pstat: 275/1000     Step: 6327/6000, delta=0.02, WSSR=7030.2, pstat: 276/1000     Step: 6328/6000, delta=0.02, WSSR=7029.9, pstat: 277/1000     Step: 6330/6000, delta=0.02, WSSR=7035, pstat: 278/1000     Step: 6338/6000, delta=0.02, WSSR=7031.8, pstat: 279/1000     Step: 6347/6000, delta=0.02, WSSR=7030.1, pstat: 280/1000     Step: 6362/6000, delta=0.02, WSSR=7029.9, pstat: 281/1000     Step: 6363/6000, delta=0.02, WSSR=7040.9, pstat: 282/1000     Step: 6365/6000, delta=0.02, WSSR=7031.4, pstat: 283/1000     Step: 6384/6000, delta=0.02, WSSR=7030.6, pstat: 284/1000     Step: 6389/6000, delta=0.02, WSSR=7029.9, pstat: 285/1000     Step: 6393/6000, delta=0.02, WSSR=7030.1, pstat: 286/1000     Step: 6397/6000, delta=0.02, WSSR=7032.3, pstat: 287/1000     Step: 6399/6000, delta=0.02, WSSR=7029.9, pstat: 288/1000     Step: 6411/6000, delta=0.02, WSSR=7030.7, pstat: 289/1000     Step: 6415/6000, delta=0.02, WSSR=7035.2, pstat: 290/1000     Step: 6416/6000, delta=0.02, WSSR=7032.3, pstat: 291/1000     Step: 6424/6000, delta=0.02, WSSR=7042, pstat: 292/1000     Step: 6429/6000, delta=0.02, WSSR=7030.3, pstat: 293/1000     Step: 6439/6000, delta=0.02, WSSR=7034.9, pstat: 294/1000     Step: 6444/6000, delta=0.02, WSSR=7039.2, pstat: 295/1000     Step: 6446/6000, delta=0.02, WSSR=7037.7, pstat: 296/1000     Step: 6449/6000, delta=0.02, WSSR=7032.9, pstat: 297/1000     Step: 6452/6000, delta=0.02, WSSR=7037.1, pstat: 298/1000     Step: 6453/6000, delta=0.02, WSSR=7044.4, pstat: 299/1000     Step: 6458/6000, delta=0.02, WSSR=7030, pstat: 300/1000     Step: 6459/6000, delta=0.02, WSSR=7029.8, pstat: 301/1000     Step: 6464/6000, delta=0.02, WSSR=7029.8, pstat: 302/1000     
+
+Step: 6464/6000, delta=0.02, WSSR=7029.8, delta(WSSR)/WSSR=-1.3951e-07
+New parameter values:
+a		 = 2.9998
+b		 = 594.62
+c		 = 1.4993
+d		 = 26.161
+e		 = 0.050006
+a_1		 = -9.409
+b_1		 = 0.11225
+c_1		 = 0.052279
+d_1		 = 0.49348
+e_1		 = 0.42918
+
+Step: 6465/6000, delta=0.02, WSSR=7045.2, pstat: 302/1000     Step: 6466/6000, delta=0.02, WSSR=7049.2, pstat: 303/1000     Step: 6472/6000, delta=0.02, WSSR=7039.1, pstat: 304/1000     Step: 6480/6000, delta=0.02, WSSR=7047, pstat: 305/1000     Step: 6489/6000, delta=0.02, WSSR=7037.3, pstat: 306/1000     Step: 6492/6000, delta=0.02, WSSR=7045.1, pstat: 307/1000     Step: 6506/6000, delta=0.02, WSSR=7030.3, pstat: 308/1000     Step: 6515/6000, delta=0.02, WSSR=7033.3, pstat: 309/1000     Step: 6531/6000, delta=0.02, WSSR=7039.3, pstat: 310/1000     Step: 6535/6000, delta=0.02, WSSR=7032.1, pstat: 311/1000     Step: 6543/6000, delta=0.02, WSSR=7031, pstat: 312/1000     Step: 6544/6000, delta=0.02, WSSR=7029.8, pstat: 313/1000     Step: 6546/6000, delta=0.02, WSSR=7030, pstat: 314/1000     Step: 6554/6000, delta=0.02, WSSR=7031.2, pstat: 315/1000     Step: 6562/6000, delta=0.02, WSSR=7033.1, pstat: 316/1000     Step: 6563/6000, delta=0.02, WSSR=7050.7, pstat: 317/1000     Step: 6567/6000, delta=0.02, WSSR=7030, pstat: 318/1000     Step: 6568/6000, delta=0.02, WSSR=7029.9, pstat: 319/1000     Step: 6572/6000, delta=0.02, WSSR=7029.9, pstat: 320/1000     Step: 6576/6000, delta=0.02, WSSR=7029.9, pstat: 321/1000     Step: 6591/6000, delta=0.02, WSSR=7030.8, pstat: 322/1000     Step: 6593/6000, delta=0.02, WSSR=7029.8, pstat: 323/1000     Step: 6596/6000, delta=0.02, WSSR=7041.5, pstat: 324/1000     Step: 6611/6000, delta=0.02, WSSR=7029.9, pstat: 325/1000     Step: 6614/6000, delta=0.02, WSSR=7042.8, pstat: 326/1000     Step: 6618/6000, delta=0.02, WSSR=7055, pstat: 327/1000     Step: 6629/6000, delta=0.02, WSSR=7030.1, pstat: 328/1000     Step: 6641/6000, delta=0.02, WSSR=7030, pstat: 329/1000     Step: 6643/6000, delta=0.02, WSSR=7043.2, pstat: 330/1000     Step: 6647/6000, delta=0.02, WSSR=7035.2, pstat: 331/1000     Step: 6648/6000, delta=0.02, WSSR=7052.8, pstat: 332/1000     Step: 6651/6000, delta=0.02, WSSR=7044.2, pstat: 333/1000     Step: 6656/6000, delta=0.02, WSSR=7030.2, pstat: 334/1000     Step: 6678/6000, delta=0.02, WSSR=7031, pstat: 335/1000     Step: 6679/6000, delta=0.02, WSSR=7035, pstat: 336/1000     Step: 6681/6000, delta=0.02, WSSR=7031.9, pstat: 337/1000     Step: 6685/6000, delta=0.02, WSSR=7053.4, pstat: 338/1000     Step: 6690/6000, delta=0.02, WSSR=7046.6, pstat: 339/1000     Step: 6698/6000, delta=0.02, WSSR=7035.6, pstat: 340/1000     Step: 6705/6000, delta=0.02, WSSR=7042.9, pstat: 341/1000     Step: 6707/6000, delta=0.02, WSSR=7054.7, pstat: 342/1000     Step: 6729/6000, delta=0.02, WSSR=7030.4, pstat: 343/1000     Step: 6731/6000, delta=0.02, WSSR=7032.1, pstat: 344/1000     Step: 6742/6000, delta=0.02, WSSR=7045.1, pstat: 345/1000     Step: 6748/6000, delta=0.02, WSSR=7031.6, pstat: 346/1000     Step: 6749/6000, delta=0.02, WSSR=7049.1, pstat: 347/1000     Step: 6752/6000, delta=0.02, WSSR=7031.6, pstat: 348/1000     Step: 6756/6000, delta=0.02, WSSR=7030, pstat: 349/1000     Step: 6760/6000, delta=0.02, WSSR=7030.1, pstat: 350/1000     Step: 6764/6000, delta=0.02, WSSR=7030.6, pstat: 351/1000     Step: 6765/6000, delta=0.02, WSSR=7030, pstat: 352/1000     Step: 6773/6000, delta=0.02, WSSR=7036.4, pstat: 353/1000     Step: 6778/6000, delta=0.02, WSSR=7030, pstat: 354/1000     Step: 6785/6000, delta=0.02, WSSR=7036, pstat: 355/1000     Step: 6786/6000, delta=0.02, WSSR=7029.9, pstat: 356/1000     Step: 6789/6000, delta=0.02, WSSR=7029.9, pstat: 357/1000     Step: 6795/6000, delta=0.02, WSSR=7035.5, pstat: 358/1000     Step: 6802/6000, delta=0.02, WSSR=7035.3, pstat: 359/1000     Step: 6803/6000, delta=0.02, WSSR=7038.1, pstat: 360/1000     Step: 6804/6000, delta=0.02, WSSR=7034.5, pstat: 361/1000     Step: 6809/6000, delta=0.02, WSSR=7032.1, pstat: 362/1000     Step: 6822/6000, delta=0.02, WSSR=7032.3, pstat: 363/1000     Step: 6831/6000, delta=0.02, WSSR=7054.8, pstat: 364/1000     Step: 6838/6000, delta=0.02, WSSR=7030.5, pstat: 365/1000     Step: 6839/6000, delta=0.02, WSSR=7029.9, pstat: 366/1000     Step: 6840/6000, delta=0.02, WSSR=7052.5, pstat: 367/1000     Step: 6844/6000, delta=0.02, WSSR=7029.8, pstat: 368/1000     Step: 6850/6000, delta=0.02, WSSR=7046.7, pstat: 369/1000     Step: 6852/6000, delta=0.02, WSSR=7045.4, pstat: 370/1000     Step: 6855/6000, delta=0.02, WSSR=7030, pstat: 371/1000     Step: 6857/6000, delta=0.02, WSSR=7037.2, pstat: 372/1000     Step: 6860/6000, delta=0.02, WSSR=7032.5, pstat: 373/1000     Step: 6861/6000, delta=0.02, WSSR=7046, pstat: 374/1000     Step: 6865/6000, delta=0.02, WSSR=7038.3, pstat: 375/1000     Step: 6867/6000, delta=0.02, WSSR=7031.6, pstat: 376/1000     Step: 6873/6000, delta=0.02, WSSR=7036.5, pstat: 377/1000     Step: 6875/6000, delta=0.02, WSSR=7030.1, pstat: 378/1000     Step: 6877/6000, delta=0.02, WSSR=7054, pstat: 379/1000     Step: 6884/6000, delta=0.02, WSSR=7039.8, pstat: 380/1000     Step: 6898/6000, delta=0.02, WSSR=7037.1, pstat: 381/1000     Step: 6902/6000, delta=0.02, WSSR=7032.8, pstat: 382/1000     Step: 6906/6000, delta=0.02, WSSR=7030.1, pstat: 383/1000     Step: 6908/6000, delta=0.02, WSSR=7030.6, pstat: 384/1000     Step: 6910/6000, delta=0.02, WSSR=7029.9, pstat: 385/1000     Step: 6913/6000, delta=0.02, WSSR=7030.1, pstat: 386/1000     Step: 6919/6000, delta=0.02, WSSR=7032.6, pstat: 387/1000     Step: 6923/6000, delta=0.02, WSSR=7029.9, pstat: 388/1000     Step: 6926/6000, delta=0.02, WSSR=7049, pstat: 389/1000     Step: 6929/6000, delta=0.02, WSSR=7049.8, pstat: 390/1000     Step: 6930/6000, delta=0.02, WSSR=7053.7, pstat: 391/1000     Step: 6946/6000, delta=0.02, WSSR=7030, pstat: 392/1000     Step: 6947/6000, delta=0.02, WSSR=7049.3, pstat: 393/1000     Step: 6948/6000, delta=0.02, WSSR=7042.1, pstat: 394/1000     Step: 6954/6000, delta=0.02, WSSR=7029.8, pstat: 395/1000     
+
+Step: 6954/6000, delta=0.02, WSSR=7029.8, delta(WSSR)/WSSR=-5.1378e-07
+New parameter values:
+a		 = 2.9998
+b		 = 593.21
+c		 = 1.4993
+d		 = 26.258
+e		 = 0.050007
+a_1		 = -9.4026
+b_1		 = 0.11233
+c_1		 = 0.052377
+d_1		 = 0.49454
+e_1		 = 0.4311
+
+Step: 6956/6000, delta=0.02, WSSR=7037.2, pstat: 395/1000     Step: 6957/6000, delta=0.02, WSSR=7054.6, pstat: 396/1000     Step: 6958/6000, delta=0.02, WSSR=7041.2, pstat: 397/1000     Step: 6962/6000, delta=0.02, WSSR=7030, pstat: 398/1000     Step: 6965/6000, delta=0.02, WSSR=7031.3, pstat: 399/1000     Step: 6967/6000, delta=0.02, WSSR=7029.8, pstat: 400/1000     Step: 6971/6000, delta=0.02, WSSR=7029.9, pstat: 401/1000     Step: 6974/6000, delta=0.02, WSSR=7030, pstat: 402/1000     Step: 6979/6000, delta=0.02, WSSR=7030, pstat: 403/1000     Step: 6980/6000, delta=0.02, WSSR=7029.8, pstat: 404/1000     Step: 6982/6000, delta=0.02, WSSR=7037.2, pstat: 405/1000     Step: 6991/6000, delta=0.02, WSSR=7043.2, pstat: 406/1000     Step: 6993/6000, delta=0.02, WSSR=7050.4, pstat: 407/1000     Step: 6997/6000, delta=0.02, WSSR=7030.8, pstat: 408/1000     Step: 6998/6000, delta=0.02, WSSR=7029.8, pstat: 409/1000     
+
+Step: 6998/6000, delta=0.02, WSSR=7029.8, delta(WSSR)/WSSR=-5.8559e-08
+New parameter values:
+a		 = 2.9998
+b		 = 593.2
+c		 = 1.4993
+d		 = 26.282
+e		 = 0.050006
+a_1		 = -9.4025
+b_1		 = 0.11193
+c_1		 = 0.05182
+d_1		 = 0.49208
+e_1		 = 0.42923
+
+Step: 6999/6000, delta=0.02, WSSR=7029.8, pstat: 409/1000     Step: 7004/6000, delta=0.02, WSSR=7031.4, pstat: 410/1000     Step: 7008/6000, delta=0.02, WSSR=7040.5, pstat: 411/1000     Step: 7014/6000, delta=0.02, WSSR=7040.7, pstat: 412/1000     Step: 7017/6000, delta=0.02, WSSR=7030.1, pstat: 413/1000     Step: 7024/6000, delta=0.02, WSSR=7051.9, pstat: 414/1000     Step: 7026/6000, delta=0.02, WSSR=7040.9, pstat: 415/1000     Step: 7030/6000, delta=0.02, WSSR=7040, pstat: 416/1000     Step: 7037/6000, delta=0.02, WSSR=7049.1, pstat: 417/1000     Step: 7039/6000, delta=0.02, WSSR=7046.9, pstat: 418/1000     Step: 7053/6000, delta=0.02, WSSR=7036.8, pstat: 419/1000     Step: 7059/6000, delta=0.02, WSSR=7040.9, pstat: 420/1000     Step: 7061/6000, delta=0.02, WSSR=7029.9, pstat: 421/1000     Step: 7067/6000, delta=0.02, WSSR=7030, pstat: 422/1000     Step: 7071/6000, delta=0.02, WSSR=7029.9, pstat: 423/1000     Step: 7077/6000, delta=0.02, WSSR=7031.8, pstat: 424/1000     Step: 7081/6000, delta=0.02, WSSR=7052.3, pstat: 425/1000     Step: 7082/6000, delta=0.02, WSSR=7030.1, pstat: 426/1000     Step: 7094/6000, delta=0.02, WSSR=7032.1, pstat: 427/1000     Step: 7095/6000, delta=0.02, WSSR=7033.3, pstat: 428/1000     Step: 7112/6000, delta=0.02, WSSR=7037.2, pstat: 429/1000     Step: 7117/6000, delta=0.02, WSSR=7047.5, pstat: 430/1000     Step: 7118/6000, delta=0.02, WSSR=7029.8, pstat: 431/1000     Step: 7124/6000, delta=0.02, WSSR=7029.9, pstat: 432/1000     Step: 7130/6000, delta=0.02, WSSR=7030.3, pstat: 433/1000     Step: 7132/6000, delta=0.02, WSSR=7029.9, pstat: 434/1000     Step: 7134/6000, delta=0.02, WSSR=7040.7, pstat: 435/1000     Step: 7141/6000, delta=0.02, WSSR=7032.7, pstat: 436/1000     Step: 7145/6000, delta=0.02, WSSR=7055, pstat: 437/1000     Step: 7147/6000, delta=0.02, WSSR=7030.5, pstat: 438/1000     Step: 7152/6000, delta=0.02, WSSR=7031.6, pstat: 439/1000     Step: 7153/6000, delta=0.02, WSSR=7036.4, pstat: 440/1000     Step: 7158/6000, delta=0.02, WSSR=7033.5, pstat: 441/1000     Step: 7164/6000, delta=0.02, WSSR=7033.6, pstat: 442/1000     Step: 7172/6000, delta=0.02, WSSR=7029.9, pstat: 443/1000     Step: 7177/6000, delta=0.02, WSSR=7047.6, pstat: 444/1000     Step: 7179/6000, delta=0.02, WSSR=7030, pstat: 445/1000     Step: 7181/6000, delta=0.02, WSSR=7029.8, pstat: 446/1000     Step: 7182/6000, delta=0.02, WSSR=7029.9, pstat: 447/1000     Step: 7184/6000, delta=0.02, WSSR=7030.9, pstat: 448/1000     Step: 7185/6000, delta=0.02, WSSR=7030, pstat: 449/1000     Step: 7186/6000, delta=0.02, WSSR=7030.5, pstat: 450/1000     Step: 7194/6000, delta=0.02, WSSR=7051.9, pstat: 451/1000     Step: 7201/6000, delta=0.02, WSSR=7030, pstat: 452/1000     Step: 7206/6000, delta=0.02, WSSR=7051.3, pstat: 453/1000     Step: 7219/6000, delta=0.02, WSSR=7042.2, pstat: 454/1000     Step: 7220/6000, delta=0.02, WSSR=7030.4, pstat: 455/1000     Step: 7223/6000, delta=0.02, WSSR=7029.8, pstat: 456/1000     Step: 7225/6000, delta=0.02, WSSR=7041.8, pstat: 457/1000     Step: 7227/6000, delta=0.02, WSSR=7029.9, pstat: 458/1000     Step: 7236/6000, delta=0.02, WSSR=7030.2, pstat: 459/1000     Step: 7240/6000, delta=0.02, WSSR=7030, pstat: 460/1000     Step: 7241/6000, delta=0.02, WSSR=7035, pstat: 461/1000     Step: 7246/6000, delta=0.02, WSSR=7031.6, pstat: 462/1000     Step: 7247/6000, delta=0.02, WSSR=7031.3, pstat: 463/1000     Step: 7251/6000, delta=0.02, WSSR=7031.3, pstat: 464/1000     Step: 7260/6000, delta=0.02, WSSR=7042, pstat: 465/1000     Step: 7262/6000, delta=0.02, WSSR=7030.2, pstat: 466/1000     Step: 7276/6000, delta=0.02, WSSR=7049.4, pstat: 467/1000     Step: 7284/6000, delta=0.02, WSSR=7049.6, pstat: 468/1000     Step: 7285/6000, delta=0.02, WSSR=7045.3, pstat: 469/1000     Step: 7287/6000, delta=0.02, WSSR=7030.4, pstat: 470/1000     Step: 7295/6000, delta=0.02, WSSR=7029.8, pstat: 471/1000     
+
+Step: 7295/6000, delta=0.02, WSSR=7029.8, delta(WSSR)/WSSR=-6.3006e-07
+New parameter values:
+a		 = 2.9999
+b		 = 594.26
+c		 = 1.4996
+d		 = 26.283
+e		 = 0.050023
+a_1		 = -9.414
+b_1		 = 0.11283
+c_1		 = 0.051425
+d_1		 = 0.49007
+e_1		 = 0.4292
+
+Step: 7303/6000, delta=0.02, WSSR=7034, pstat: 471/1000     Step: 7306/6000, delta=0.02, WSSR=7030.1, pstat: 472/1000     Step: 7314/6000, delta=0.02, WSSR=7050.8, pstat: 473/1000     Step: 7320/6000, delta=0.02, WSSR=7042.4, pstat: 474/1000     Step: 7322/6000, delta=0.02, WSSR=7030.8, pstat: 475/1000     Step: 7326/6000, delta=0.02, WSSR=7029.9, pstat: 476/1000     Step: 7327/6000, delta=0.02, WSSR=7029.8, pstat: 477/1000     Step: 7329/6000, delta=0.02, WSSR=7031.2, pstat: 478/1000     Step: 7332/6000, delta=0.02, WSSR=7035.5, pstat: 479/1000     Step: 7333/6000, delta=0.02, WSSR=7029.9, pstat: 480/1000     Step: 7341/6000, delta=0.02, WSSR=7030.8, pstat: 481/1000     Step: 7344/6000, delta=0.02, WSSR=7029.8, pstat: 482/1000     Step: 7350/6000, delta=0.02, WSSR=7031.3, pstat: 483/1000     Step: 7357/6000, delta=0.02, WSSR=7044.8, pstat: 484/1000     Step: 7373/6000, delta=0.02, WSSR=7045, pstat: 485/1000     Step: 7376/6000, delta=0.02, WSSR=7029.8, pstat: 486/1000     
+
+Step: 7376/6000, delta=0.02, WSSR=7029.8, delta(WSSR)/WSSR=-4.6935e-07
+New parameter values:
+a		 = 2.9999
+b		 = 590.24
+c		 = 1.4995
+d		 = 26.339
+e		 = 0.050023
+a_1		 = -9.4143
+b_1		 = 0.1125
+c_1		 = 0.051427
+d_1		 = 0.48302
+e_1		 = 0.43638
+
+Step: 7380/6000, delta=0.02, WSSR=7029.9, pstat: 486/1000     Step: 7382/6000, delta=0.02, WSSR=7030, pstat: 487/1000     Step: 7384/6000, delta=0.02, WSSR=7030, pstat: 488/1000     Step: 7388/6000, delta=0.02, WSSR=7032.4, pstat: 489/1000     Step: 7390/6000, delta=0.02, WSSR=7030.1, pstat: 490/1000     Step: 7393/6000, delta=0.02, WSSR=7030, pstat: 491/1000     Step: 7395/6000, delta=0.02, WSSR=7038.8, pstat: 492/1000     Step: 7399/6000, delta=0.02, WSSR=7044.8, pstat: 493/1000     Step: 7401/6000, delta=0.02, WSSR=7030.8, pstat: 494/1000     Step: 7410/6000, delta=0.02, WSSR=7029.9, pstat: 495/1000     Step: 7411/6000, delta=0.02, WSSR=7031, pstat: 496/1000     Step: 7421/6000, delta=0.02, WSSR=7056.1, pstat: 497/1000     Step: 7433/6000, delta=0.02, WSSR=7030, pstat: 498/1000     Step: 7436/6000, delta=0.02, WSSR=7030.2, pstat: 499/1000     Step: 7437/6000, delta=0.02, WSSR=7032.4, pstat: 500/1000     Step: 7444/6000, delta=0.02, WSSR=7029.8, pstat: 501/1000     Step: 7446/6000, delta=0.02, WSSR=7038.7, pstat: 502/1000     Step: 7448/6000, delta=0.02, WSSR=7036.5, pstat: 503/1000     Step: 7450/6000, delta=0.02, WSSR=7051.8, pstat: 504/1000     Step: 7454/6000, delta=0.02, WSSR=7030.3, pstat: 505/1000     Step: 7458/6000, delta=0.02, WSSR=7030.3, pstat: 506/1000     Step: 7459/6000, delta=0.02, WSSR=7029.9, pstat: 507/1000     Step: 7461/6000, delta=0.02, WSSR=7032.9, pstat: 508/1000     Step: 7465/6000, delta=0.02, WSSR=7031.6, pstat: 509/1000     Step: 7474/6000, delta=0.02, WSSR=7029.8, pstat: 510/1000     Step: 7475/6000, delta=0.02, WSSR=7029.9, pstat: 511/1000     Step: 7484/6000, delta=0.02, WSSR=7033, pstat: 512/1000     Step: 7487/6000, delta=0.02, WSSR=7032.8, pstat: 513/1000     Step: 7488/6000, delta=0.02, WSSR=7051.5, pstat: 514/1000     Step: 7490/6000, delta=0.02, WSSR=7039.2, pstat: 515/1000     Step: 7498/6000, delta=0.02, WSSR=7057, pstat: 516/1000     Step: 7510/6000, delta=0.02, WSSR=7034.7, pstat: 517/1000     Step: 7516/6000, delta=0.02, WSSR=7056.3, pstat: 518/1000     Step: 7517/6000, delta=0.02, WSSR=7046, pstat: 519/1000     Step: 7521/6000, delta=0.02, WSSR=7030.1, pstat: 520/1000     Step: 7524/6000, delta=0.02, WSSR=7037.2, pstat: 521/1000     Step: 7530/6000, delta=0.02, WSSR=7030.7, pstat: 522/1000     Step: 7531/6000, delta=0.02, WSSR=7040.7, pstat: 523/1000     Step: 7537/6000, delta=0.02, WSSR=7029.8, pstat: 524/1000     Step: 7539/6000, delta=0.02, WSSR=7034.3, pstat: 525/1000     Step: 7545/6000, delta=0.02, WSSR=7030.1, pstat: 526/1000     Step: 7550/6000, delta=0.02, WSSR=7037.9, pstat: 527/1000     Step: 7554/6000, delta=0.02, WSSR=7030.5, pstat: 528/1000     Step: 7561/6000, delta=0.02, WSSR=7041.9, pstat: 529/1000     Step: 7562/6000, delta=0.02, WSSR=7029.9, pstat: 530/1000     Step: 7564/6000, delta=0.02, WSSR=7029.8, pstat: 531/1000     Step: 7565/6000, delta=0.02, WSSR=7030.3, pstat: 532/1000     Step: 7568/6000, delta=0.02, WSSR=7032.8, pstat: 533/1000     Step: 7577/6000, delta=0.02, WSSR=7051, pstat: 534/1000     Step: 7585/6000, delta=0.02, WSSR=7031.1, pstat: 535/1000     Step: 7594/6000, delta=0.02, WSSR=7030.2, pstat: 536/1000     Step: 7599/6000, delta=0.02, WSSR=7029.8, pstat: 537/1000     Step: 7622/6000, delta=0.02, WSSR=7050.9, pstat: 538/1000     Step: 7631/6000, delta=0.02, WSSR=7029.9, pstat: 539/1000     Step: 7635/6000, delta=0.02, WSSR=7033.6, pstat: 540/1000     Step: 7641/6000, delta=0.02, WSSR=7031.9, pstat: 541/1000     Step: 7644/6000, delta=0.02, WSSR=7030.1, pstat: 542/1000     Step: 7647/6000, delta=0.02, WSSR=7034.5, pstat: 543/1000     Step: 7652/6000, delta=0.02, WSSR=7035.4, pstat: 544/1000     Step: 7654/6000, delta=0.02, WSSR=7036.6, pstat: 545/1000     Step: 7660/6000, delta=0.02, WSSR=7029.8, pstat: 546/1000     Step: 7663/6000, delta=0.02, WSSR=7035.4, pstat: 547/1000     Step: 7667/6000, delta=0.02, WSSR=7036.1, pstat: 548/1000     Step: 7669/6000, delta=0.02, WSSR=7029.9, pstat: 549/1000     Step: 7684/6000, delta=0.02, WSSR=7032.5, pstat: 550/1000     Step: 7686/6000, delta=0.02, WSSR=7050.5, pstat: 551/1000     Step: 7687/6000, delta=0.02, WSSR=7031.2, pstat: 552/1000     Step: 7691/6000, delta=0.02, WSSR=7031.2, pstat: 553/1000     Step: 7698/6000, delta=0.02, WSSR=7029.9, pstat: 554/1000     Step: 7700/6000, delta=0.02, WSSR=7031.7, pstat: 555/1000     Step: 7703/6000, delta=0.02, WSSR=7036.6, pstat: 556/1000     Step: 7714/6000, delta=0.02, WSSR=7044.1, pstat: 557/1000     Step: 7715/6000, delta=0.02, WSSR=7030.1, pstat: 558/1000     Step: 7722/6000, delta=0.02, WSSR=7029.9, pstat: 559/1000     Step: 7726/6000, delta=0.02, WSSR=7034.4, pstat: 560/1000     Step: 7744/6000, delta=0.02, WSSR=7029.8, pstat: 561/1000     Step: 7751/6000, delta=0.02, WSSR=7029.8, pstat: 562/1000     Step: 7754/6000, delta=0.02, WSSR=7048.4, pstat: 563/1000     Step: 7758/6000, delta=0.02, WSSR=7042.3, pstat: 564/1000     Step: 7760/6000, delta=0.02, WSSR=7029.8, pstat: 565/1000     
+
+Step: 7760/6000, delta=0.02, WSSR=7029.8, delta(WSSR)/WSSR=-2.9136e-07
+New parameter values:
+a		 = 3
+b		 = 590.44
+c		 = 1.4995
+d		 = 26.309
+e		 = 0.050023
+a_1		 = -9.4076
+b_1		 = 0.11357
+c_1		 = 0.051332
+d_1		 = 0.47886
+e_1		 = 0.43287
+
+Step: 7763/6000, delta=0.02, WSSR=7053.3, pstat: 565/1000     Step: 7768/6000, delta=0.02, WSSR=7033.5, pstat: 566/1000     Step: 7769/6000, delta=0.02, WSSR=7029.8, pstat: 567/1000     Step: 7770/6000, delta=0.02, WSSR=7048.7, pstat: 568/1000     Step: 7776/6000, delta=0.02, WSSR=7034.2, pstat: 569/1000     Step: 7779/6000, delta=0.02, WSSR=7031.7, pstat: 570/1000     Step: 7795/6000, delta=0.02, WSSR=7029.8, pstat: 571/1000     Step: 7802/6000, delta=0.02, WSSR=7030.8, pstat: 572/1000     Step: 7803/6000, delta=0.02, WSSR=7029.9, pstat: 573/1000     Step: 7805/6000, delta=0.02, WSSR=7037.2, pstat: 574/1000     Step: 7820/6000, delta=0.02, WSSR=7030.9, pstat: 575/1000     Step: 7843/6000, delta=0.02, WSSR=7030.1, pstat: 576/1000     Step: 7844/6000, delta=0.02, WSSR=7034.4, pstat: 577/1000     Step: 7848/6000, delta=0.02, WSSR=7045.1, pstat: 578/1000     Step: 7854/6000, delta=0.02, WSSR=7030.1, pstat: 579/1000     Step: 7861/6000, delta=0.02, WSSR=7041.3, pstat: 580/1000     Step: 7862/6000, delta=0.02, WSSR=7037.4, pstat: 581/1000     Step: 7865/6000, delta=0.02, WSSR=7029.8, pstat: 582/1000     Step: 7871/6000, delta=0.02, WSSR=7030, pstat: 583/1000     Step: 7872/6000, delta=0.02, WSSR=7045.1, pstat: 584/1000     Step: 7873/6000, delta=0.02, WSSR=7047.8, pstat: 585/1000     Step: 7875/6000, delta=0.02, WSSR=7030.4, pstat: 586/1000     Step: 7878/6000, delta=0.02, WSSR=7037, pstat: 587/1000     Step: 7881/6000, delta=0.02, WSSR=7035.3, pstat: 588/1000     Step: 7885/6000, delta=0.02, WSSR=7037.9, pstat: 589/1000     Step: 7900/6000, delta=0.02, WSSR=7030.1, pstat: 590/1000     Step: 7901/6000, delta=0.02, WSSR=7030.5, pstat: 591/1000     Step: 7904/6000, delta=0.02, WSSR=7041.5, pstat: 592/1000     Step: 7910/6000, delta=0.02, WSSR=7029.9, pstat: 593/1000     Step: 7911/6000, delta=0.02, WSSR=7048.6, pstat: 594/1000     Step: 7912/6000, delta=0.02, WSSR=7029.8, pstat: 595/1000     Step: 7922/6000, delta=0.02, WSSR=7030.4, pstat: 596/1000     Step: 7927/6000, delta=0.02, WSSR=7031.1, pstat: 597/1000     Step: 7933/6000, delta=0.02, WSSR=7053, pstat: 598/1000     Step: 7937/6000, delta=0.02, WSSR=7036.6, pstat: 599/1000     Step: 7939/6000, delta=0.02, WSSR=7052.2, pstat: 600/1000     Step: 7943/6000, delta=0.02, WSSR=7029.9, pstat: 601/1000     Step: 7945/6000, delta=0.02, WSSR=7031.1, pstat: 602/1000     Step: 7948/6000, delta=0.02, WSSR=7037, pstat: 603/1000     Step: 7952/6000, delta=0.02, WSSR=7035.3, pstat: 604/1000     Step: 7955/6000, delta=0.02, WSSR=7030.6, pstat: 605/1000     Step: 7964/6000, delta=0.02, WSSR=7040.8, pstat: 606/1000     Step: 7969/6000, delta=0.02, WSSR=7032.1, pstat: 607/1000     Step: 7972/6000, delta=0.02, WSSR=7056.8, pstat: 608/1000     Step: 7974/6000, delta=0.02, WSSR=7055.2, pstat: 609/1000     Step: 7983/6000, delta=0.02, WSSR=7030.9, pstat: 610/1000     Step: 7991/6000, delta=0.02, WSSR=7031.3, pstat: 611/1000     Step: 8001/6000, delta=0.02, WSSR=7041.9, pstat: 612/1000     Step: 8007/6000, delta=0.02, WSSR=7032.5, pstat: 613/1000     Step: 8008/6000, delta=0.02, WSSR=7029.8, pstat: 614/1000     Step: 8011/6000, delta=0.02, WSSR=7031.9, pstat: 615/1000     Step: 8019/6000, delta=0.02, WSSR=7047.8, pstat: 616/1000     Step: 8023/6000, delta=0.02, WSSR=7043.3, pstat: 617/1000     Step: 8025/6000, delta=0.02, WSSR=7036, pstat: 618/1000     Step: 8041/6000, delta=0.02, WSSR=7029.8, pstat: 619/1000     Step: 8042/6000, delta=0.02, WSSR=7033.1, pstat: 620/1000     Step: 8050/6000, delta=0.02, WSSR=7052.3, pstat: 621/1000     Step: 8052/6000, delta=0.02, WSSR=7050.1, pstat: 622/1000     Step: 8053/6000, delta=0.02, WSSR=7029.8, pstat: 623/1000     Step: 8058/6000, delta=0.02, WSSR=7030, pstat: 624/1000     Step: 8063/6000, delta=0.02, WSSR=7034.5, pstat: 625/1000     Step: 8070/6000, delta=0.02, WSSR=7039, pstat: 626/1000     Step: 8079/6000, delta=0.02, WSSR=7038.9, pstat: 627/1000     Step: 8082/6000, delta=0.02, WSSR=7038.6, pstat: 628/1000     Step: 8084/6000, delta=0.02, WSSR=7030.9, pstat: 629/1000     Step: 8089/6000, delta=0.02, WSSR=7046.7, pstat: 630/1000     Step: 8094/6000, delta=0.02, WSSR=7029.8, pstat: 631/1000     Step: 8099/6000, delta=0.02, WSSR=7030, pstat: 632/1000     Step: 8102/6000, delta=0.02, WSSR=7031.6, pstat: 633/1000     Step: 8105/6000, delta=0.02, WSSR=7029.9, pstat: 634/1000     Step: 8106/6000, delta=0.02, WSSR=7051.4, pstat: 635/1000     Step: 8108/6000, delta=0.02, WSSR=7032.3, pstat: 636/1000     Step: 8111/6000, delta=0.02, WSSR=7032.9, pstat: 637/1000     Step: 8113/6000, delta=0.02, WSSR=7034.3, pstat: 638/1000     Step: 8118/6000, delta=0.02, WSSR=7047.5, pstat: 639/1000     Step: 8122/6000, delta=0.02, WSSR=7058.6, pstat: 640/1000     Step: 8132/6000, delta=0.02, WSSR=7029.9, pstat: 641/1000     Step: 8133/6000, delta=0.02, WSSR=7044.1, pstat: 642/1000     Step: 8142/6000, delta=0.02, WSSR=7030.8, pstat: 643/1000     Step: 8143/6000, delta=0.02, WSSR=7032.2, pstat: 644/1000     Step: 8146/6000, delta=0.02, WSSR=7030.8, pstat: 645/1000     Step: 8149/6000, delta=0.02, WSSR=7029.9, pstat: 646/1000     Step: 8150/6000, delta=0.02, WSSR=7055.5, pstat: 647/1000     Step: 8160/6000, delta=0.02, WSSR=7032.9, pstat: 648/1000     Step: 8162/6000, delta=0.02, WSSR=7029.9, pstat: 649/1000     Step: 8168/6000, delta=0.02, WSSR=7039.7, pstat: 650/1000     Step: 8173/6000, delta=0.02, WSSR=7035.2, pstat: 651/1000     Step: 8174/6000, delta=0.02, WSSR=7036.9, pstat: 652/1000     Step: 8184/6000, delta=0.02, WSSR=7031.1, pstat: 653/1000     Step: 8188/6000, delta=0.02, WSSR=7029.9, pstat: 654/1000     Step: 8196/6000, delta=0.02, WSSR=7040.8, pstat: 655/1000     Step: 8197/6000, delta=0.02, WSSR=7036, pstat: 656/1000     Step: 8199/6000, delta=0.02, WSSR=7029.8, pstat: 657/1000     Step: 8203/6000, delta=0.02, WSSR=7053.3, pstat: 658/1000     Step: 8204/6000, delta=0.02, WSSR=7050.7, pstat: 659/1000     Step: 8210/6000, delta=0.02, WSSR=7045.8, pstat: 660/1000     Step: 8213/6000, delta=0.02, WSSR=7031.1, pstat: 661/1000     Step: 8214/6000, delta=0.02, WSSR=7029.9, pstat: 662/1000     Step: 8222/6000, delta=0.02, WSSR=7035.7, pstat: 663/1000     Step: 8224/6000, delta=0.02, WSSR=7046.6, pstat: 664/1000     Step: 8227/6000, delta=0.02, WSSR=7049.1, pstat: 665/1000     Step: 8231/6000, delta=0.02, WSSR=7039.7, pstat: 666/1000     Step: 8247/6000, delta=0.02, WSSR=7031.9, pstat: 667/1000     Step: 8251/6000, delta=0.02, WSSR=7029.8, pstat: 668/1000     Step: 8267/6000, delta=0.02, WSSR=7029.8, pstat: 669/1000     Step: 8268/6000, delta=0.02, WSSR=7057, pstat: 670/1000     Step: 8283/6000, delta=0.02, WSSR=7029.8, pstat: 671/1000     Step: 8294/6000, delta=0.02, WSSR=7030.2, pstat: 672/1000     Step: 8297/6000, delta=0.02, WSSR=7030.2, pstat: 673/1000     Step: 8298/6000, delta=0.02, WSSR=7030, pstat: 674/1000     Step: 8305/6000, delta=0.02, WSSR=7043.9, pstat: 675/1000     Step: 8308/6000, delta=0.02, WSSR=7053.8, pstat: 676/1000     Step: 8317/6000, delta=0.02, WSSR=7032, pstat: 677/1000     Step: 8328/6000, delta=0.02, WSSR=7029.8, pstat: 678/1000     Step: 8330/6000, delta=0.02, WSSR=7042.3, pstat: 679/1000     Step: 8334/6000, delta=0.02, WSSR=7029.9, pstat: 680/1000     Step: 8337/6000, delta=0.02, WSSR=7030.5, pstat: 681/1000     Step: 8346/6000, delta=0.02, WSSR=7030.9, pstat: 682/1000     Step: 8353/6000, delta=0.02, WSSR=7052.2, pstat: 683/1000     Step: 8354/6000, delta=0.02, WSSR=7038, pstat: 684/1000     Step: 8359/6000, delta=0.02, WSSR=7037, pstat: 685/1000     Step: 8364/6000, delta=0.02, WSSR=7035.2, pstat: 686/1000     Step: 8365/6000, delta=0.02, WSSR=7040.3, pstat: 687/1000     Step: 8371/6000, delta=0.02, WSSR=7034.5, pstat: 688/1000     Step: 8377/6000, delta=0.02, WSSR=7029.8, pstat: 689/1000     Step: 8384/6000, delta=0.02, WSSR=7029.8, pstat: 690/1000     Step: 8385/6000, delta=0.02, WSSR=7040.2, pstat: 691/1000     Step: 8386/6000, delta=0.02, WSSR=7042.7, pstat: 692/1000     Step: 8387/6000, delta=0.02, WSSR=7029.8, pstat: 693/1000     Step: 8390/6000, delta=0.02, WSSR=7029.9, pstat: 694/1000     Step: 8400/6000, delta=0.02, WSSR=7029.9, pstat: 695/1000     Step: 8402/6000, delta=0.02, WSSR=7040.1, pstat: 696/1000     Step: 8405/6000, delta=0.02, WSSR=7034.3, pstat: 697/1000     Step: 8417/6000, delta=0.02, WSSR=7034.1, pstat: 698/1000     Step: 8419/6000, delta=0.02, WSSR=7030.8, pstat: 699/1000     Step: 8426/6000, delta=0.02, WSSR=7029.8, pstat: 700/1000     Step: 8428/6000, delta=0.02, WSSR=7030.2, pstat: 701/1000     Step: 8429/6000, delta=0.02, WSSR=7030.7, pstat: 702/1000     Step: 8434/6000, delta=0.02, WSSR=7045.4, pstat: 703/1000     Step: 8437/6000, delta=0.02, WSSR=7039.9, pstat: 704/1000     Step: 8439/6000, delta=0.02, WSSR=7029.8, pstat: 705/1000     Step: 8440/6000, delta=0.02, WSSR=7039, pstat: 706/1000     Step: 8457/6000, delta=0.02, WSSR=7037.9, pstat: 707/1000     Step: 8460/6000, delta=0.02, WSSR=7030.6, pstat: 708/1000     Step: 8468/6000, delta=0.02, WSSR=7032, pstat: 709/1000     Step: 8473/6000, delta=0.02, WSSR=7030, pstat: 710/1000     Step: 8481/6000, delta=0.02, WSSR=7029.9, pstat: 711/1000     Step: 8482/6000, delta=0.02, WSSR=7034.9, pstat: 712/1000     Step: 8485/6000, delta=0.02, WSSR=7039.4, pstat: 713/1000     Step: 8487/6000, delta=0.02, WSSR=7042.6, pstat: 714/1000     Step: 8489/6000, delta=0.02, WSSR=7034.6, pstat: 715/1000     Step: 8492/6000, delta=0.02, WSSR=7030.2, pstat: 716/1000     Step: 8503/6000, delta=0.02, WSSR=7041.6, pstat: 717/1000     Step: 8506/6000, delta=0.02, WSSR=7049.5, pstat: 718/1000     Step: 8507/6000, delta=0.02, WSSR=7030.5, pstat: 719/1000     Step: 8512/6000, delta=0.02, WSSR=7052.6, pstat: 720/1000     Step: 8514/6000, delta=0.02, WSSR=7029.9, pstat: 721/1000     Step: 8517/6000, delta=0.02, WSSR=7032.2, pstat: 722/1000     Step: 8518/6000, delta=0.02, WSSR=7030, pstat: 723/1000     Step: 8519/6000, delta=0.02, WSSR=7041.6, pstat: 724/1000     Step: 8520/6000, delta=0.02, WSSR=7038.2, pstat: 725/1000     Step: 8522/6000, delta=0.02, WSSR=7046.6, pstat: 726/1000     Step: 8523/6000, delta=0.02, WSSR=7031.6, pstat: 727/1000     Step: 8525/6000, delta=0.02, WSSR=7030.3, pstat: 728/1000     Step: 8534/6000, delta=0.02, WSSR=7056.5, pstat: 729/1000     Step: 8535/6000, delta=0.02, WSSR=7034.4, pstat: 730/1000     Step: 8544/6000, delta=0.02, WSSR=7052.9, pstat: 731/1000     Step: 8556/6000, delta=0.02, WSSR=7035.6, pstat: 732/1000     Step: 8559/6000, delta=0.02, WSSR=7057.1, pstat: 733/1000     Step: 8560/6000, delta=0.02, WSSR=7035.3, pstat: 734/1000     Step: 8562/6000, delta=0.02, WSSR=7034.2, pstat: 735/1000     Step: 8566/6000, delta=0.02, WSSR=7034.1, pstat: 736/1000     Step: 8568/6000, delta=0.02, WSSR=7030, pstat: 737/1000     Step: 8574/6000, delta=0.02, WSSR=7042.7, pstat: 738/1000     Step: 8578/6000, delta=0.02, WSSR=7045.9, pstat: 739/1000     Step: 8579/6000, delta=0.02, WSSR=7033.7, pstat: 740/1000     Step: 8582/6000, delta=0.02, WSSR=7041.6, pstat: 741/1000     Step: 8586/6000, delta=0.02, WSSR=7036.8, pstat: 742/1000     Step: 8587/6000, delta=0.02, WSSR=7029.9, pstat: 743/1000     Step: 8591/6000, delta=0.02, WSSR=7030.1, pstat: 744/1000     Step: 8601/6000, delta=0.02, WSSR=7047.4, pstat: 745/1000     Step: 8604/6000, delta=0.02, WSSR=7031.3, pstat: 746/1000     Step: 8607/6000, delta=0.02, WSSR=7030.6, pstat: 747/1000     Step: 8613/6000, delta=0.02, WSSR=7029.8, pstat: 748/1000     Step: 8616/6000, delta=0.02, WSSR=7029.9, pstat: 749/1000     Step: 8623/6000, delta=0.02, WSSR=7030, pstat: 750/1000     Step: 8625/6000, delta=0.02, WSSR=7029.9, pstat: 751/1000     Step: 8626/6000, delta=0.02, WSSR=7042.1, pstat: 752/1000     Step: 8636/6000, delta=0.02, WSSR=7031.7, pstat: 753/1000     Step: 8637/6000, delta=0.02, WSSR=7034.7, pstat: 754/1000     Step: 8649/6000, delta=0.02, WSSR=7036.2, pstat: 755/1000     Step: 8651/6000, delta=0.02, WSSR=7033.1, pstat: 756/1000     Step: 8668/6000, delta=0.02, WSSR=7036.1, pstat: 757/1000     Step: 8670/6000, delta=0.02, WSSR=7051.1, pstat: 758/1000     Step: 8679/6000, delta=0.02, WSSR=7034.6, pstat: 759/1000     Step: 8683/6000, delta=0.02, WSSR=7030.8, pstat: 760/1000     Step: 8685/6000, delta=0.02, WSSR=7036.9, pstat: 761/1000     Step: 8686/6000, delta=0.02, WSSR=7037.1, pstat: 762/1000     Step: 8687/6000, delta=0.02, WSSR=7046.2, pstat: 763/1000     Step: 8690/6000, delta=0.02, WSSR=7036.8, pstat: 764/1000     Step: 8692/6000, delta=0.02, WSSR=7039.6, pstat: 765/1000     Step: 8693/6000, delta=0.02, WSSR=7029.8, pstat: 766/1000     Step: 8702/6000, delta=0.02, WSSR=7044.5, pstat: 767/1000     Step: 8703/6000, delta=0.02, WSSR=7049.4, pstat: 768/1000     Step: 8705/6000, delta=0.02, WSSR=7031.4, pstat: 769/1000     Step: 8707/6000, delta=0.02, WSSR=7037.9, pstat: 770/1000     Step: 8715/6000, delta=0.02, WSSR=7029.8, pstat: 771/1000     
+
+Step: 8715/6000, delta=0.02, WSSR=7029.8, delta(WSSR)/WSSR=-2.7945e-08
+New parameter values:
+a		 = 3
+b		 = 590.61
+c		 = 1.4995
+d		 = 26.409
+e		 = 0.050016
+a_1		 = -9.3975
+b_1		 = 0.11507
+c_1		 = 0.050754
+d_1		 = 0.48658
+e_1		 = 0.4329
+
+Step: 8720/6000, delta=0.02, WSSR=7030.1, pstat: 771/1000     Step: 8721/6000, delta=0.02, WSSR=7031.2, pstat: 772/1000     Step: 8722/6000, delta=0.02, WSSR=7051.6, pstat: 773/1000     Step: 8725/6000, delta=0.02, WSSR=7030.5, pstat: 774/1000     Step: 8737/6000, delta=0.02, WSSR=7030.4, pstat: 775/1000     Step: 8739/6000, delta=0.02, WSSR=7029.8, pstat: 776/1000     Step: 8741/6000, delta=0.02, WSSR=7045.1, pstat: 777/1000     Step: 8750/6000, delta=0.02, WSSR=7029.9, pstat: 778/1000     Step: 8754/6000, delta=0.02, WSSR=7029.9, pstat: 779/1000     Step: 8764/6000, delta=0.02, WSSR=7030.2, pstat: 780/1000     Step: 8774/6000, delta=0.02, WSSR=7029.9, pstat: 781/1000     Step: 8779/6000, delta=0.02, WSSR=7029.9, pstat: 782/1000     Step: 8780/6000, delta=0.02, WSSR=7032.2, pstat: 783/1000     Step: 8782/6000, delta=0.02, WSSR=7044.2, pstat: 784/1000     Step: 8783/6000, delta=0.02, WSSR=7040.7, pstat: 785/1000     Step: 8784/6000, delta=0.02, WSSR=7029.8, pstat: 786/1000     Step: 8786/6000, delta=0.02, WSSR=7049.2, pstat: 787/1000     Step: 8800/6000, delta=0.02, WSSR=7052, pstat: 788/1000     Step: 8805/6000, delta=0.02, WSSR=7030.1, pstat: 789/1000     Step: 8818/6000, delta=0.02, WSSR=7037.2, pstat: 790/1000     Step: 8826/6000, delta=0.02, WSSR=7030.1, pstat: 791/1000     Step: 8833/6000, delta=0.02, WSSR=7030.6, pstat: 792/1000     Step: 8835/6000, delta=0.02, WSSR=7029.8, pstat: 793/1000     Step: 8847/6000, delta=0.02, WSSR=7029.9, pstat: 794/1000     Step: 8858/6000, delta=0.02, WSSR=7030.5, pstat: 795/1000     Step: 8865/6000, delta=0.02, WSSR=7029.8, pstat: 796/1000     Step: 8867/6000, delta=0.02, WSSR=7029.8, pstat: 797/1000     Step: 8868/6000, delta=0.02, WSSR=7038.4, pstat: 798/1000     Step: 8874/6000, delta=0.02, WSSR=7047.8, pstat: 799/1000     Step: 8892/6000, delta=0.02, WSSR=7031.5, pstat: 800/1000     Step: 8894/6000, delta=0.02, WSSR=7029.9, pstat: 801/1000     Step: 8898/6000, delta=0.02, WSSR=7029.8, pstat: 802/1000     Step: 8901/6000, delta=0.02, WSSR=7035.8, pstat: 803/1000     Step: 8907/6000, delta=0.02, WSSR=7031.1, pstat: 804/1000     Step: 8910/6000, delta=0.02, WSSR=7031, pstat: 805/1000     Step: 8913/6000, delta=0.02, WSSR=7056.3, pstat: 806/1000     Step: 8919/6000, delta=0.02, WSSR=7029.9, pstat: 807/1000     Step: 8921/6000, delta=0.02, WSSR=7029.8, pstat: 808/1000     Step: 8928/6000, delta=0.02, WSSR=7035.2, pstat: 809/1000     Step: 8929/6000, delta=0.02, WSSR=7034.3, pstat: 810/1000     Step: 8935/6000, delta=0.02, WSSR=7029.9, pstat: 811/1000     Step: 8939/6000, delta=0.02, WSSR=7052.9, pstat: 812/1000     Step: 8943/6000, delta=0.02, WSSR=7031.2, pstat: 813/1000     Step: 8945/6000, delta=0.02, WSSR=7030.1, pstat: 814/1000     Step: 8960/6000, delta=0.02, WSSR=7030.6, pstat: 815/1000     Step: 8961/6000, delta=0.02, WSSR=7030.1, pstat: 816/1000     Step: 8963/6000, delta=0.02, WSSR=7034.1, pstat: 817/1000     Step: 8969/6000, delta=0.02, WSSR=7056.7, pstat: 818/1000     Step: 8972/6000, delta=0.02, WSSR=7032, pstat: 819/1000     Step: 8974/6000, delta=0.02, WSSR=7035, pstat: 820/1000     Step: 8975/6000, delta=0.02, WSSR=7031.1, pstat: 821/1000     Step: 8977/6000, delta=0.02, WSSR=7033.3, pstat: 822/1000     Step: 8978/6000, delta=0.02, WSSR=7037.6, pstat: 823/1000     Step: 8980/6000, delta=0.02, WSSR=7030, pstat: 824/1000     Step: 8988/6000, delta=0.02, WSSR=7030.4, pstat: 825/1000     Step: 8990/6000, delta=0.02, WSSR=7038.5, pstat: 826/1000     Step: 8991/6000, delta=0.02, WSSR=7034.8, pstat: 827/1000     Step: 9004/6000, delta=0.02, WSSR=7031.2, pstat: 828/1000     Step: 9008/6000, delta=0.02, WSSR=7030.3, pstat: 829/1000     Step: 9010/6000, delta=0.02, WSSR=7036.6, pstat: 830/1000     Step: 9013/6000, delta=0.02, WSSR=7030.3, pstat: 831/1000     Step: 9015/6000, delta=0.02, WSSR=7032.2, pstat: 832/1000     Step: 9016/6000, delta=0.02, WSSR=7040.6, pstat: 833/1000     Step: 9024/6000, delta=0.02, WSSR=7037.2, pstat: 834/1000     Step: 9029/6000, delta=0.02, WSSR=7031.6, pstat: 835/1000     Step: 9030/6000, delta=0.02, WSSR=7042, pstat: 836/1000     Step: 9038/6000, delta=0.02, WSSR=7035.2, pstat: 837/1000     Step: 9039/6000, delta=0.02, WSSR=7034.9, pstat: 838/1000     Step: 9040/6000, delta=0.02, WSSR=7030.4, pstat: 839/1000     Step: 9043/6000, delta=0.02, WSSR=7030, pstat: 840/1000     Step: 9044/6000, delta=0.02, WSSR=7030.2, pstat: 841/1000     Step: 9050/6000, delta=0.02, WSSR=7054.9, pstat: 842/1000     Step: 9074/6000, delta=0.02, WSSR=7054.6, pstat: 843/1000     Step: 9083/6000, delta=0.02, WSSR=7029.9, pstat: 844/1000     Step: 9090/6000, delta=0.02, WSSR=7030.2, pstat: 845/1000     Step: 9092/6000, delta=0.02, WSSR=7030.2, pstat: 846/1000     Step: 9094/6000, delta=0.02, WSSR=7036.5, pstat: 847/1000     Step: 9099/6000, delta=0.02, WSSR=7030.3, pstat: 848/1000     Step: 9106/6000, delta=0.02, WSSR=7031.1, pstat: 849/1000     Step: 9111/6000, delta=0.02, WSSR=7030.1, pstat: 850/1000     Step: 9119/6000, delta=0.02, WSSR=7030.7, pstat: 851/1000     Step: 9125/6000, delta=0.02, WSSR=7034.1, pstat: 852/1000     Step: 9132/6000, delta=0.02, WSSR=7057.4, pstat: 853/1000     Step: 9133/6000, delta=0.02, WSSR=7057.3, pstat: 854/1000     Step: 9134/6000, delta=0.02, WSSR=7029.9, pstat: 855/1000     Step: 9138/6000, delta=0.02, WSSR=7046.7, pstat: 856/1000     Step: 9143/6000, delta=0.02, WSSR=7047.7, pstat: 857/1000     Step: 9147/6000, delta=0.02, WSSR=7041.7, pstat: 858/1000     Step: 9149/6000, delta=0.02, WSSR=7030, pstat: 859/1000     Step: 9152/6000, delta=0.02, WSSR=7039.3, pstat: 860/1000     Step: 9153/6000, delta=0.02, WSSR=7055, pstat: 861/1000     Step: 9158/6000, delta=0.02, WSSR=7029.9, pstat: 862/1000     Step: 9166/6000, delta=0.02, WSSR=7039.6, pstat: 863/1000     Step: 9169/6000, delta=0.02, WSSR=7033.5, pstat: 864/1000     Step: 9170/6000, delta=0.02, WSSR=7030.2, pstat: 865/1000     Step: 9174/6000, delta=0.02, WSSR=7036.4, pstat: 866/1000     Step: 9176/6000, delta=0.02, WSSR=7030.2, pstat: 867/1000     Step: 9180/6000, delta=0.02, WSSR=7030, pstat: 868/1000     Step: 9198/6000, delta=0.02, WSSR=7029.9, pstat: 869/1000     Step: 9199/6000, delta=0.02, WSSR=7039, pstat: 870/1000     Step: 9203/6000, delta=0.02, WSSR=7033.3, pstat: 871/1000     Step: 9215/6000, delta=0.02, WSSR=7029.9, pstat: 872/1000     Step: 9219/6000, delta=0.02, WSSR=7030, pstat: 873/1000     Step: 9220/6000, delta=0.02, WSSR=7030.3, pstat: 874/1000     Step: 9224/6000, delta=0.02, WSSR=7053.7, pstat: 875/1000     Step: 9225/6000, delta=0.02, WSSR=7030.7, pstat: 876/1000     Step: 9226/6000, delta=0.02, WSSR=7049.3, pstat: 877/1000     Step: 9234/6000, delta=0.02, WSSR=7058.3, pstat: 878/1000     Step: 9235/6000, delta=0.02, WSSR=7030.3, pstat: 879/1000     Step: 9238/6000, delta=0.02, WSSR=7030.3, pstat: 880/1000     Step: 9239/6000, delta=0.02, WSSR=7030.3, pstat: 881/1000     Step: 9242/6000, delta=0.02, WSSR=7045, pstat: 882/1000     Step: 9247/6000, delta=0.02, WSSR=7031.7, pstat: 883/1000     Step: 9268/6000, delta=0.02, WSSR=7057.4, pstat: 884/1000     Step: 9284/6000, delta=0.02, WSSR=7030.1, pstat: 885/1000     Step: 9286/6000, delta=0.02, WSSR=7048.2, pstat: 886/1000     Step: 9287/6000, delta=0.02, WSSR=7046.2, pstat: 887/1000     Step: 9300/6000, delta=0.02, WSSR=7046.9, pstat: 888/1000     Step: 9307/6000, delta=0.02, WSSR=7037.4, pstat: 889/1000     Step: 9311/6000, delta=0.02, WSSR=7035, pstat: 890/1000     Step: 9314/6000, delta=0.02, WSSR=7030.4, pstat: 891/1000     Step: 9315/6000, delta=0.02, WSSR=7039.1, pstat: 892/1000     Step: 9317/6000, delta=0.02, WSSR=7030.1, pstat: 893/1000     Step: 9329/6000, delta=0.02, WSSR=7054.1, pstat: 894/1000     Step: 9334/6000, delta=0.02, WSSR=7029.9, pstat: 895/1000     Step: 9335/6000, delta=0.02, WSSR=7039.3, pstat: 896/1000     Step: 9339/6000, delta=0.02, WSSR=7049.1, pstat: 897/1000     Step: 9344/6000, delta=0.02, WSSR=7030, pstat: 898/1000     Step: 9350/6000, delta=0.02, WSSR=7030.5, pstat: 899/1000     Step: 9355/6000, delta=0.02, WSSR=7032, pstat: 900/1000     Step: 9358/6000, delta=0.02, WSSR=7030, pstat: 901/1000     Step: 9363/6000, delta=0.02, WSSR=7043.7, pstat: 902/1000     Step: 9364/6000, delta=0.02, WSSR=7040.1, pstat: 903/1000     Step: 9367/6000, delta=0.02, WSSR=7031.7, pstat: 904/1000     Step: 9368/6000, delta=0.02, WSSR=7035, pstat: 905/1000     Step: 9375/6000, delta=0.02, WSSR=7032.5, pstat: 906/1000     Step: 9380/6000, delta=0.02, WSSR=7049.9, pstat: 907/1000     Step: 9383/6000, delta=0.02, WSSR=7043.9, pstat: 908/1000     Step: 9386/6000, delta=0.02, WSSR=7046.4, pstat: 909/1000     Step: 9390/6000, delta=0.02, WSSR=7043, pstat: 910/1000     Step: 9396/6000, delta=0.02, WSSR=7038.5, pstat: 911/1000     Step: 9397/6000, delta=0.02, WSSR=7029.9, pstat: 912/1000     Step: 9404/6000, delta=0.02, WSSR=7030.1, pstat: 913/1000     Step: 9405/6000, delta=0.02, WSSR=7030.9, pstat: 914/1000     Step: 9424/6000, delta=0.02, WSSR=7029.8, pstat: 915/1000     Step: 9430/6000, delta=0.02, WSSR=7033, pstat: 916/1000     Step: 9432/6000, delta=0.02, WSSR=7034, pstat: 917/1000     Step: 9434/6000, delta=0.02, WSSR=7049.4, pstat: 918/1000     Step: 9437/6000, delta=0.02, WSSR=7047.1, pstat: 919/1000     Step: 9438/6000, delta=0.02, WSSR=7057.2, pstat: 920/1000     Step: 9440/6000, delta=0.02, WSSR=7030.5, pstat: 921/1000     Step: 9444/6000, delta=0.02, WSSR=7036.4, pstat: 922/1000     Step: 9449/6000, delta=0.02, WSSR=7032.4, pstat: 923/1000     Step: 9455/6000, delta=0.02, WSSR=7031.1, pstat: 924/1000     Step: 9481/6000, delta=0.02, WSSR=7030.1, pstat: 925/1000     Step: 9486/6000, delta=0.02, WSSR=7030.1, pstat: 926/1000     Step: 9489/6000, delta=0.02, WSSR=7029.8, pstat: 927/1000     Step: 9499/6000, delta=0.02, WSSR=7029.9, pstat: 928/1000     Step: 9502/6000, delta=0.02, WSSR=7030, pstat: 929/1000     Step: 9503/6000, delta=0.02, WSSR=7044.5, pstat: 930/1000     Step: 9516/6000, delta=0.02, WSSR=7037.2, pstat: 931/1000     Step: 9518/6000, delta=0.02, WSSR=7029.9, pstat: 932/1000     Step: 9520/6000, delta=0.02, WSSR=7031.4, pstat: 933/1000     Step: 9524/6000, delta=0.02, WSSR=7031.8, pstat: 934/1000     Step: 9525/6000, delta=0.02, WSSR=7057.4, pstat: 935/1000     Step: 9527/6000, delta=0.02, WSSR=7039.5, pstat: 936/1000     Step: 9537/6000, delta=0.02, WSSR=7029.9, pstat: 937/1000     Step: 9555/6000, delta=0.02, WSSR=7036.2, pstat: 938/1000     Step: 9559/6000, delta=0.02, WSSR=7040, pstat: 939/1000     Step: 9562/6000, delta=0.02, WSSR=7046.4, pstat: 940/1000     Step: 9563/6000, delta=0.02, WSSR=7031.6, pstat: 941/1000     Step: 9565/6000, delta=0.02, WSSR=7029.8, pstat: 942/1000     Step: 9574/6000, delta=0.02, WSSR=7029.8, pstat: 943/1000     Step: 9577/6000, delta=0.02, WSSR=7030.5, pstat: 944/1000     Step: 9592/6000, delta=0.02, WSSR=7056.7, pstat: 945/1000     Step: 9598/6000, delta=0.02, WSSR=7029.8, pstat: 946/1000     Step: 9601/6000, delta=0.02, WSSR=7043.5, pstat: 947/1000     Step: 9602/6000, delta=0.02, WSSR=7029.8, pstat: 948/1000     Step: 9604/6000, delta=0.02, WSSR=7032.8, pstat: 949/1000     Step: 9610/6000, delta=0.02, WSSR=7031.7, pstat: 950/1000     Step: 9621/6000, delta=0.02, WSSR=7031.8, pstat: 951/1000     Step: 9639/6000, delta=0.02, WSSR=7034.7, pstat: 952/1000     Step: 9640/6000, delta=0.02, WSSR=7038.6, pstat: 953/1000     Step: 9645/6000, delta=0.02, WSSR=7036.5, pstat: 954/1000     Step: 9650/6000, delta=0.02, WSSR=7037.7, pstat: 955/1000     Step: 9663/6000, delta=0.02, WSSR=7036.8, pstat: 956/1000     Step: 9665/6000, delta=0.02, WSSR=7045.5, pstat: 957/1000     Step: 9672/6000, delta=0.02, WSSR=7032.4, pstat: 958/1000     Step: 9674/6000, delta=0.02, WSSR=7029.8, pstat: 959/1000     Step: 9675/6000, delta=0.02, WSSR=7054, pstat: 960/1000     Step: 9681/6000, delta=0.02, WSSR=7030.6, pstat: 961/1000     Step: 9683/6000, delta=0.02, WSSR=7032.8, pstat: 962/1000     Step: 9684/6000, delta=0.02, WSSR=7030.1, pstat: 963/1000     Step: 9693/6000, delta=0.02, WSSR=7033.7, pstat: 964/1000     Step: 9695/6000, delta=0.02, WSSR=7042.9, pstat: 965/1000     Step: 9700/6000, delta=0.02, WSSR=7049.8, pstat: 966/1000     Step: 9702/6000, delta=0.02, WSSR=7031.1, pstat: 967/1000     Step: 9703/6000, delta=0.02, WSSR=7031.4, pstat: 968/1000     Step: 9706/6000, delta=0.02, WSSR=7030.4, pstat: 969/1000     Step: 9720/6000, delta=0.02, WSSR=7038.8, pstat: 970/1000     Step: 9727/6000, delta=0.02, WSSR=7041.6, pstat: 971/1000     Step: 9729/6000, delta=0.02, WSSR=7034.3, pstat: 972/1000     Step: 9730/6000, delta=0.02, WSSR=7030.2, pstat: 973/1000     Step: 9735/6000, delta=0.02, WSSR=7029.9, pstat: 974/1000     Step: 9745/6000, delta=0.02, WSSR=7035.3, pstat: 975/1000     Step: 9769/6000, delta=0.02, WSSR=7033.5, pstat: 976/1000     Step: 9775/6000, delta=0.02, WSSR=7040.5, pstat: 977/1000     Step: 9786/6000, delta=0.02, WSSR=7032.1, pstat: 978/1000     Step: 9787/6000, delta=0.02, WSSR=7030.3, pstat: 979/1000     Step: 9792/6000, delta=0.02, WSSR=7056.5, pstat: 980/1000     Step: 9793/6000, delta=0.02, WSSR=7031.1, pstat: 981/1000     Step: 9797/6000, delta=0.02, WSSR=7030.2, pstat: 982/1000     Step: 9803/6000, delta=0.02, WSSR=7039.8, pstat: 983/1000     Step: 9808/6000, delta=0.02, WSSR=7032.9, pstat: 984/1000     Step: 9810/6000, delta=0.02, WSSR=7030, pstat: 985/1000     Step: 9813/6000, delta=0.02, WSSR=7044.2, pstat: 986/1000     Step: 9814/6000, delta=0.02, WSSR=7031.7, pstat: 987/1000     Step: 9830/6000, delta=0.02, WSSR=7030.8, pstat: 988/1000     Step: 9845/6000, delta=0.02, WSSR=7029.9, pstat: 989/1000     Step: 9851/6000, delta=0.02, WSSR=7035.4, pstat: 990/1000     Step: 9856/6000, delta=0.02, WSSR=7042.1, pstat: 991/1000     Step: 9866/6000, delta=0.02, WSSR=7033.9, pstat: 992/1000     Step: 9872/6000, delta=0.02, WSSR=7030.9, pstat: 993/1000     Step: 9879/6000, delta=0.02, WSSR=7051.9, pstat: 994/1000     Step: 9885/6000, delta=0.02, WSSR=7029.9, pstat: 995/1000     Step: 9895/6000, delta=0.02, WSSR=7034.4, pstat: 996/1000     Step: 9903/6000, delta=0.02, WSSR=7038.5, pstat: 997/1000     Step: 9905/6000, delta=0.02, WSSR=7030, pstat: 998/1000     Step: 9907/6000, delta=0.02, WSSR=7035.1, pstat: 999/1000     Saving ML parameter values:
+a value: 3
+b value: 590.61
+c value: 1.4995
+d value: 26.409
+e value: 0.050016
+a_1 value: -9.3975
+b_1 value: 0.11507
+c_1 value: 0.050754
+d_1 value: 0.48658
+e_1 value: 0.4329
+Fitting only peak positions using ML:
+WSSR value before ML fit: 7029.8
+
+
+ Iteration 0
+ WSSR        : 7029.78           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-09
+ lambda	  : 13.4993
+
+initial set of free parameter values
+
+i_s0_0          = 44.35
+i_s0_1          = 81.95
+i_s0_2          = 98.55
+i_s0_3          = 64.7
+i_s0_4          = 115.9
+/
+
+ Iteration 1
+ WSSR        : 3195.55           delta(WSSR)/WSSR   : -1.19986
+ delta(WSSR) : -3834.23          limit for stopping : 1e-09
+ lambda	  : 1.34993
+
+resultant parameter values
+
+i_s0_0          = 44.3996
+i_s0_1          = 81.9845
+i_s0_2          = 98.557
+i_s0_3          = 64.7114
+i_s0_4          = 115.918
+/
+
+ Iteration 2
+ WSSR        : 2945.71           delta(WSSR)/WSSR   : -0.0848152
+ delta(WSSR) : -249.841          limit for stopping : 1e-09
+ lambda	  : 0.134993
+
+resultant parameter values
+
+i_s0_0          = 44.4179
+i_s0_1          = 81.9987
+i_s0_2          = 98.5608
+i_s0_3          = 64.7142
+i_s0_4          = 115.92
+**********/
+
+ Iteration 3
+ WSSR        : 2945.71           delta(WSSR)/WSSR   : -9.26257e-16
+ delta(WSSR) : -2.72848e-12      limit for stopping : 1e-09
+ lambda	  : 1.34993e+08
+
+resultant parameter values
+
+i_s0_0          = 44.4179
+i_s0_1          = 81.9987
+i_s0_2          = 98.5608
+i_s0_3          = 64.7142
+i_s0_4          = 115.92
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2945.71
+rel. change during last iteration : -9.26257e-16
+
+degrees of freedom    (FIT_NDF)                        : 1797
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.28033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.63924
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+i_s0_0          = 44.4179          +/- 0.001065     (0.002398%)
+i_s0_1          = 81.9987          +/- 0.003963     (0.004833%)
+i_s0_2          = 98.5608          +/- 0.007184     (0.007288%)
+i_s0_3          = 64.7142          +/- 0.007818     (0.01208%)
+i_s0_4          = 115.92           +/- 0.01397      (0.01205%)
+
+
+correlation matrix of the fit parameters:
+
+               i_s0_0 i_s0_1 i_s0_2 i_s0_3 i_s0_4 
+i_s0_0          1.000 
+i_s0_1         -0.000  1.000 
+i_s0_2          0.000  0.000  1.000 
+i_s0_3         -0.000  0.000 -0.000  1.000 
+i_s0_4          0.000 -0.000  0.000 -0.000  1.000 
+
+
+Number of steps: 13.
+Total elapsed time of the fitting: 140.9 sec.
+Average time of a step: 10.839 sec.
+Elapsed time of function evaluations: 98.079 sec (69.609 %).
+Fitting only peak intensities using ML:
+WSSR value before ML fit: 2945.7
+
+
+ Iteration 0
+ WSSR        : 2945.71           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-09
+ lambda	  : 0.00344916
+
+initial set of free parameter values
+
+i_max_0         = 2104.24
+i_max_1         = 279.645
+i_max_2         = 133.608
+i_max_3         = 119.872
+i_max_4         = 83.7526
+/
+
+ Iteration 1
+ WSSR        : 2713.57           delta(WSSR)/WSSR   : -0.0855491
+ delta(WSSR) : -232.143          limit for stopping : 1e-09
+ lambda	  : 0.000344916
+
+resultant parameter values
+
+i_max_0         = 2528.91
+i_max_1         = 319.673
+i_max_2         = 151.857
+i_max_3         = 136.847
+i_max_4         = 87.0117
+/
+
+ Iteration 2
+ WSSR        : 2713.54           delta(WSSR)/WSSR   : -8.46915e-06
+ delta(WSSR) : -0.0229814        limit for stopping : 1e-09
+ lambda	  : 3.44916e-05
+
+resultant parameter values
+
+i_max_0         = 2533.45
+i_max_1         = 319.727
+i_max_2         = 151.869
+i_max_3         = 136.856
+i_max_4         = 87.0124
+/
+
+ Iteration 3
+ WSSR        : 2713.54           delta(WSSR)/WSSR   : -9.80368e-14
+ delta(WSSR) : -2.66027e-10      limit for stopping : 1e-09
+ lambda	  : 3.44916e-06
+
+resultant parameter values
+
+i_max_0         = 2533.45
+i_max_1         = 319.727
+i_max_2         = 151.869
+i_max_3         = 136.856
+i_max_4         = 87.0124
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2713.54
+rel. change during last iteration : -9.80368e-14
+
+degrees of freedom    (FIT_NDF)                        : 1797
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.22884
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.51004
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+i_max_0         = 2533.45          +/- 36.85        (1.454%)
+i_max_1         = 319.727          +/- 13.11        (4.099%)
+i_max_2         = 151.869          +/- 8.932        (5.881%)
+i_max_3         = 136.856          +/- 8.345        (6.098%)
+i_max_4         = 87.0124          +/- 5.162        (5.932%)
+
+
+correlation matrix of the fit parameters:
+
+               i_max_ i_max_ i_max_ i_max_ i_max_ 
+i_max_0         1.000 
+i_max_1         0.000  1.000 
+i_max_2         0.000 -0.000  1.000 
+i_max_3        -0.000 -0.000 -0.000  1.000 
+i_max_4        -0.000 -0.000 -0.000  0.000  1.000 
+
+
+Number of steps: 16.
+Total elapsed time of the fitting: 153.65 sec.
+Average time of a step: 9.6033 sec.
+Elapsed time of function evaluations: 99.143 sec (64.524 %).
+Fitting only physical parameters using ML:
+WSSR value before ML fit: 2713.5
+
+
+ Iteration 0
+ WSSR        : 2713.54           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-09
+ lambda	  : 49.6809
+
+initial set of free parameter values
+
+a               = 2.99999
+b               = 590.605
+c               = 1.49947
+d               = 26.4094
+e               = 0.0500159
+a_1             = -9.39746
+b_1             = 0.115065
+c_1             = 0.0507544
+d_1             = 0.486576
+e_1             = 0.432895
+?10%?10%/
+
+ Iteration 1
+ WSSR        : 2530.59           delta(WSSR)/WSSR   : -0.072295
+ delta(WSSR) : -182.949          limit for stopping : 1e-09
+ lambda	  : 4.96809
+
+resultant parameter values
+
+a               = 2.99982
+b               = 590.605
+c               = 1.49858
+d               = 29.0504
+e               = 0.110228
+a_1             = -9.39746
+b_1             = 0.115065
+c_1             = 0.0507544
+d_1             = 0.486576
+e_1             = 0.432895
+?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%/
+
+ Iteration 2
+ WSSR        : 2525.32           delta(WSSR)/WSSR   : -0.00208697
+ delta(WSSR) : -5.27027          limit for stopping : 1e-09
+ lambda	  : 49.6809
+
+resultant parameter values
+
+a               = 2.99976
+b               = 590.605
+c               = 1.49857
+d               = 31.9554
+e               = 0.111278
+a_1             = -9.39746
+b_1             = 0.115065
+c_1             = 0.0507544
+d_1             = 0.486576
+e_1             = 0.432895
+?10%?10%!5%!1%!!*?10%?10%!5%!1%!!/
+
+ Iteration 3
+ WSSR        : 2525.26           delta(WSSR)/WSSR   : -2.51809e-05
+ delta(WSSR) : -0.0635884        limit for stopping : 1e-09
+ lambda	  : 49.6809
+
+resultant parameter values
+
+a               = 2.99988
+b               = 590.605
+c               = 1.49856
+d               = 31.9554
+e               = 0.112328
+a_1             = -9.39746
+b_1             = 0.115065
+c_1             = 0.0507544
+d_1             = 0.486576
+e_1             = 0.432895
+?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2525.26
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 1792
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.18709
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.40919
+
+ERROR: Singular matrix in Invert_RtR
+ERROR: Singular matrix in Invert_RtR
+ERROR: Singular matrix in Invert_RtR
+ERROR: Singular matrix in Invert_RtR
+ERROR: Singular matrix in Invert_RtR
+ERROR: Singular matrix in Invert_RtR
+ERROR: Singular matrix in Invert_RtR
+ERROR: Singular matrix in Invert_RtR
+ERROR: Singular matrix in Invert_RtR
+ERROR: Singular matrix in Invert_RtR
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 2.99988          +/- 0.000344     (0.01147%)
+b               = 590.605          +/- 7.816e+08    (1.323e+08%)
+c               = 1.49856          +/- 1.773e+05    (1.183e+07%)
+d               = 31.9554          +/- 16.62        (52.01%)
+e               = 0.112328         +/- 0.08066      (71.81%)
+a_1             = -9.39746         +/- 1.187e+10    (1.263e+11%)
+b_1             = 0.115065         +/- 1.187e+10    (1.032e+13%)
+c_1             = 0.0507544        +/- 1.187e+10    (2.339e+13%)
+d_1             = 0.486576         +/- 1.187e+10    (2.44e+12%)
+e_1             = 0.432895         +/- 1.187e+10    (2.742e+12%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      d      e      a_1    b_1    c_1    d_1    e_1    
+a               1.000 
+b               0.024  1.000 
+c              -0.024 -1.000  1.000 
+d              -0.277  0.318 -0.318  1.000 
+e               0.519 -0.272  0.272 -0.957  1.000 
+a_1             0.000  0.000  0.000  0.000  0.000  1.000 
+b_1             0.000  0.000  0.000  0.000  0.000  0.000  1.000 
+c_1             0.000  0.000  0.000  0.000  0.000  0.000  0.000  1.000 
+d_1             0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000  1.000 
+e_1             0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000  1.000 
+
+
+Number of steps: 41.
+Total elapsed time of the fitting: 208.19 sec.
+Average time of a step: 5.0777 sec.
+Elapsed time of function evaluations: 141.9 sec (68.159 %).
+Clearing FIT_LOG script: FIT_LOG.
+Fitting all parameters using ML:
+WSSR value before ML fit: 2525.3
+
+
+ Iteration 0
+ WSSR        : 2525.26           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-09
+ lambda	  : 60.0142
+
+initial set of free parameter values
+
+a               = 2.99988
+b               = 590.605
+c               = 1.49856
+d               = 31.9554
+e               = 0.112328
+a_1             = -9.39746
+b_1             = 0.115065
+c_1             = 0.0507544
+d_1             = 0.486576
+e_1             = 0.432895
+i_s0_0          = 44.4179
+i_s0_1          = 81.9987
+i_s0_2          = 98.5608
+i_s0_3          = 64.7142
+i_s0_4          = 115.92
+i_max_0         = 2533.45
+i_max_1         = 319.727
+i_max_2         = 151.869
+i_max_3         = 136.856
+i_max_4         = 87.0124
+?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*?10%?10%!5%!1%!!*
+After 1 iterations the fit converged.
+final sum of squares of residuals : 2525.26
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 1782
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.19042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.41709
+
+ERROR: Singular matrix in Invert_RtR
+ERROR: Singular matrix in Invert_RtR
+ERROR: Singular matrix in Invert_RtR
+ERROR: Singular matrix in Invert_RtR
+ERROR: Singular matrix in Invert_RtR
+ERROR: Singular matrix in Invert_RtR
+ERROR: Singular matrix in Invert_RtR
+ERROR: Singular matrix in Invert_RtR
+ERROR: Singular matrix in Invert_RtR
+ERROR: Singular matrix in Invert_RtR
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 2.99988          +/- 0.0005316    (0.01772%)
+b               = 590.605          +/- 2.953e+09    (5e+08%)
+c               = 1.49856          +/- 6.701e+05    (4.472e+07%)
+d               = 31.9554          +/- 18.26        (57.15%)
+e               = 0.112328         +/- 0.09156      (81.51%)
+a_1             = -9.39746         +/- 1.19e+10     (1.267e+11%)
+b_1             = 0.115065         +/- 1.19e+10     (1.035e+13%)
+c_1             = 0.0507544        +/- 1.19e+10     (2.345e+13%)
+d_1             = 0.486576         +/- 1.19e+10     (2.447e+12%)
+e_1             = 0.432895         +/- 1.19e+10     (2.75e+12%)
+i_s0_0          = 44.4179          +/- 0.001078     (0.002427%)
+i_s0_1          = 81.9987          +/- 0.003555     (0.004336%)
+i_s0_2          = 98.5608          +/- 0.006374     (0.006467%)
+i_s0_3          = 64.7142          +/- 0.007011     (0.01083%)
+i_s0_4          = 115.92           +/- 0.014        (0.01208%)
+i_max_0         = 2533.45          +/- 169.3        (6.684%)
+i_max_1         = 319.727          +/- 13.86        (4.334%)
+i_max_2         = 151.869          +/- 8.764        (5.771%)
+i_max_3         = 136.856          +/- 8.825        (6.449%)
+i_max_4         = 87.0124          +/- 7.574        (8.704%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      d      e      a_1    b_1    c_1    d_1    e_1    i_s0_0 i_s0_1 i_s0_2 i_s0_3 i_s0_4 i_max_ i_max_ i_max_ i_max_ i_max_ 
+a               1.000 
+b               0.171  1.000 
+c              -0.171 -1.000  1.000 
+d              -0.349  0.165 -0.165  1.000 
+e               0.543 -0.143  0.143 -0.961  1.000 
+a_1             0.000  0.000 -0.000 -0.000  0.000  1.000 
+b_1            -0.000 -0.000  0.000  0.000 -0.000 -0.000  1.000 
+c_1            -0.000 -0.000  0.000  0.000 -0.000 -0.000  0.000  1.000 
+d_1             0.000  0.000 -0.000 -0.000  0.000  0.000 -0.000 -0.000  1.000 
+e_1            -0.000 -0.000  0.000  0.000 -0.000 -0.000  0.000  0.000 -0.000  1.000 
+i_s0_0         -0.143 -0.532  0.532  0.080 -0.076 -0.000  0.000  0.000 -0.000  0.000  1.000 
+i_s0_1          0.040 -0.138  0.138  0.091 -0.098 -0.000  0.000  0.000 -0.000  0.000  0.135  1.000 
+i_s0_2          0.036 -0.048  0.048  0.076 -0.086 -0.000  0.000  0.000 -0.000  0.000  0.062  0.080  1.000 
+i_s0_3          0.099  0.038 -0.038 -0.000 -0.006  0.000 -0.000 -0.000  0.000 -0.000 -0.015  0.050  0.044  1.000 
+i_s0_4          0.032  0.035 -0.035 -0.016 -0.008  0.000 -0.000 -0.000  0.000 -0.000 -0.022  0.036  0.034  0.037  1.000 
+i_max_0        -0.160 -0.962  0.962 -0.082  0.075 -0.000  0.000  0.000 -0.000  0.000  0.595  0.166  0.066 -0.031 -0.034  1.000 
+i_max_1         0.146 -0.324  0.324  0.062 -0.048 -0.000  0.000  0.000 -0.000  0.000  0.246  0.261  0.116  0.070  0.044  0.355  1.000 
+i_max_2         0.225 -0.168  0.168  0.056 -0.035 -0.000  0.000  0.000 -0.000  0.000  0.140  0.154  0.191  0.084  0.055  0.196  0.255  1.000 
+i_max_3         0.482  0.110 -0.110 -0.063  0.103  0.000 -0.000 -0.000  0.000 -0.000 -0.054  0.131  0.113  0.167  0.090 -0.087  0.210  0.258  1.000 
+i_max_4         0.748  0.198 -0.198 -0.241  0.316  0.000 -0.000 -0.000  0.000 -0.000 -0.143  0.119  0.110  0.156  0.129 -0.186  0.210  0.289  0.542  1.000 
+
+
+Number of steps: 60.
+Total elapsed time of the fitting: 281.36 sec.
+Average time of a step: 4.6894 sec.
+Elapsed time of function evaluations: 207.23 sec (73.653 %).
+Warning: empty z range [0:0], adjusting to [-1:1]
+Warning: empty z range [0:0], adjusting to [-1:1]
+Warning: empty z range [0:0], adjusting to [-1:1]
+Warning: empty z range [0:0], adjusting to [-1:1]
+CMWP_ALL_OK
