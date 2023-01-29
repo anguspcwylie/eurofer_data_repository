@@ -1,0 +1,81 @@
+[General]
+Version=5.0
+Date=01/11/2021
+Time=17:39:56
+Description=EFRW Stitch
+Author=AZtec
+JobMode=RegularGrid
+SampleSymmetry=
+ProjectFile=C:\Users\apcwy\Dropbox (The University of Manchester)\Physics PhD\Lab Work\SEM\Tescan\EFRW Stitch New\EFRW Stitch\EFRW Stitch.oip
+Notes=Scan from molten zone of weld to parent material 
+ProjectNotes=Eurofer Steel   
+
+Duration=0:43:1
+PerCycle=0.003629885
+
+[Job]
+Magnification=2768
+kV=20
+TiltAngle=69.9999381994952
+TiltAxis=0.00
+Coverage=80.54644
+Device=Beam
+Automatic=True
+NoOfPoints=711263
+GridDistX=0.102962427745665
+GridDistY=0.102962427745665
+GridDist=0.102962427745665
+xCells=973
+yCells=731
+
+[SEMFields]
+DOEuler1=0.409957637658029
+DOEuler2=90.6176260972793
+DOEuler3=0.817892801572128
+
+[StagePosition]
+XPos=-3.01031
+YPos=-30.69312
+ZPos=53.60698
+RPos=89
+TPos=69.9999381994952
+ZValid=True
+
+[Acquisition Surface]
+Euler1=90.0
+Euler2=90.0
+Euler3=0.0
+
+[Fields]
+Count=9
+Field1=3
+Field2=4
+Field3=5
+Field4=6
+Field5=7
+Field6=8
+Field7=10
+Field8=11
+Field9=12
+
+[Phases]
+Count=1
+
+[Phase1]
+StructureName=Iron bcc (old)
+Reference=J. Appl. Phys. [JAPIAU], vol. 42, pages 4290-95
+Enabled=True
+a=2.8659999370575
+b=2.8659999370575
+c=2.8659999370575
+alpha=90
+beta=90
+gamma=90
+LaueGroup=11
+SpaceGroup=229
+ID1=
+ID2=
+NumberOfReflectors=43
+
+[EDX Windows]
+Count=0
